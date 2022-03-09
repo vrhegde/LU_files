@@ -1,0 +1,50 @@
+# The flat dictionaries vs inherited objects problem.
+
+In modelling the realationship petween medicines and their indications (or side effects) we can use two approaches. 
+
+The first would be to list all indications for each medicine. Due to class level effects the following problems arise
+           --> information duplication as most members will have same effects 
+           --> Explosion of database as number of connections increase 
+           --> Will have to explicitly specify relationships everytime a new, so difficult to update
+                            
+The second would be to use objects and inheritance. This way knowledge can actually be modeled. Butproblems arise because
+     --> Not every clild of a class inherits every one of the class indications or side effects
+  Poss solution: Use composition insted of inheritance (will need to explore this further)
+  
+  
+  # types of relationships between data
+  If A than B.   Example( if prostate problem than patient is male, If MI than patient has CAD). Condition B is necessary,but not sufficient for A.
+  
+  If A then B and If B than A. The two conditions are equivalent (I cannot think of an example yet). Condition B is both necessary and sufficient for A.
+  
+  If A maybe B.  example (if DM than renal failure). DM is neigther necessary or sufficient for renal failure, but increases its likelyhood.
+     If the output is binary (presence or absence of DM) than use a classification tree, if continous, use a regression tree.
+  
+  If A or B or C than D. This will be a combined or type of logic.
+  
+  Ultimately, all of these realtionships would be easier to model using a network like structure. 
+  
+  
+  # Object types
+  The number of atomic objects should be limited and each object whould be a combination of different parts.
+  
+  Two basic type of objects: 
+       --> Objects that always exist (even if not looked for) such as serum potassium level and blood pressure. Default can be set to normal.
+       --> Objects that sometimes exist such as medications and diseases. Default set to does not exist.
+       
+  Systemic ve local attribute. Meds can be either systemic or local. PO and IV will be systemic. Derm, ophth, inhaled, MDI will all be topical. 
+  Infection can be systemic or local. Also, can have both components. HSV encephalitis and labialis both have systemic and local implications. 
+  
+  # Use of functions
+  I will write many simple functions. These functions will be composed into objects. Need more thoughts .......
+  
+  
+  # Interface between input text data and data to be used within the program
+  I will need a method that translates the string of input data into its representation within the program. 
+  This will be a part of data preprocessing and run only at the begining of the program.
+  This will be needed regardless of weather the subsequent programing is imperetive, object oriented, or functional.
+  
+  
+  
+  
+     
