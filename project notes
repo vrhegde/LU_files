@@ -24,6 +24,14 @@ The second would be to use objects and inheritance. This way knowledge can actua
   
   Ultimately, all of these realtionships would be easier to model using a network like structure. 
   
+  # Ordinal data:
+      Related diseases can be a part of the same ordinal entity, for example AMI, ACS, UA are all part of cardiac ischemia.
+      And single disease entity such as CRI can have different ordinal levels. Thus is_ordinal should be an attribute with a default level.
+      For age related diseases such as cri and CHF, we can use age to calculate a default.
+      
+  # Pointer object:
+      If an entity A is equivalent to entitiy B, B just points to A
+      if entity A is clse to B, a
   
   # Object types
   The number of atomic objects should be limited and each object whould be a combination of different parts.
@@ -32,8 +40,9 @@ The second would be to use objects and inheritance. This way knowledge can actua
        --> Objects that always exist (even if not looked for) such as serum potassium level and blood pressure. Default can be set to normal.
        --> Objects that sometimes exist such as medications and diseases. Default set to does not exist.
        
-  Systemic ve local attribute. Meds can be either systemic or local. PO and IV will be systemic. Derm, ophth, inhaled, MDI will all be topical. 
-  Infection can be systemic or local. Also, can have both components. HSV encephalitis and labialis both have systemic and local implications. 
+  # Systemic ve local attribute:
+      Meds can be either systemic or local. PO and IV will be systemic. Derm, ophth, inhaled, MDI will all be topical. 
+     Infection can be systemic or local. Also, can have both components. HSV encephalitis and labialis both have systemic and local implications. 
   
   # Use of functions
   I will write many simple functions. These functions will be composed into objects. Need more thoughts .......
