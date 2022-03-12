@@ -56,4 +56,20 @@ The second would be to use objects and inheritance. This way knowledge can actua
   
   
   
+  
+  
+  Cleanup of indications column
+  Goal: 
+  1. ensure that the entities in the indications column are spelled correctly.
+  2. for diseases such as crohn's, spell them without the apostrophe (otherwise may be problamatic in string splitting)
+  3. remove all abbreviations.
+  4. Remove all caps.
+  All abbreviations, alternate spellings, and shortened forms in the input will be identified and will point to these core entities. Ensuring correst spelling 
+  ensures that mistakes are not propogated. removing caps will make the mapping case insensitive.
+  
+  
+
+
+  
+  
      
