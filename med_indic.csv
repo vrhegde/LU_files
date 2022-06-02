@@ -1,0 +1,5510 @@
+med,indication
+abciximab,coronary artery disease
+abciximab,acute coronary syndrome
+abciximab,myocardial infarction
+eptifibatide,coronary artery disease
+eptifibatide,acute coronary syndrome
+eptifibatide,myocardial infarction
+tirofiban,coronary artery disease
+tirofiban,acute coronary syndrome
+tirofiban,myocardial infarction
+dutasteride,hirsutism
+dutasteride,prostatic neoplasms
+dutasteride,prostatic neoplasms
+dutasteride,alopecia
+dutasteride,prostatic hyperplasia
+finasteride,hirsutism
+finasteride,prostatic neoplasms
+finasteride,prostatic neoplasms
+finasteride,alopecia
+finasteride,prostatic hyperplasia
+balsalazide,ulcerative colitis
+balsalazide,crohns disease
+mesalamine,ulcerative colitis
+mesalamine,crohns disease
+sulfasalazine,rheumatoid arthritis
+sulfasalazine,rheumatoid arthritis
+sulfasalazine,crohns disease
+sulfasalazine,ankylosing spondylitis
+sulfasalazine,ulcerative colitis
+sulfasalazine,ulcerative colitis
+sulfasalazine,juvenile arthritis
+olsalazine,ulcerative colitis
+olsalazine,crohns disease
+lorcaserin,obesity
+alosetron,nausea
+alosetron,vomiting
+alosetron,gastroparesis
+alosetron,diarrhea
+alosetron,irritable bowel syndrome
+granisetron,nausea
+granisetron,vomiting
+granisetron,gastroparesis
+palonosetron,nausea
+palonosetron,vomiting
+palonosetron,gastroparesis
+ondansetron,nausea
+ondansetron,vomiting
+ondansetron,gastroparesis
+prucalopride,constipation
+benazepril,congestive heart failure
+benazepril,raynaud disease
+benazepril,hypertension
+benazepril,left ventricular hypertrophy
+benazepril,bartter disease
+benazepril,coronary artery disease
+benazepril,diabetic nephropathy
+benazepril,systemic scleroderma
+benazepril,systemic lupus erythematosus
+benazepril,dilated cardiomyopathy
+benazepril,left ventricular hypertrophy
+captopril,congestive heart failure
+captopril,rheumatoid arthritis
+captopril,raynaud disease
+captopril,hypertension
+captopril,left ventricular hypertrophy
+captopril,bartter disease
+captopril,coronary artery disease
+captopril,diabetic nephropathy
+captopril,systemic scleroderma
+captopril,rheumatoid arthritis
+enalapril,congestive heart failure
+enalapril,raynaud disease
+enalapril,hypertension
+enalapril,left ventricular hypertrophy
+enalapril,bartter disease
+enalapril,coronary artery disease
+enalapril,diabetic nephropathy
+enalapril,systemic scleroderma
+enalapril,systemic lupus erythematosus
+enalapril,dilated cardiomyopathy
+enalapril,left ventricular hypertrophy
+lisinopril,congestive heart failure
+lisinopril,raynaud disease
+lisinopril,hypertension
+lisinopril,left ventricular hypertrophy
+lisinopril,bartter disease
+lisinopril,coronary artery disease
+lisinopril,diabetic nephropathy
+lisinopril,systemic scleroderma
+lisinopril,systemic lupus erythematosus
+lisinopril,dilated cardiomyopathy
+lisinopril,left ventricular hypertrophy
+moexipril,congestive heart failure
+moexipril,raynaud disease
+moexipril,hypertension
+moexipril,left ventricular hypertrophy
+moexipril,bartter disease
+moexipril,coronary artery disease
+moexipril,diabetic nephropathy
+moexipril,systemic scleroderma
+moexipril,systemic lupus erythematosus
+moexipril,dilated cardiomyopathy
+moexipril,left ventricular hypertrophy
+quinapril,congestive heart failure
+quinapril,raynaud disease
+quinapril,hypertension
+quinapril,left ventricular hypertrophy
+quinapril,bartter disease
+quinapril,coronary artery disease
+quinapril,diabetic nephropathy
+quinapril,systemic scleroderma
+quinapril,systemic lupus erythematosus
+quinapril,dilated cardiomyopathy
+quinapril,left ventricular hypertrophy
+ramipril,congestive heart failure
+ramipril,raynaud disease
+ramipril,hypertension
+ramipril,left ventricular hypertrophy
+ramipril,bartter disease
+ramipril,coronary artery disease
+ramipril,diabetic nephropathy
+ramipril,systemic scleroderma
+ramipril,systemic lupus erythematosus
+ramipril,dilated cardiomyopathy
+ramipril,left ventricular hypertrophy
+enalaprilat,congestive heart failure
+enalaprilat,raynaud disease
+enalaprilat,hypertension
+enalaprilat,left ventricular hypertrophy
+enalaprilat,bartter disease
+enalaprilat,coronary artery disease
+enalaprilat,diabetic nephropathy
+enalaprilat,systemic scleroderma
+enalaprilat,systemic lupus erythematosus
+enalaprilat,dilated cardiomyopathy
+enalaprilat,left ventricular hypertrophy
+fosinopril,congestive heart failure
+fosinopril,raynaud disease
+fosinopril,hypertension
+fosinopril,left ventricular hypertrophy
+fosinopril,bartter disease
+fosinopril,coronary artery disease
+fosinopril,diabetic nephropathy
+fosinopril,systemic scleroderma
+fosinopril,systemic lupus erythematosus
+fosinopril,dilated cardiomyopathy
+fosinopril,left ventricular hypertrophy
+perindopril,congestive heart failure
+perindopril,raynaud disease
+perindopril,hypertension
+perindopril,left ventricular hypertrophy
+perindopril,bartter disease
+perindopril,coronary artery disease
+perindopril,diabetic nephropathy
+perindopril,systemic scleroderma
+perindopril,systemic lupus erythematosus
+perindopril,dilated cardiomyopathy
+perindopril,left ventricular hypertrophy
+trandolapril,congestive heart failure
+trandolapril,raynaud disease
+trandolapril,hypertension
+trandolapril,left ventricular hypertrophy
+trandolapril,bartter disease
+trandolapril,coronary artery disease
+trandolapril,diabetic nephropathy
+trandolapril,systemic scleroderma
+trandolapril,systemic lupus erythematosus
+trandolapril,dilated cardiomyopathy
+trandolapril,left ventricular hypertrophy
+acetaminophen,migraine
+acetaminophen,osteoarthritis
+acetaminophen,fever
+acetaminophen,pain
+acetic acid,not_found
+acetylcholine,headache
+conivaptan,hyponatremia
+tolvaptan,hyponatremia
+diethylpropion,obesity
+dobutamine,heart failure with reduced ejection fraction
+ephedrine,asthma
+ephedrine,allergic rhinitis
+ephedrine,asthma
+ephedrine,rhinitis
+ephedrine,bronchospasm
+ephedrine,orthostatic hypotension
+norepinephrine,shock
+norepinephrine,hypotension
+phendimetrazine,obesity
+phenylephrine,anal pruritus
+phenylephrine,anal fissure
+phenylephrine,hemorrhoids
+phenylephrine,hypotension
+phenylephrine,rhinitis
+phenylephrine,glaucoma
+phenylephrine,paroxysmal supraventricular tachycardia
+phenylephrine,supraventricular tachycardia
+phenylephrine,glaucoma
+phenylephrine,septic shock
+pseudoephedrine,sinusitis
+pseudoephedrine,asthma
+pseudoephedrine,allergic rhinitis
+pseudoephedrine,rhinitis
+pseudoephedrine,common cold
+"albumin human, usp",hypoalbuminemia
+"albumin human, usp",nephrotic syndrome
+"albumin human, usp",shock
+fomepizole,methanol poisioning
+fomepizole,ethelyn glycol poisioning
+bendamustine,chronic lymphocytic leukemia
+bendamustine,multiple myeloma
+bendamustine,non-hodgkins lymphoma
+carmustine,hodgkin disease
+carmustine,ependymoma
+carmustine,lymphoma
+carmustine,melanoma
+carmustine,malignant glioma
+carmustine,lung neoplasms
+carmustine,colorectal neoplasms
+carmustine,brain neoplasms
+carmustine,medulloblastoma
+carmustine,hematologic cancer
+carmustine,lymphatic system cancer
+carmustine,melanoma
+carmustine,skin cancer
+carmustine,not_found
+carmustine,multiple myeloma
+carmustine,glioblastoma
+carmustine,carcinoma
+carmustine,hodgkin disease
+carmustine,ependymoma
+carmustine,lymphoma
+carmustine,melanoma
+carmustine,malignant glioma
+carmustine,lung neoplasms
+carmustine,colorectal neoplasms
+carmustine,brain neoplasms
+carmustine,medulloblastoma
+carmustine,hematologic cancer
+carmustine,lymphatic system cancer
+carmustine,melanoma
+carmustine,skin cancer
+carmustine,not_found
+carmustine,multiple myeloma
+carmustine,glioblastoma
+carmustine,carcinoma
+estramustine,prostatic neoplasms
+estramustine,prostatic neoplasms
+estramustine,prostatic neoplasms
+estramustine,prostatic neoplasms
+lomustine,kidney neoplasm
+lomustine,hodgkin disease
+lomustine,lymphoma
+lomustine,melanoma
+lomustine,colorectal neoplasms
+lomustine,lung neoplasms
+lomustine,kidney neoplasm
+lomustine,brain neoplasms
+lomustine,melanoma
+lomustine,hematologic cancer
+lomustine,skin cancer
+lomustine,not_found
+lomustine,kidney neoplasm
+lomustine,hodgkin disease
+lomustine,lymphoma
+lomustine,melanoma
+lomustine,colorectal neoplasms
+lomustine,lung neoplasms
+lomustine,kidney neoplasm
+lomustine,brain neoplasms
+lomustine,melanoma
+lomustine,hematologic cancer
+lomustine,skin cancer
+lomustine,not_found
+cyclophosphamide,retinoblastoma
+cyclophosphamide,endometrial neoplasms
+cyclophosphamide,neuroblastoma
+cyclophosphamide,lymphoma
+cyclophosphamide,leukemias
+cyclophosphamide,lupus nephritis
+cyclophosphamide,multiple sclerosis
+cyclophosphamide,granulomatosis with polyangiitis
+cyclophosphamide,ewings sarcoma
+cyclophosphamide,mycosis fungoides
+cyclophosphamide,malignancy
+cyclophosphamide,ovarian neoplasm
+cyclophosphamide,testicular neoplasms
+cyclophosphamide,idiopathic thrombocytopenic purpura
+cyclophosphamide,autoimmune hemolytic anemia
+cyclophosphamide,multiple myeloma
+cyclophosphamide,rhabdomyosarcoma
+cyclophosphamide,pure red-cell aplasia
+cyclophosphamide,hemosiderosis
+cyclophosphamide,lung neoplasms
+cyclophosphamide,rheumatism
+cyclophosphamide,hodgkin disease
+cyclophosphamide,nephrotic syndrome
+cyclophosphamide,myasthenia gravis
+cyclophosphamide,waldenstrom macroglobulinemia
+cyclophosphamide,retinoblastoma
+cyclophosphamide,endometrial neoplasms
+cyclophosphamide,neuroblastoma
+cyclophosphamide,lymphoma
+cyclophosphamide,leukemias
+cyclophosphamide,lupus nephritis
+cyclophosphamide,multiple sclerosis
+cyclophosphamide,granulomatosis with polyangiitis
+cyclophosphamide,ewings sarcoma
+cyclophosphamide,mycosis fungoides
+cyclophosphamide,malignancy
+cyclophosphamide,ovarian neoplasm
+cyclophosphamide,testicular neoplasms
+cyclophosphamide,idiopathic thrombocytopenic purpura
+cyclophosphamide,autoimmune hemolytic anemia
+cyclophosphamide,multiple myeloma
+cyclophosphamide,rhabdomyosarcoma
+cyclophosphamide,pure red-cell aplasia
+cyclophosphamide,hemosiderosis
+cyclophosphamide,lung neoplasms
+cyclophosphamide,rheumatism
+cyclophosphamide,hodgkin disease
+cyclophosphamide,nephrotic syndrome
+cyclophosphamide,myasthenia gravis
+cyclophosphamide,waldenstrom macroglobulinemia
+procarbazine,hodgkin disease
+procarbazine,lymphoma
+procarbazine,melanoma
+procarbazine,lung neoplasms
+procarbazine,brain neoplasms
+procarbazine,lung neoplasms
+procarbazine,hematologic cancer
+procarbazine,melanoma
+procarbazine,skin cancer
+procarbazine,not_found
+procarbazine,multiple myeloma
+procarbazine,hodgkin disease
+procarbazine,lymphoma
+procarbazine,melanoma
+procarbazine,lung neoplasms
+procarbazine,brain neoplasms
+procarbazine,lung neoplasms
+procarbazine,hematologic cancer
+procarbazine,melanoma
+procarbazine,skin cancer
+procarbazine,not_found
+procarbazine,multiple myeloma
+temozolomide,skin cancer
+temozolomide,melanoma
+temozolomide,malignant glioma
+temozolomide,not_found
+temozolomide,skin cancer
+temozolomide,melanoma
+temozolomide,malignant glioma
+temozolomide,not_found
+phentolamine,pheochromocytoma
+phentolamine,hypertension
+phentolamine,complex regional pain syndrome
+phenoxybenzamine,pheochromocytoma
+phenoxybenzamine,urinary incontinence
+phenoxybenzamine,bladder neck obstruction
+phenoxybenzamine,complex regional pain syndrome
+phenoxybenzamine,hypertension
+phenoxybenzamine,urinary incontinence
+phenoxybenzamine,bladder neck obstruction
+phenoxybenzamine,not_found
+miglitol,diabetes mellitus
+silodosin,prostatic neoplasms
+silodosin,prostatic hyperplasia
+silodosin,urinary retention
+silodosin,benign prostatic hyperplasia
+prazosin,prostatic neoplasms
+prazosin,prostatic hyperplasia
+prazosin,urinary retention
+prazosin,benign prostatic hyperplasia
+terazosin,hypertension
+terazosin,hypertension
+terazosin,prostatic neoplasms
+terazosin,prostatic hyperplasia
+terazosin,urinary retention
+terazosin,benign prostatic hyperplasia
+alfuzosin,prostatic neoplasms
+alfuzosin,prostatic hyperplasia
+alfuzosin,urinary retention
+alfuzosin,benign prostatic hyperplasia
+doxazosin,hypertension
+doxazosin,hypertension
+doxazosin,prostatic neoplasms
+doxazosin,prostatic hyperplasia
+doxazosin,urinary retention
+doxazosin,benign prostatic hyperplasia
+tamsulosin,hypertension
+tamsulosin,hypertension
+tamsulosin,prostatic neoplasms
+tamsulosin,prostatic hyperplasia
+tamsulosin,urinary retention
+tamsulosin,benign prostatic hyperplasia
+apraclonidine,glaucoma
+guanabenz,hypertension
+guanabenz,hypertension
+acarbose,diabetes mellitus
+acarbose,diabetes mellitus
+arginine,acidosis
+arginine,alkalosis
+arginine,pituitary diseases
+glutamine,short bowel syndrome
+glycine,peptic ulcer
+amikacin,gram negative infections
+amikacin,acinetobacter
+amikacin,mycobacterium
+gentamicin,tuberculosis
+gentamicin,gram negative infections
+aminolevulinic acid,not_found
+dalfampridine,multiple sclerosis
+ammonia,insect bites
+benzphetamine,attention deficit hyperactivity disorder
+benzphetamine,obesity
+benzphetamine,narcolepsy
+benzphetamine,attention deficit hyperactive disorder
+benzphetamine,narcolepsy
+benzphetamine,obesity
+dextroamphetamine,attention deficit hyperactivity disorder
+dextroamphetamine,obesity
+dextroamphetamine,narcolepsy
+dextroamphetamine,attention deficit hyperactive disorder
+dextroamphetamine,narcolepsy
+dextroamphetamine,obesity
+lisdexamfetamine,attention deficit hyperactivity disorder
+lisdexamfetamine,obesity
+lisdexamfetamine,narcolepsy
+lisdexamfetamine,attention deficit hyperactive disorder
+lisdexamfetamine,narcolepsy
+lisdexamfetamine,obesity
+amphetamine,attention deficit hyperactivity disorder
+amphetamine,obesity
+amphetamine,narcolepsy
+amphetamine,attention deficit hyperactive disorder
+amphetamine,narcolepsy
+amphetamine,obesity
+methamphetamine,attention deficit hyperactivity disorder
+methamphetamine,obesity
+methamphetamine,narcolepsy
+methamphetamine,attention deficit hyperactive disorder
+methamphetamine,narcolepsy
+methamphetamine,obesity
+pramlintide,diabetes mellitus
+danazol,osteoporosis
+danazol,growth disorders
+danazol,emaciation
+danazol,anemia
+danazol,hypogonadism
+danazol,breast fibrocystic disease
+fluoxymesterone,osteoporosis
+fluoxymesterone,growth disorders
+fluoxymesterone,emaciation
+fluoxymesterone,anemia
+fluoxymesterone,hypogonadism
+fluoxymesterone,breast cancer
+oxandrolone,osteoporosis
+oxandrolone,growth disorders
+oxandrolone,emaciation
+oxandrolone,anemia
+oxandrolone,hypogonadism
+oxymetholone,osteoporosis
+oxymetholone,growth disorders
+oxymetholone,emaciation
+oxymetholone,anemia
+oxymetholone,hypogonadism
+anagrelide,essential thrombocytosis
+benoxinate,local pain
+desflurane,general anesthesia
+etomidate,brain ischemia
+etomidate,status epilepticus
+etomidate,epilepsy syndrome
+etomidate,pain
+etomidate,closed head injuries
+etomidate,seizures
+isoflurane,general anesthesia
+ketamine,general anesthesia
+ketamine,conscious sedation
+ketamine,pain
+ketamine,anasthesia
+ketamine,depression
+nitrous oxide,general anesthesia
+nitrous oxide,conscious sedation
+propofol,status epilepticus
+propofol,epilepsy syndrome
+propofol,seizures
+propofol,alcohol withdrawal
+propofol,conscious sedation
+sevoflurane,general anesthesia
+sodium bicarbonate,dyspepsia
+sodium bicarbonate,acidosis
+ivermectin,enterobiasis
+ivermectin,trichuris trichiura
+ivermectin,onchocerciasis
+ivermectin,ascariasis
+ivermectin,elephantiasis
+ivermectin,mansonelliasis
+ivermectin,strongyloidiasis
+ivermectin,scabies
+lodoxamide,keratoconjunctivitis
+lumefantrine,malaria
+atovaquone,pneumocystis jiroveci
+atovaquone,toxoplasmosis cerebral
+atovaquone,pneumocystis jiroveci
+atovaquone,toxoplasmosis cerebral
+abiraterone,hirsutism
+abiraterone,not_found
+abiraterone,prostatic neoplasms
+abiraterone,prostatic neoplasms
+bicalutamide,hirsutism
+bicalutamide,not_found
+bicalutamide,prostatic neoplasms
+bicalutamide,prostatic neoplasms
+enzalutamide,hirsutism
+enzalutamide,not_found
+enzalutamide,prostatic neoplasms
+enzalutamide,prostatic neoplasms
+flutamide,hirsutism
+flutamide,not_found
+flutamide,prostatic neoplasms
+flutamide,prostatic neoplasms
+nilutamide,hirsutism
+nilutamide,not_found
+nilutamide,prostatic neoplasms
+nilutamide,prostatic neoplasms
+ranolazine,chronic angina
+amiodarone,paroxysmal supraventricular tachycardia
+amiodarone,supraventricular tachycardia
+amiodarone,ventricular fibrillation
+amiodarone,ventricular fibrillation
+amiodarone,atrial fibrillation
+amiodarone,atrial fibrillation
+amiodarone,atrial flutter
+amiodarone,atrial flutter
+amiodarone,ventricular tachycardia
+amiodarone,ventricular tachycardia
+disopyramide,atrial fibrillation
+disopyramide,atrial fibrillation
+disopyramide,atrial premature complexes
+disopyramide,atrial flutter
+disopyramide,ventricular tachycardia
+disopyramide,premature ventricular contraction
+dofetilide,atrial fibrillation
+dofetilide,atrial fibrillation
+dofetilide,atrial flutter
+dofetilide,not_found
+dofetilide,atrial flutter
+dronedarone,atrial fibrillation
+dronedarone,atrial fibrillation
+dronedarone,atrial flutter
+dronedarone,not_found
+dronedarone,atrial flutter
+flecainide,paroxysmal supraventricular tachycardia
+flecainide,supraventricular tachycardia
+flecainide,ventricular fibrillation
+flecainide,ventricular fibrillation
+flecainide,atrial fibrillation
+flecainide,atrial fibrillation
+flecainide,atrial flutter
+flecainide,atrial flutter
+flecainide,ventricular tachycardia
+flecainide,ventricular tachycardia
+"ibuti, bacterial infectionslide",atrial fibrillation
+"ibuti, bacterial infectionslide",atrial fibrillation
+"ibuti, bacterial infectionslide",atrial flutter
+"ibuti, bacterial infectionslide",not_found
+"ibuti, bacterial infectionslide",atrial flutter
+mexiletine,premature ventricular contraction
+mexiletine,chronic pain
+mexiletine,ventricular fibrillation
+mexiletine,ventricular fibrillation
+mexiletine,myotonia
+procainamide,paroxysmal supraventricular tachycardia
+procainamide,supraventricular tachycardia
+procainamide,ventricular fibrillation
+procainamide,ventricular fibrillation
+procainamide,atrial fibrillation
+procainamide,atrial fibrillation
+procainamide,atrial flutter
+procainamide,atrial flutter
+procainamide,ventricular tachycardia
+procainamide,ventricular tachycardia
+propafenone,atrial fibrillation
+propafenone,atrial fibrillation
+propafenone,paroxysmal supraventricular tachycardia
+propafenone,supraventricular tachycardia
+chloramphenicol,bacteroides
+chloramphenicol,streptococcus
+chloramphenicol,meningococcal meningitis
+chloramphenicol,rickettsia infections
+chloramphenicol,haemophilus
+chloramphenicol,salmonella infections
+chloramphenicol,otitis externa
+chloramphenicol,bacterial infection
+bedaquiline,tuberculosis
+bedaquiline,bacterial infection
+capreomycin,tuberculosis
+capreomycin,bacterial infection
+cycloserine,tuberculosis
+cycloserine,bacterial infection
+"rifabuti, bacterial infectionsn",mycobacterium
+"rifabuti, bacterial infectionsn",acquired immunodeficiency syndrome
+"rifabuti, bacterial infectionsn",tuberculosis
+"rifabuti, bacterial infectionsn",bacterial infection
+rifampicin,lepromatous leprosy
+rifampicin,tuberculosis
+rifampicin,mycobacterium
+rifampicin,bacterial infection
+rifampin,tuberculosis
+rifampin,brucellosis
+rifampin,staphylococcus
+rifampin,lepromatous leprosy
+rifampin,meningococcal meningitis
+rifampin,haemophilus
+rifampin,legionnaires disease
+rifampin,bacterial infection
+rifapentine,tuberculosis
+rifapentine,bacterial infection
+bacitracin,cellulitis
+bacitracin,wound infection
+bacitracin,bacterial conjunctivitis
+bacitracin,bacterial infection
+clavulanate,bacterial infection
+clavulanate,otitis media
+clavulanate,haemophilus
+clavulanate,staphylococcus
+clavulanate,bacterial infection
+colistimethate,gram negative infections
+colistimethate,bacterial infection
+colistin,gram negative infections
+colistin,bacterial infection
+dalbavancin,gram positive infections
+dalbavancin,bacterial infection
+dalfopristin,gram positive infections
+dalfopristin,bacterial infection
+daptomycin,cellulitis
+daptomycin,bacteremia
+daptomycin,bacterial infection
+ethionamide,tuberculosis
+ethionamide,bacterial infection
+fosfomycin,gram negative infections
+fosfomycin,bacterial infection
+lincomycin,pneumococcus
+lincomycin,staphylococcus
+lincomycin,bacterial infection
+linezolid,bacterial infection
+natamycin,trichomonas vaginitis
+natamycin,conjunctivitis
+natamycin,cryptococcosis
+natamycin,candidiasis
+natamycin,coccidioidomycosis
+natamycin,blepharitis
+natamycin,sporotrichosis
+natamycin,microsporidiosis
+natamycin,aspergillosis
+natamycin,keratitis
+natamycin,histoplasmosis
+natamycin,blastomycosis
+natamycin,bacterial infection
+neomycin,cellulitis
+neomycin,bacterial infection
+neomycin,escherichia coli
+neomycin,hepatic encephalopathy
+neomycin,bacterial infection
+oritavancin,bacterial infection
+paromomycin,amebiasis
+paromomycin,cryptosporidiosis
+paromomycin,bacterial infection
+paromomycin,protozoal infections
+polymyxin b,bacterial infection
+quinupristin,bacterial infection
+retapamulin,bacterial infection
+rifaximin,gram negative infections
+rifaximin,hepatic encephalopathy
+rifaximin,bacterial infection
+streptomycin,chancroids
+streptomycin,granuloma inguinale
+streptomycin,brucellosis
+streptomycin,streptococcus
+streptomycin,plague
+streptomycin,proteus
+streptomycin,tularemia
+streptomycin,infective endocarditis
+streptomycin,urinary tract infection
+streptomycin,bacterial infection
+streptomycin,mycobacterium
+streptomycin,escherichia coli
+streptomycin,klebsiella
+streptomycin,bacterial infection
+sulbactam,cellulitis
+sulbactam,staphylococcus
+sulbactam,proteus
+sulbactam,acinetobacter
+sulbactam,escherichia coli
+sulbactam,klebsiella
+sulbactam,bacterial infection
+tedizolid,gram positive infections
+tedizolid,cellulitis
+tedizolid,bacterial infection
+telavancin,gram positive infections
+telavancin,bacterial infection
+tobramycin,urinary tract infection
+tobramycin,bacterial infection
+tobramycin,gram negative infections
+tobramycin,bacterial infection
+trimethoprim,pneumocystis jiroveci
+trimethoprim,gram positive infections
+trimethoprim,gram negative infections
+trimethoprim,bacterial infection
+vancomycin,gram positive infections
+vancomycin,bacterial infection
+nitrofurantoin,gram negative infections
+nitrofurantoin,urinary tract infection
+nitrofurantoin,bacterial infection
+nitrofurantoin,bacterial infection
+mafenide,wound infection
+mafenide,bacterial infection
+tiotropium bromide,asthma
+tiotropium bromide,chronic obstructive pulmonary disease
+tiotropium bromide,bronchitis
+tiotropium bromide,bronchoconstriction
+aclidinium,asthma
+aclidinium,chronic obstructive pulmonary disease
+aclidinium,bronchitis
+aclidinium,bronchoconstriction
+aclidinium bromide,asthma
+aclidinium bromide,chronic obstructive pulmonary disease
+aclidinium bromide,bronchitis
+aclidinium bromide,bronchoconstriction
+atropine,uveitis
+atropine,sinoatrial block
+atropine,pancreatitis
+atropine,crohns disease
+atropine,bradycardia
+atropine,parkinsons disease
+atropine,gastric ulcer
+atropine,bradycardia
+glycopyrrolate,peptic ulcer
+glycopyrrolate,not_found
+homatropine,mydriatic
+ipratropium,bronchitis
+ipratropium,bronchospasm
+ipratropium,emphysema
+ipratropium,rhinitis
+ipratropium bromide,asthma
+umeclidinium,not_found
+darifenacin,not_found
+solifenacin,urge incontinence
+solifenacin,multiple sclerosis
+solifenacin,overactive bladder
+brivaracetam,seizures
+brivaracetam,epilepsy
+brivaracetam,seizures
+brivaracetam,epilepsy
+carbamazepine,restless legs syndrome
+carbamazepine,bipolar disorder
+carbamazepine,restless legs syndrome
+carbamazepine,multiple sclerosis
+carbamazepine,epilepsy syndrome
+carbamazepine,post traumatic stress disorder
+carbamazepine,epilepsy complex partial
+carbamazepine,psychosis
+carbamazepine,schizophrenia
+carbamazepine,trigeminal neuralgia
+carbamazepine,bipolar disorder
+carbamazepine,schizophrenia
+carbamazepine,seizures
+carbamazepine,seizures
+carbamazepine,epilepsy
+ethosuximide,absence epilepsy
+ethosuximide,seizures
+ethosuximide,epilepsy
+ethotoin,epilepsy complex partial
+ethotoin,seizures
+ethotoin,seizures
+ethotoin,epilepsy
+felbamate,epilepsy syndrome
+felbamate,anemia
+felbamate,seizures
+felbamate,epilepsy
+lacosamide,epilepsy syndrome
+lacosamide,seizures
+lacosamide,epilepsy
+lamotrigine,schizophrenia
+lamotrigine,epilepsy syndrome
+lamotrigine,bipolar disorder
+lamotrigine,seizures
+lamotrigine,epilepsy
+levetiracetam,juvenile myoclonic epilepsy
+levetiracetam,epilepsy syndrome
+levetiracetam,seizures
+levetiracetam,epilepsy partial
+levetiracetam,seizures
+levetiracetam,epilepsy
+mesuximide,seizures
+mesuximide,epilepsy
+methsuximide,seizures
+methsuximide,epilepsy
+oxcarbazepine,multiple sclerosis
+oxcarbazepine,epilepsy syndrome
+oxcarbazepine,bipolar disorder
+oxcarbazepine,seizures
+oxcarbazepine,epilepsy
+perampanel,seizures
+perampanel,epilepsy
+phenytoin,status epilepticus
+phenytoin,epilepsy syndrome
+phenytoin,multiple sclerosis
+phenytoin,epilepsy temporal lobe
+phenytoin,seizures
+phenytoin,epilepsy post-traumatic
+phenytoin,seizures
+phenytoin,epilepsy
+primidone,epilepsy syndrome
+primidone,seizures
+primidone,epilepsy partial
+primidone,tremor
+primidone,seizures
+primidone,epilepsy
+rufinamide,epilepsy syndrome
+rufinamide,seizures
+rufinamide,epilepsy
+stiripentol,seizures
+stiripentol,epilepsy
+topiramate,migraine
+topiramate,epilepsy syndrome
+topiramate,bipolar disorder
+topiramate,obesity
+topiramate,seizures
+topiramate,epilepsy
+trimethadione,absence epilepsy
+trimethadione,epilepsy syndrome
+trimethadione,seizures
+trimethadione,epilepsy
+vigabatrin,west syndrome
+vigabatrin,epilepsy syndrome
+vigabatrin,epilepsy complex partial
+vigabatrin,seizures
+vigabatrin,epilepsy
+zonisamide,epilepsy syndrome
+zonisamide,seizures
+zonisamide,epilepsy
+maprotiline,bipolar disorder
+maprotiline,dysthymic disorder
+maprotiline,enuresis
+maprotiline,pain
+maprotiline,bulimia
+maprotiline,duodenal ulcer
+maprotiline,panic disorder
+maprotiline,panic disorder
+metoclopramide,gastro-esophageal reflux disease
+metoclopramide,gastroparesis
+metoclopramide,systemic scleroderma
+metoclopramide,nausea
+metoclopramide,prostatic neoplasms
+metoclopramide,migraine
+metoclopramide,nausea
+metoclopramide,vomiting
+aprepitant,breast cancer
+aprepitant,colon cancer
+aprepitant,nausea
+aprepitant,vomiting
+dronabinol,nausea
+dronabinol,vomiting
+meclizine,motion sickness
+meclizine,vertigo
+meclizine,nausea
+meclizine,vomiting
+rolapitant,nausea
+rolapitant,vomiting
+scopolamine,diverticulitis
+scopolamine,colonic diseases
+scopolamine,dysentery
+scopolamine,nausea
+scopolamine,vomiting
+scopolamine,iridocyclitis
+scopolamine,rhinitis
+scopolamine,parkinsons disease
+scopolamine,motion sickness
+scopolamine,alzheimers disease
+scopolamine,parkinsons disease
+scopolamine,facial paralysis
+scopolamine,nausea
+scopolamine,vomiting
+trimethobenzamide,nausea
+trimethobenzamide,vomiting
+fosphenytoin,epilepsy syndrome
+fosphenytoin,seizures
+fosphenytoin,epilepsy
+pentamidine,pneumocystis jiroveci
+pentamidine,leishmaniasis
+pentamidine,trypanosomiasis
+pentamidine isethionate,pneumocystis jiroveci
+pentamidine isethionate,leishmaniasis
+pentamidine isethionate,trypanosomiasis
+amphotericin b,aspergillosis
+amphotericin b,blastomycosis
+amphotericin b,candidiasis
+amphotericin b,coccidioidomycosis
+amphotericin b,cryptococcosis
+amphotericin b,fungal infections
+amphotericin b liposomal,aspergillosis
+amphotericin b liposomal,blastomycosis
+amphotericin b liposomal,candidiasis
+amphotericin b liposomal,coccidioidomycosis
+amphotericin b liposomal,cryptococcosis
+amphotericin b liposomal,fungal infections
+anidulafungin,fungal infections
+butenafine,psoriasis
+butenafine,fungal infections
+butoconazole,fungal infections
+caspofungin,candidiasis
+caspofungin,aspergillosis
+caspofungin,fungal infections
+econazole,candidiasis
+econazole,tinea pedis
+econazole,tinea versicolor
+econazole,fungal infections
+efinaconazole,fungal infections
+griseofulvin,tinea capitis
+griseofulvin,tinea pedis
+griseofulvin,tinea cruris
+griseofulvin,fungal infections
+itraconazole,cryptococcosis
+itraconazole,candidiasis
+itraconazole,coccidioidomycosis
+itraconazole,leishmaniasis
+itraconazole,zygomycosis
+itraconazole,paracoccidioidomycosis
+itraconazole,sporotrichosis
+itraconazole,aspergillosis
+itraconazole,onychomycosis
+itraconazole,neutropenia
+itraconazole,histoplasmosis
+itraconazole,blastomycosis
+itraconazole,fungal infections
+ketoconazole,blastomycosis
+ketoconazole,seborrheic dermatitis
+ketoconazole,candidiasis
+ketoconazole,leishmaniasis
+ketoconazole,coccidioidomycosis
+ketoconazole,paracoccidioidomycosis
+ketoconazole,tinea pedis
+ketoconazole,acanthamoeba keratitis
+ketoconazole,histoplasmosis
+ketoconazole,tinea versicolor
+ketoconazole,fungal infections
+luliconazole,fungal infections
+micafungin,fungal infections
+miconazole,aspergillosis
+miconazole,candidiasis
+miconazole,tinea pedis
+miconazole,tinea versicolor
+miconazole,fungal infections
+naftifine,rheumatoid arthritis
+naftifine,fungal infections
+oxiconazole,fungal infections
+posaconazole,fungal infections
+sertaconazole,fungal infections
+sulconazole,fungal infections
+tavaborole,fungal infections
+terconazole,fungal infections
+tioconazole,fungal infections
+fluconazole,pneumonia
+fluconazole,candidiasis
+fluconazole,meningitis cryptococcal
+fluconazole,coccidioidomycosis
+fluconazole,fungemia
+fluconazole,urinary tract infection
+fluconazole,bacterial infection
+fluconazole,histoplasmosis
+fluconazole,acquired immunodeficiency syndrome
+fluconazole,blastomycosis
+fluconazole,fungal infections
+terbinafine,tinea capitis
+terbinafine,tinea pedis
+terbinafine,tinea cruris
+terbinafine,fungal infections
+voriconazole,tinea capitis
+voriconazole,tinea pedis
+voriconazole,tinea cruris
+voriconazole,fungal infections
+praziquantel,parasitic intestinal diseases
+praziquantel,clonorchiasis
+praziquantel,cysticercosis
+praziquantel,opisthorchiasis
+praziquantel,schistosomiasis
+hydroxyzine,pruritis
+hydroxyzine,anxiety
+hydroxyzine,vomiting
+hydroxyzine,nausea
+bepotastine,allergic rhinitis
+dimenhydrinate,allergic rhinitis
+dimenhydrinate,nausea
+dimenhydrinate,vomiting
+dimenhydrinate,parkinsons disease
+dimenhydrinate,schizophrenia
+dimenhydrinate,motion sickness
+dimenhydrinate,vertigo
+dimenhydrinate,atopic dermatitis
+urea,hyperkeratosis epidermolytic
+urea,glaucoma
+urea,intracranial hypertension
+metirosine,not_found
+metyrosine,pheochromocytoma
+metyrosine,hypertension
+nitroprusside,congestive heart failure
+nitroprusside,hypertension
+nitroprusside,malignancy
+acetylsalicylic acid,rheumatoid arthritis
+acetylsalicylic acid,gout
+acetylsalicylic acid,systemic lupus erythematosus
+acetylsalicylic acid,hypertension
+acetylsalicylic acid,kawasaki disease
+acetylsalicylic acid,coronary artery disease
+acetylsalicylic acid,migraine
+acetylsalicylic acid,osteoarthritis
+aminosalicylic acid,not_found
+hydroxychloroquine,photosensitivity disorders
+hydroxychloroquine,rheumatoid arthritis
+hydroxychloroquine,porphyria cutanea tarda
+hydroxychloroquine,systemic lupus erythematosus
+hydroxychloroquine,malaria
+quinine,babesiosis
+quinine,muscle cramp
+quinine,malaria
+quinine,malaria
+azathioprine,rheumatoid arthritis
+azathioprine,systemic lupus erythematosus
+azathioprine,multiple sclerosis
+azathioprine,systemic scleroderma
+azathioprine,rheumatoid arthritis
+azathioprine,systemic lupus erythematosus
+azathioprine,crohns disease
+azathioprine,multiple sclerosis
+azathioprine,idiopathic thrombocytopenic purpura
+azathioprine,crohns disease
+azathioprine,ulcerative colitis
+azathioprine,ulcerative colitis
+azathioprine,graft-vs-host disease
+capecitabine,breast cancer
+capecitabine,esophageal cancer
+capecitabine,colon cancer
+capecitabine,kidney neoplasm
+capecitabine,stomach cancer
+capecitabine,prostatic neoplasms
+cladribine,lymphoma
+cladribine,multiple sclerosis
+cladribine,leukemias
+cladribine,multiple sclerosis
+cladribine,hematologic cancer
+hydroxyurea,ovarian neoplasm
+hydroxyurea,kidney neoplasm
+hydroxyurea,lung neoplasms
+hydroxyurea,hematologic cancer
+hydroxyurea,melanoma
+hydroxyurea,skin cancer
+hydroxyurea,prostatic neoplasms
+hydroxyurea,not_found
+hydroxyurea,psoriasis
+hydroxyurea,uterine cancer
+hydroxyurea,head and neck cancer
+mercaptopurine,ulcerative colitis
+mercaptopurine,hematologic cancer
+mercaptopurine,crohns disease
+methotrexate,testicular neoplasms
+methotrexate,rheumatoid arthritis
+methotrexate,leukemias
+methotrexate,mycosis fungoides
+methotrexate,not_found
+methotrexate,not_found
+methotrexate,ankylosing spondylitis
+methotrexate,stomach cancer
+methotrexate,psoriasis
+methotrexate,esophageal neoplasms
+methotrexate,urinary bladder cancer
+methotrexate,breast cancer
+methotrexate,colon cancer
+methotrexate,malignancy
+methotrexate,multiple sclerosis
+methotrexate,rheumatoid arthritis
+methotrexate,testicular neoplasms
+methotrexate,lung neoplasms
+methotrexate,lymphatic system cancer
+methotrexate,psoriasis
+methotrexate,hydatidiform mole
+methotrexate,esophageal cancer
+methotrexate,lung neoplasms
+methotrexate,psoriatic arthritis
+methotrexate,germ cell cancer
+methotrexate,osteosarcoma
+methotrexate,choriocarcinoma
+methotrexate,juvenile arthritis
+methotrexate,systemic lupus erythematosus
+methotrexate,hematologic cancer
+methotrexate,crohns disease
+methotrexate,systemic scleroderma
+mycophenolate,systemic scleroderma
+mycophenolate,systemic lupus erythematosus
+mycophenolate,psoriasis
+mycophenolate,behcet syndrome
+mycophenolate,kidney transplant
+mycophenolate mofetil,systemic scleroderma
+mycophenolate mofetil,systemic lupus erythematosus
+mycophenolate mofetil,psoriasis
+mycophenolate mofetil,behcet syndrome
+mycophenolate mofetil,kidney transplant
+pemetrexed,mesothelioma
+pemetrexed,non small cell lung cancer
+teriflunomide,not_found
+eplerenone,coronary artery disease
+eplerenone,hypertension
+tropicamide,keratitis
+tropicamide,iritis
+tropicamide,iridocyclitis
+methscopolamine,peptic ulcer
+benzatropine,schizophrenia
+benzatropine,alzheimers disease
+benzatropine,not_found
+benzatropine,not_found
+benzatropine,parkinsons disease
+clidinium,peptic ulcer
+clidinium,irritable bowel syndrome
+pyridostigmine,myasthenia gravis
+ethambutol,mycobacterium
+ethambutol,tuberculosis
+isoniazid,mycobacterium
+isoniazid,tuberculosis
+levodopa,parkinsons disease
+amantadine,influenza
+amantadine,dystonia
+amantadine,dyskinesia
+amantadine,parkinsons disease
+amantadine,akathisia
+amantadine,parkinsons disease
+benztropine,parkinsons disease
+bromocriptine,adenoma
+bromocriptine,malignancy
+bromocriptine,hyperprolactinemia
+bromocriptine,hypogonadism
+bromocriptine,acromegaly
+bromocriptine,parkinsons disease
+bromocriptine,infertility
+bromocriptine,diabetes mellitus
+bromocriptine,amenorrhea
+bromocriptine,galactorrhea
+bromocriptine,parkinsons disease
+entacapone,parkinsons disease
+pramipexole,restless legs syndrome
+pramipexole,depression
+pramipexole,parkinsons disease
+pramipexole,alzheimers disease
+pramipexole,parkinsons disease
+rasagiline,parkinsons disease
+ropinirole,multiple sclerosis
+ropinirole,alzheimers disease
+ropinirole,parkinsons disease
+ropinirole,restless legs syndrome
+tolcapone,parkinsons disease
+trihexyphenidyl,parkinsons disease
+trihexyphenidyl,parkinsons disease
+nitazoxanide,antiprotozoal
+pyrimethamine,malaria
+pyrimethamine,toxoplasmosis
+pyrimethamine,malaria
+paliperidone,schizophrenia
+risperidone,bipolar disorder
+risperidone,not_found
+risperidone,not_found
+risperidone,not_found
+risperidone,not_found
+risperidone,schizophrenia
+risperidone,dementia
+risperidone,bipolar disorder
+risperidone,schizophrenia
+risperidone,tourette syndrome
+risperidone,tourette syndrome
+risperidone,conduct disorder
+droperidol,nausea
+droperidol,pain
+droperidol,psychosis
+droperidol,vomiting
+iloperidone,schizophrenia
+molindone,psychosis
+molindone,schizophrenia
+thiothixene,schizophrenia
+thiothixene,psychosis
+thiothixene,schizophrenia
+ziprasidone,tourette syndrome
+ziprasidone,schizophrenia
+ziprasidone,bipolar disorder
+chlorpromazine,conduct disorder
+chlorpromazine,acute intermittent porphyria
+chlorpromazine,nausea
+chlorpromazine,psychosis
+chlorpromazine,vomiting
+chlorpromazine,schizophrenia
+chlorpromazine,attention deficit hyperactive disorder
+chlorpromazine,bipolar disorder
+chlorpromazine,schizophrenia
+chlorpromazine,hiccup
+chlorpromazine,tetanus
+chlorpromazine,child behavior disorders
+chlorpromazine,anxiety
+fluphenazine,schizophrenia
+fluphenazine,psychosis
+fluphenazine,schizophrenia
+haloperidol,psychosis
+haloperidol,vomiting
+haloperidol,schizophrenia
+haloperidol,schizophrenia
+haloperidol,tourette syndrome
+haloperidol,alzheimers disease
+haloperidol,tourette syndrome
+haloperidol,child behavior disorders
+haloperidol,conduct disorder
+loxapine,schizophrenia
+loxapine,psychosis
+loxapine,schizophrenia
+perphenazine,torticollis
+perphenazine,nausea
+perphenazine,psychosis
+perphenazine,vomiting
+perphenazine,schizophrenia
+perphenazine,reye syndrome
+perphenazine,tourette syndrome
+perphenazine,tourette syndrome
+perphenazine,huntington disease
+prochlorperazine,breast cancer
+prochlorperazine,nausea
+prochlorperazine,psychosis
+prochlorperazine,vomiting
+prochlorperazine,schizophrenia
+prochlorperazine,dementia
+prochlorperazine,anxiety
+trifluoperazine,schizophrenia
+trifluoperazine,psychosis
+trifluoperazine,anxiety
+trifluoperazine,schizophrenia
+aripiprazole,schizophrenia
+aripiprazole,not_found
+aripiprazole,not_found
+aripiprazole,depression
+aripiprazole,bipolar disorder
+aripiprazole lauroxil,schizophrenia
+aripiprazole lauroxil,not_found
+aripiprazole lauroxil,not_found
+aripiprazole lauroxil,depression
+aripiprazole lauroxil,bipolar disorder
+asenapine,bipolar disorder
+asenapine,schizophrenia
+brexpiprazole,schizophrenia
+brexpiprazole,depression
+cariprazine,schizophrenia
+cariprazine,mania
+cariprazine,bipolar disorder
+clozapine,bipolar disorder
+clozapine,psychosis
+clozapine,schizophrenia
+clozapine,bipolar disorder
+clozapine,schizophrenia
+lurasidone,schizophrenia
+lurasidone,bipolar disorder
+olanzapine,tourette syndrome
+olanzapine,schizophrenia
+olanzapine,bipolar disorder
+olanzapine,panic disorder
+olanzapine,agitation
+pimavanserin,parkinsons disease psychosis
+pimavanserin,dementia associated psychosis
+pimavanserin,schizophrenia
+pimavanserin,agitation
+pimavanserin,major depression
+quetiapine,not_found
+quetiapine,not_found
+quetiapine,parkinsons disease
+quetiapine,bipolar disorder
+quetiapine,schizophrenia
+quetiapine,alzheimers disease
+quetiapine,agitation
+thioridazine,schizophrenia
+thioridazine,psychosis
+thioridazine,schizophrenia
+povidone-iodine,antiseptic
+povidone-iodine,disinfectant
+triclosan,mycoses
+dicyclomine,irritable bowel syndrome
+dicycloverine,irritable bowel syndrome
+propantheline,urethral diseases
+propantheline,pancreatitis
+propantheline,peptic ulcer
+propantheline,spasm
+propantheline,irritable bowel syndrome
+propantheline,pancreatitis
+famciclovir,herpes zoster
+famciclovir,herpes simplex virus
+oseltamivir,influenza
+valacyclovir,herpes zoster
+valacyclovir,herpes simplex virus
+aciclovir,acquired immunodeficiency syndrome
+acyclovir,epstein-barr virus
+acyclovir,herpes labialis
+acyclovir,herpes zoster
+acyclovir,cytomegalovirus
+acyclovir,herpes zoster infection
+acyclovir,herpes simplex virus
+acyclovir,herpes simplex virus
+acyclovir,genital herpes simplex infection
+adefovir,hepatitis b
+adefovir,hepatitis b
+adefovir dipivoxil,hepatitis b
+adefovir dipivoxil,hepatitis b
+atazanavir,human immumodeficiency virus
+cidofovir,cytomegalovirus
+cobicistat,human immumodeficiency virus
+cobicistat,human immumodeficiency virus
+cobicistat,acquired immunodeficiency syndrome
+daclatasvir,hepatitis c
+dasabuvir,hepatitis c
+delavirdine,human immumodeficiency virus
+delavirdine,acquired immunodeficiency syndrome
+docosanol,not_found
+efavirenz,acquired immunodeficiency syndrome
+elbasvir,hepatitis c
+elvitegravir,human immumodeficiency virus
+elvitegravir,human immumodeficiency virus
+elvitegravir,acquired immunodeficiency syndrome
+enfuvirtide,human immumodeficiency virus
+enfuvirtide,human immumodeficiency virus
+enfuvirtide,acquired immunodeficiency syndrome
+etravirine,human immumodeficiency virus
+etravirine,human immumodeficiency virus
+etravirine,acquired immunodeficiency syndrome
+fosamprenavir,human immumodeficiency virus
+fosamprenavir,human immumodeficiency virus
+fosamprenavir,acquired immunodeficiency syndrome
+foscarnet,cytomegalovirus
+foscarnet,genital herpes simplex infection
+ganciclovir,cytomegalovirus
+ganciclovir,acquired immunodeficiency syndrome
+grazoprevir,hepatitis c
+indinavir,human immumodeficiency virus
+indinavir,acquired immunodeficiency syndrome
+ledipasvir,hepatitis c
+lopinavir,human immumodeficiency virus
+lopinavir,human immumodeficiency virus
+lopinavir,acquired immunodeficiency syndrome
+maraviroc,human immumodeficiency virus
+maraviroc,human immumodeficiency virus
+maraviroc,acquired immunodeficiency syndrome
+nelfinavir,human immumodeficiency virus
+nelfinavir,acquired immunodeficiency syndrome
+nevirapine,human immumodeficiency virus
+nevirapine,acquired immunodeficiency syndrome
+ombitasvir,hepatitis c
+paritaprevir,hepatitis c
+penciclovir,herpes zoster
+penciclovir,herpes simplex virus
+peramivir,influenza
+raltegravir,human immumodeficiency virus
+raltegravir,human immumodeficiency virus
+raltegravir,acquired immunodeficiency syndrome
+ribavirin,west nile fever
+ribavirin,adenovirus infections human
+ribavirin,respiratory syncytial virus
+ribavirin,hepatitis c
+rilpivirine,human immumodeficiency virus
+rimantadine,influenza
+ritonavir,human immumodeficiency virus
+ritonavir,acquired immunodeficiency syndrome
+saquinavir,human immumodeficiency virus
+saquinavir,acquired immunodeficiency syndrome
+sofosbuvir,hepatitis c
+tenofovir alafenamide,hepatitis b
+tenofovir disoproxil,hepatitis b
+tipranavir,human immumodeficiency virus
+tipranavir,human immumodeficiency virus
+tipranavir,acquired immunodeficiency syndrome
+trifluridine,keratitis herpetic
+trifluridine,keratoconjunctivitis infectious
+valaciclovir,cytomegalovirus
+valaciclovir,herpes simplex virus
+valaciclovir,herpes zoster
+valganciclovir,cytomegalovirus
+valganciclovir,human immumodeficiency virus
+velpatasvir,hepatitis c
+zanamivir,influenza
+azilsartan,congestive heart failure
+azilsartan,hypertension
+azilsartan,diabetes mellitus
+azilsartan,left ventricular hypertrophy
+azilsartan,coronary artery disease
+azilsartan,diabetic nephropathy
+azilsartan,hypertension
+azilsartan medoxomil,congestive heart failure
+azilsartan medoxomil,hypertension
+azilsartan medoxomil,diabetes mellitus
+azilsartan medoxomil,left ventricular hypertrophy
+azilsartan medoxomil,coronary artery disease
+azilsartan medoxomil,diabetic nephropathy
+azilsartan medoxomil,hypertension
+candesartan,congestive heart failure
+candesartan,hypertension
+candesartan,diabetes mellitus
+candesartan,left ventricular hypertrophy
+candesartan,coronary artery disease
+candesartan,diabetic nephropathy
+candesartan,hypertension
+irbesartan,congestive heart failure
+irbesartan,hypertension
+irbesartan,diabetes mellitus
+irbesartan,left ventricular hypertrophy
+irbesartan,coronary artery disease
+irbesartan,diabetic nephropathy
+irbesartan,hypertension
+losartan,congestive heart failure
+losartan,hypertension
+losartan,diabetes mellitus
+losartan,left ventricular hypertrophy
+losartan,coronary artery disease
+losartan,diabetic nephropathy
+losartan,hypertension
+olmesartan,congestive heart failure
+olmesartan,hypertension
+olmesartan,diabetes mellitus
+olmesartan,left ventricular hypertrophy
+olmesartan,coronary artery disease
+olmesartan,diabetic nephropathy
+olmesartan,hypertension
+olmesartan medoxomil,congestive heart failure
+olmesartan medoxomil,hypertension
+olmesartan medoxomil,diabetes mellitus
+olmesartan medoxomil,left ventricular hypertrophy
+olmesartan medoxomil,coronary artery disease
+olmesartan medoxomil,diabetic nephropathy
+olmesartan medoxomil,hypertension
+valsartan,congestive heart failure
+valsartan,hypertension
+valsartan,diabetes mellitus
+valsartan,left ventricular hypertrophy
+valsartan,coronary artery disease
+valsartan,diabetic nephropathy
+valsartan,hypertension
+eprosartan,congestive heart failure
+eprosartan,hypertension
+eprosartan,diabetes mellitus
+eprosartan,left ventricular hypertrophy
+eprosartan,coronary artery disease
+eprosartan,diabetic nephropathy
+eprosartan,hypertension
+telmisartan,congestive heart failure
+telmisartan,hypertension
+telmisartan,diabetes mellitus
+telmisartan,left ventricular hypertrophy
+telmisartan,coronary artery disease
+telmisartan,diabetic nephropathy
+telmisartan,hypertension
+anastrozole,breast cancer
+exemestane,breast cancer
+letrozole,breast cancer
+arsenic,leukemias
+arsenic trioxide,leukemias
+artemether,malaria
+aspirin,preeclampsia
+aspirin,cerebral infarction
+aspirin,fever
+aspirin,rheumatic fever
+aspirin,rheumatoid arthritis
+aspirin,pain
+aspirin,arthritis
+aspirin,myocardial infarction
+aspirin,inflammation
+aspirin,gout
+aspirin,transient ischemic attack
+avobenzone,not_found
+azelaic acid,acne
+azelaic acid,acne
+azelastine,not_found
+arformoterol,chronic obstructive pulmonary disease
+arformoterol,asthma
+arformoterol,bronchospasm
+formoterol,chronic obstructive pulmonary disease
+formoterol,asthma
+formoterol,bronchospasm
+indacaterol,chronic obstructive pulmonary disease
+indacaterol,asthma
+indacaterol,bronchospasm
+olodaterol,chronic obstructive pulmonary disease
+olodaterol,asthma
+olodaterol,bronchospasm
+salmeterol,chronic obstructive pulmonary disease
+salmeterol,asthma
+salmeterol,bronchospasm
+vilanterol,chronic obstructive pulmonary disease
+vilanterol,asthma
+vilanterol,bronchospasm
+albuterol,chronic obstructive pulmonary disease
+albuterol,asthma
+albuterol,bronchospasm
+levalbuterol,chronic obstructive pulmonary disease
+levalbuterol,asthma
+levalbuterol,bronchospasm
+tiotropium,chronic obstructive pulmonary disease
+tiotropium,asthma
+tiotropium,bronchospasm
+butabarbital,migraine
+butabarbital,insomnia
+butalbital,migraine
+butalbital,insomnia
+pentobarbital,migraine
+pentobarbital,insomnia
+secobarbital,migraine
+secobarbital,insomnia
+venetoclax,chronic lymphocytic leukemia
+venetoclax,acute myelogenous leukemia
+venetoclax,leukemias
+becaplermin,diabetic foot ulcers
+belinostat,t-cell lymphoma
+triazolam,insomnia
+alprazolam,depression
+alprazolam,agoraphobia
+alprazolam,panic disorder
+alprazolam,systemic scleroderma
+alprazolam,panic disorder
+chlordiazepoxide,alcohol dependence
+chlordiazepoxide,anxiety
+chlordiazepoxide,alcohol withdrawal
+clobazam,epilepsy syndrome
+clonazepam,not_found
+clonazepam,not_found
+clonazepam,myoclonic epilepsy
+clonazepam,dysarthria
+clonazepam,neuralgia
+clonazepam,tic disorder
+clonazepam,parkinsons disease
+clonazepam,schizophrenia
+clonazepam,multiple sclerosis
+clonazepam,epilepsy syndrome
+clonazepam,lennox-gastaut syndrome
+clonazepam,absence epilepsy
+clonazepam,osteoarthritis
+clonazepam,bipolar disorder
+clonazepam,panic disorder
+clonazepam,seizures
+clonazepam,restless legs syndrome
+clonazepam,restless legs syndrome
+clonazepam,schizophrenia
+clonazepam,bipolar disorder
+clonazepam,panic disorder
+clorazepate,status epilepticus
+clorazepate,epilepsy syndrome
+clorazepate,muscle spasticity
+clorazepate,multiple sclerosis
+clorazepate,alcohol withdrawal
+clorazepate,panic disorder
+clorazepate,panic disorder
+diazepam,status epilepticus
+diazepam,epilepsy syndrome
+diazepam,muscle spasticity
+diazepam,multiple sclerosis
+diazepam,alcohol withdrawal
+diazepam,panic disorder
+diazepam,panic disorder
+estazolam,insomnia
+flurazepam,insomnia
+lorazepam,catatonia
+lorazepam,epilepsy partial
+lorazepam,status epilepticus
+lorazepam,depression
+lorazepam,psychosis
+lorazepam,vomiting
+lorazepam,insomnia
+lorazepam,panic disorder
+lorazepam,anxiety
+midazolam,status epilepticus
+midazolam,psychomotor agitation
+midazolam,epilepsy syndrome
+midazolam,anxiety
+oxazepam,epilepsy partial
+oxazepam,anxiety
+oxazepam,alcohol withdrawal
+quazepam,multiple sclerosis
+temazepam,depression
+temazepam,panic disorder
+temazepam,insomnia
+zaleplon,insomnia
+zaleplon,sedation
+benzoyl peroxide,not_found
+benzyl alcohol,not_found
+isoproterenol,vasovagal syncope
+isoproterenol,torsades de pointes
+isoproterenol,adams-stokes syndrome
+isoproterenol,ventricular fibrillation
+isoproterenol,ventricular fibrillation
+isoproterenol,bradycardia
+isoproterenol,shock hemorrhagic
+isoproterenol,heart failure with reduced ejection fraction
+isoproterenol,cardiac arrest
+isoproterenol,septic shock
+metaproterenol,chronic obstructive pulmonary disease
+metaproterenol,asthma
+metaproterenol,bronchospasm
+orciprenaline,chronic obstructive pulmonary disease
+orciprenaline,asthma
+orciprenaline,bronchospasm
+labetalol,congestive heart failure
+labetalol,malignancy
+labetalol,hypertension
+labetalol,myocardial infarction
+labetalol,angina
+metoprolol,congestive heart failure
+metoprolol,atrial fibrillation
+metoprolol,atrial fibrillation
+metoprolol,atrial flutter
+metoprolol,hypertension
+metoprolol,ventricular fibrillation
+metoprolol,ventricular fibrillation
+metoprolol,myocardial infarction
+metoprolol,hypertension
+metoprolol,paroxysmal supraventricular tachycardia
+metoprolol,supraventricular tachycardia
+metoprolol,ventricular tachycardia
+metoprolol,angina
+nadolol,congestive heart failure
+nadolol,hypertension
+nadolol,myocardial infarction
+nadolol,hypertension
+nadolol,angina
+nebivolol,hypertension
+pindolol,hypertension
+pindolol,myocardial infarction
+pindolol,hypertension
+pindolol,angina
+propranolol,essential tremor
+propranolol,congestive heart failure
+propranolol,esophageal and gastric varices
+propranolol,migraine
+propranolol,hypertension
+propranolol,ventricular fibrillation
+propranolol,ventricular fibrillation
+propranolol,myocardial infarction
+propranolol,migraine
+propranolol,panic disorder
+propranolol,hypertension
+propranolol,pheochromocytoma
+propranolol,paroxysmal supraventricular tachycardia
+propranolol,supraventricular tachycardia
+propranolol,ventricular tachycardia
+propranolol,angina
+sotalol,atrial fibrillation
+sotalol,atrial fibrillation
+sotalol,atrial flutter
+sotalol,ventricular fibrillation
+sotalol,ventricular fibrillation
+sotalol,paroxysmal supraventricular tachycardia
+sotalol,supraventricular tachycardia
+sotalol,ventricular tachycardia
+acebutolol,hypertension
+acebutolol,ventricular fibrillation
+acebutolol,ventricular fibrillation
+acebutolol,myocardial infarction
+acebutolol,hypertension
+acebutolol,ventricular tachycardia
+acebutolol,angina
+atenolol,congestive heart failure
+atenolol,atrial fibrillation
+atenolol,atrial fibrillation
+atenolol,atrial flutter
+atenolol,ventricular fibrillation
+atenolol,ventricular fibrillation
+atenolol,myocardial infarction
+atenolol,hypertension
+atenolol,paroxysmal supraventricular tachycardia
+atenolol,supraventricular tachycardia
+atenolol,ventricular tachycardia
+atenolol,angina
+betaxolol,glaucoma
+betaxolol,glaucoma
+betaxolol,hypertension
+betaxolol,hypertension
+bisoprolol,congestive heart failure
+bisoprolol,myocardial infarction
+bisoprolol,hypertension
+bisoprolol,paroxysmal supraventricular tachycardia
+bisoprolol,supraventricular tachycardia
+bisoprolol,angina
+carteolol,glaucoma
+carteolol,glaucoma
+carteolol,hypertension
+carteolol,hypertension
+carvedilol,hypertension
+esmolol,hypertension
+levobunolol,glaucoma
+levobunolol,glaucoma
+levobunolol,hypertension
+metipranolol,glaucoma
+metipranolol,glaucoma
+timolol,heart diseases
+timolol,congestive heart failure
+timolol,hypertension
+timolol,glaucoma
+timolol,glaucoma
+timolol,myocardial infarction
+timolol,coronary artery disease
+timolol,migraine
+timolol,hypertension
+timolol,angina
+salbutamol,allergic rhinitis
+salbutamol,asthma
+salbutamol,chronic obstructive pulmonary disease
+avibactam,bacterial infection
+betaine,homocystinuria
+metformin,polycystic ovary syndrome
+metformin,metabolic syndrome x
+metformin,kidney neoplasm
+metformin,liver neoplasms
+metformin,prostatic neoplasms
+metformin,diabetes mellitus
+metformin,diabetes mellitus
+colesevelam,hyperlipidemia
+colestipol,coronary artery disease
+colestipol,hypercholesterolemia
+colestipol,enterocolitis pseudomembranous
+colestipol,dyslipidemia
+colestipol,diarrhea
+colestipol,hypertriglyceridemia
+cholic acid,zellweger syndrome
+bismuth subcitrate,helicobacter pylori
+ibandronate,osteoporosis
+ibandronate,pagets disease of bone
+ibandronate,osteoporosis
+ibandronate,pagets disease of bone
+risedronate,osteoporosis
+risedronate,pagets disease of bone
+risedronate,osteoporosis
+risedronate,pagets disease of bone
+alendronate,osteoporosis
+alendronate,pagets disease of bone
+alendronate,osteoporosis
+alendronate,pagets disease of bone
+etidronate,hypercalcemia
+etidronate,heterotopic ossification
+etidronate,pagets disease of bone
+pamidronate,osteoporosis
+pamidronate,pagets disease of bone
+pamidronate,osteoporosis
+pamidronate,pagets disease of bone
+zoledronic acid,osteoporosis
+zoledronic acid,pagets disease of bone
+zoledronic acid,osteoporosis
+zoledronic acid,pagets disease of bone
+nesiritide,dyspnea paroxysmal
+nesiritide,congestive heart failure
+icatibant,hereditary angioedema
+vemurafenib,melanoma
+vemurafenib,skin cancer
+vemurafenib,melanoma
+bretylium,ventricular tachycardia
+buspirone,depression
+buspirone,panic disorder
+buspirone,anxiety
+clevidipine,hypertension
+clevidipine,hypertension
+clevidipine,angina
+isradipine,hypertension
+isradipine,hypertension
+isradipine,angina
+nicardipine,hypertension
+nicardipine,hypertension
+nicardipine,stable angina
+nicardipine,angina
+nimodipine,subarachnoid hemorrhage
+nisoldipine,hypertension
+nisoldipine,hypertension
+nisoldipine,angina
+felodipine,hypertension
+felodipine,hypertension
+felodipine,angina
+nifedipine,hypertension
+nifedipine,coronary artery disease
+nifedipine,systemic scleroderma
+nifedipine,hypertension
+nifedipine,stable angina
+nifedipine,angina
+amlodipine,coronary artery disease
+amlodipine,hypertension
+amlodipine,coronary artery disease
+amlodipine,hypertension
+amlodipine,angina
+diltiazem,atrial fibrillation
+diltiazem,atrial fibrillation
+diltiazem,atrial flutter
+diltiazem,hypertension
+diltiazem,myocardial infarction
+diltiazem,coronary artery disease
+diltiazem,hypertension
+diltiazem,paroxysmal supraventricular tachycardia
+diltiazem,supraventricular tachycardia
+diltiazem,angina
+verapamil,atrial fibrillation
+verapamil,atrial fibrillation
+verapamil,atrial flutter
+verapamil,hypertension
+verapamil,myocardial infarction
+verapamil,migraine
+verapamil,hypertension
+verapamil,paroxysmal supraventricular tachycardia
+verapamil,supraventricular tachycardia
+verapamil,angina
+cinacalcet,chronic kidney failure
+cinacalcet,hypercalcemia
+cyclosporine,rheumatoid arthritis
+cyclosporine,systemic lupus erythematosus
+cyclosporine,rheumatoid arthritis
+cyclosporine,systemic lupus erythematosus
+cyclosporine,psoriasis
+cyclosporine,myasthenia gravis
+cyclosporine,focal segmental glomerulosclerosis
+cyclosporine,focal glomerulosclerosis
+cyclosporine,psoriasis
+cyclosporine,graft-vs-host disease
+calcitonin (salmon synthetic),hypercalcemia
+calcitonin (salmon synthetic),osteoporosis
+calcitonin (salmon synthetic),osteitis deformans
+calcitonin (salmon synthetic),osteogenesis imperfecta
+salmon calcitonin,hypercalcemia
+salmon calcitonin,osteoporosis
+salmon calcitonin,osteitis deformans
+salmon calcitonin,osteogenesis imperfecta
+calcitonin,hypercalcemia
+calcitonin,osteoporosis
+calcitonin,osteitis deformans
+calcitonin,osteogenesis imperfecta
+calcium chloride,not_found
+nabilone,nausea
+nabilone,vomiting
+tetrahydrocannabinol,nausea
+tetrahydrocannabinol,anorexia
+tetrahydrocannabinol,vomiting
+meprobamate,muscle rigidity
+meprobamate,muscle spasticity
+meprobamate,spasm
+meprobamate,headache
+meprobamate,anxiety
+ertapenem,bacterial infection
+imipenem,pelvic infection
+imipenem,enterobacter
+imipenem,streptococcus
+imipenem,staphylococcus
+imipenem,sepsis
+imipenem,infective endocarditis
+imipenem,pseudomonas colitis
+imipenem,urinary tract infection
+imipenem,bacterial infection
+meropenem,bacterial infection
+acetazolamide,epilepsy syndrome
+acetazolamide,altitude sickness
+acetazolamide,glaucoma
+acetazolamide,glaucoma
+acetazolamide,seizures
+brinzolamide,glaucoma
+brinzolamide,hypertension
+dorzolamide,glaucoma
+dorzolamide,hypertension
+methazolamide,glaucoma
+methazolamide,glaucoma
+methazolamide,glaucoma
+dichlorphenamide,glaucoma
+carglumic acid,hyperammonemia
+palbociclib,breast cancer
+guanfacine,hypertension
+guanfacine,attention deficit hyperactive disorder
+guanfacine,hypertension
+guanfacine,attention deficit hyperactivity disorder
+cefaclor,otitis media
+cefaclor,pneumonia
+cefaclor,cellulitis
+cefaclor,bronchitis
+cefaclor,streptococcus
+cefaclor,staphylococcus
+cefaclor,proteus
+cefaclor,pharyngitis
+cefaclor,haemophilus
+cefaclor,urinary tract infection
+cefaclor,bacterial infection
+cefaclor,escherichia coli
+cefaclor,klebsiella
+cefalexin,bacterial infection
+cefazolin,pneumonia
+cefazolin,cellulitis
+cefazolin,streptococcus
+cefazolin,staphylococcus
+cefazolin,proteus
+cefazolin,infective endocarditis
+cefazolin,urinary tract infection
+cefazolin,bacterial infection
+cefazolin,escherichia coli
+cefazolin,klebsiella
+cefazolin,human bite
+cefdinir,allergic rhinitis
+cefdinir,asthma
+cefepime,bacterial infection
+cefixime,otitis media
+cefixime,pneumonia
+cefixime,cellulitis
+cefixime,bronchitis
+cefixime,gonorrhea
+cefixime,streptococcus
+cefixime,moraxella
+cefixime,staphylococcus
+cefixime,proteus
+cefixime,haemophilus
+cefixime,urinary tract infection
+cefixime,bacterial infection
+cefixime,escherichia coli
+cefixime,klebsiella
+cefotaxime,bacteroides
+cefotaxime,serratia
+cefotaxime,gonorrhea
+cefotaxime,urinary tract infection
+cefotaxime,bacterial infection
+cefotaxime,fusobacterium infections
+cefotaxime,pneumonia
+cefotaxime,cellulitis
+cefotaxime,streptococcus
+cefotaxime,staphylococcus
+cefotaxime,klebsiella
+cefotaxime,meningitis bacterial
+cefotaxime,peritonitis
+cefotaxime,sepsis
+cefotaxime,proteus
+cefotaxime,pseudomonas colitis
+cefotaxime,escherichia coli
+cefotaxime,clostridium
+cefotaxime,not_found
+cefotaxime,haemophilus
+cefotaxime,salmonella infections
+cefotaxime,acinetobacter
+cefotetan,bacteroides
+cefotetan,clostridium
+cefotetan,cellulitis
+cefotetan,gonorrhea
+cefotetan,streptococcus
+cefotetan,peritonitis
+cefotetan,staphylococcus
+cefotetan,proteus
+cefotetan,sepsis
+cefotetan,escherichia coli
+cefotetan,haemophilus
+cefotetan,urinary tract infection
+cefotetan,bacterial infection
+cefotetan,abscess
+cefotetan,fusobacterium infections
+cefotetan,klebsiella
+cefotetan,human bite
+cefoxitin,bacteroides
+cefoxitin,clostridium
+cefoxitin,cellulitis
+cefoxitin,gonorrhea
+cefoxitin,streptococcus
+cefoxitin,staphylococcus
+cefoxitin,peritonitis
+cefoxitin,proteus
+cefoxitin,sepsis
+cefoxitin,haemophilus
+cefoxitin,abscess
+cefoxitin,urinary tract infection
+cefoxitin,bacterial infection
+cefoxitin,escherichia coli
+cefoxitin,klebsiella
+cefpodoxime,urinary tract infection
+cefpodoxime,bacterial infection
+cefprozil,bacterial infection
+ceftaroline,bacterial infection
+ceftaroline fosamil,bacterial infection
+ceftazidime,pneumonia
+ceftazidime,meningitis bacterial
+ceftazidime,cellulitis
+ceftazidime,neutropenia
+ceftazidime,streptococcus
+ceftazidime,serratia
+ceftazidime,staphylococcus
+ceftazidime,sepsis
+ceftazidime,proteus
+ceftazidime,pseudomonas colitis
+ceftazidime,haemophilus
+ceftazidime,urinary tract infection
+ceftazidime,bacterial infection
+ceftazidime,acinetobacter
+ceftazidime,fever
+ceftazidime,escherichia coli
+ceftazidime,klebsiella
+ceftolozane,bacterial infection
+ceftriaxone,otitis media
+ceftriaxone,chancroids
+ceftriaxone,bacterial infection
+ceftriaxone,serratia
+ceftriaxone,gonorrhea
+ceftriaxone,urinary tract infection
+ceftriaxone,bacterial infection
+ceftriaxone,epididymitis
+ceftriaxone,lyme disease
+ceftriaxone,pneumonia
+ceftriaxone,cellulitis
+ceftriaxone,streptococcus
+ceftriaxone,staphylococcus
+ceftriaxone,klebsiella
+ceftriaxone,pelvic infection
+ceftriaxone,meningitis bacterial
+ceftriaxone,peritonitis
+ceftriaxone,sepsis
+ceftriaxone,proteus
+ceftriaxone,pseudomonas colitis
+ceftriaxone,escherichia coli
+ceftriaxone,clostridium
+ceftriaxone,enteritis
+ceftriaxone,salmonella infections
+ceftriaxone,proctocolitis
+ceftriaxone,acinetobacter
+cefuroxime,impetigo
+cefuroxime,pneumonia
+cefuroxime,sinusitis
+cefuroxime,meningitis bacterial
+cefuroxime,gonorrhea
+cefuroxime,pharyngitis
+cefuroxime,sepsis
+cefuroxime,haemophilus
+cefuroxime,proteus
+cefuroxime,urinary tract infection
+cefuroxime,bacterial infection
+cefuroxime,lyme disease
+cefuroxime,escherichia coli
+cefuroxime,klebsiella
+cefadroxil,impetigo
+cefadroxil,proteus
+cefadroxil,pharyngitis
+cefadroxil,infective endocarditis
+cefadroxil,urinary tract infection
+cefadroxil,bacterial infection
+cefadroxil,escherichia coli
+cefadroxil,klebsiella
+cephalexin,pneumonia
+cephalexin,otitis media
+cephalexin,cellulitis
+cephalexin,streptococcus
+cephalexin,moraxella
+cephalexin,staphylococcus
+cephalexin,proteus
+cephalexin,pharyngitis
+cephalexin,haemophilus
+cephalexin,infective endocarditis
+cephalexin,urinary tract infection
+cephalexin,bacterial infection
+cephalexin,chronic kidney failure
+cephalexin,escherichia coli
+cephalexin,klebsiella
+cephalexin,human bite
+dimercaprol,mercury poisoning
+dimercaprol,arsenic poisoning
+dimercaprol,lead poisoning
+succimer,lead poisoning
+bleomycin,testicular neoplasms
+bleomycin,hodgkin disease
+bleomycin,lymphoma
+bleomycin,melanoma
+bleomycin,sarcoma
+bleomycin,testicular neoplasms
+bleomycin,melanoma
+bleomycin,hematologic cancer
+bleomycin,squamous cell carcinoma
+bleomycin,lymphatic system cancer
+bleomycin,skin cancer
+bleomycin,germ cell cancer
+bleomycin,choriocarcinoma
+bleomycin,teratocarcinoma
+busulfan,colon cancer
+busulfan,leukemias
+busulfan,myelofibrosis
+busulfan,hematologic cancer
+busulfan,polycythemia vera
+chlorambucil,testicular neoplasms
+chlorambucil,hodgkin disease
+chlorambucil,breast cancer
+chlorambucil,thrombocytosis
+chlorambucil,malignancy
+chlorambucil,lymphoma
+chlorambucil,ovarian neoplasm
+chlorambucil,leukemias
+chlorambucil,ovarian neoplasm
+chlorambucil,testicular neoplasms
+chlorambucil,hematologic cancer
+chlorambucil,waldenstrom macroglobulinemia
+chlorambucil,choriocarcinoma
+chlormethine,prostatic neoplasms
+clofarabine,hematologic cancer
+cytarabine,colon cancer
+cytarabine,lymphoma
+cytarabine,leukemias
+cytarabine,hematologic cancer
+cytarabine,meningeal neoplasms
+cytarabine,lymphatic system cancer
+cytarabine,meningioma
+dacarbazine,hodgkin disease
+dacarbazine,fibrosarcoma
+dacarbazine,neuroblastoma
+dacarbazine,sarcoma
+dacarbazine,melanoma
+dacarbazine,not_found
+dacarbazine,melanoma
+dacarbazine,hematologic cancer
+dacarbazine,medullary carcinoma
+dacarbazine,skin cancer
+dacarbazine,pancreatic endocrine neoplasm
+dacarbazine,pancreatic neoplasm
+dacarbazine,peripheral nervous system neoplasm
+dacarbazine,rhabdomyosarcoma
+dactinomycin,testicular neoplasms
+dactinomycin,retinoblastoma
+dactinomycin,gestational trophoblastic disease
+dactinomycin,neuroblastoma
+dactinomycin,sarcoma
+dactinomycin,not_found
+dactinomycin,nephroblastoma
+dactinomycin,ewings sarcoma
+dactinomycin,melanoma
+dactinomycin,uterine cancer
+dactinomycin,ocular cancer
+dactinomycin,melanoma
+dactinomycin,testicular neoplasms
+dactinomycin,kaposi sarcoma
+dactinomycin,rhabdomyosarcoma
+dactinomycin,skin cancer
+dactinomycin,germ cell cancer
+dactinomycin,peripheral nervous system neoplasm
+dactinomycin,choriocarcinoma
+dactinomycin,uterine neoplasms
+dactinomycin,kidney neoplasm
+dactinomycin,soft tissue neoplasms
+daunorubicin,hematologic cancer
+daunorubicin,leukemias
+daunorubicin,lymphoma
+decitabine,anemia
+doxorubicin,testicular neoplasms
+doxorubicin,pancreatic neoplasm
+doxorubicin,neuroblastoma
+doxorubicin,lymphoma
+doxorubicin,sarcoma
+doxorubicin,leukemias
+doxorubicin,gastrointestinal neoplasms
+doxorubicin,not_found
+doxorubicin,not_found
+doxorubicin,nephroblastoma
+doxorubicin,uterine cancer
+doxorubicin,prostatic neoplasms
+doxorubicin,stomach cancer
+doxorubicin,pancreatic neoplasm
+doxorubicin,thyroid neoplasms
+doxorubicin,urinary bladder cancer
+doxorubicin,breast cancer
+doxorubicin,malignancy
+doxorubicin,ovarian neoplasm
+doxorubicin,ovarian neoplasm
+doxorubicin,thyroid neoplasms
+doxorubicin,testicular neoplasms
+doxorubicin,lung neoplasms
+doxorubicin,multiple myeloma
+doxorubicin,mesothelioma
+doxorubicin,lung neoplasms
+doxorubicin,liver neoplasms
+doxorubicin,liver neoplasms
+doxorubicin,osteosarcoma
+doxorubicin,peripheral nervous system neoplasm
+doxorubicin,acquired immunodeficiency syndrome
+doxorubicin,hodgkin disease
+doxorubicin,uterine neoplasms
+doxorubicin,kidney neoplasm
+doxorubicin,hematologic cancer
+doxorubicin,prostatic neoplasms
+doxorubicin,soft tissue neoplasms
+epirubicin,testicular neoplasms
+epirubicin,breast cancer
+epirubicin,malignancy
+epirubicin,sarcoma
+epirubicin,ovarian neoplasm
+epirubicin,thyroid neoplasms
+epirubicin,not_found
+epirubicin,urinary bladder cancer
+epirubicin,liver neoplasms
+epirubicin,hematologic cancer
+epirubicin,uterine cancer
+epirubicin,stomach cancer
+epirubicin,prostatic neoplasms
+epirubicin,pancreatic neoplasm
+epirubicin,peripheral nervous system neoplasm
+epirubicin,acquired immunodeficiency syndrome
+eribulin,breast cancer
+floxuridine,colorectal neoplasms
+floxuridine,stomach cancer
+floxuridine,malignancy
+flucytosine,meningitis cryptococcal
+flucytosine,chromoblastomycosis
+flucytosine,aspergillosis
+flucytosine,candidiasis
+fludarabine,hematologic cancer
+fludarabine,lymphatic system cancer
+gemcitabine,breast cancer
+gemcitabine,kidney neoplasm
+gemcitabine,lung neoplasms
+gemcitabine,hematologic cancer
+gemcitabine,pancreatic neoplasm
+gemcitabine,urinary bladder cancer
+idarubicin,breast cancer
+idarubicin,lymphoma
+idarubicin,malignancy
+idarubicin,leukemias
+idarubicin,hematologic cancer
+ifosfamide,testicular neoplasms
+ifosfamide,pancreatic neoplasm
+ifosfamide,hodgkin disease
+ifosfamide,lymphoma
+ifosfamide,malignancy
+ifosfamide,lung neoplasms
+ifosfamide,leukemias
+ifosfamide,sarcoma
+ifosfamide,testicular neoplasms
+ifosfamide,ovarian neoplasm
+ifosfamide,hematologic cancer
+ifosfamide,germ cell cancer
+irinotecan,breast cancer
+irinotecan,colon cancer
+irinotecan,lung neoplasms
+irinotecan,hematologic cancer
+irinotecan,stomach cancer
+irinotecan,pancreatic neoplasm
+ixabepilone,breast cancer
+mechlorethamine,hodgkin disease
+mechlorethamine,malignancy
+mechlorethamine,neoplasm metastasis
+mechlorethamine,mycosis fungoides
+mechlorethamine,hematologic cancer
+mechlorethamine,lymphatic system cancer
+melphalan,breast cancer
+melphalan,neuroblastoma
+melphalan,malignancy
+melphalan,sarcoma
+melphalan,ovarian neoplasm
+melphalan,ovarian neoplasm
+melphalan,not_found
+melphalan,melanoma
+melphalan,hematologic cancer
+melphalan,skin cancer
+melphalan,multiple myeloma
+melphalan,peripheral nervous system neoplasm
+melphalan,rhabdomyosarcoma
+mitomycin,pancreatic neoplasm
+mitomycin,adenocarcinoma
+mitomycin,malignancy
+mitomycin,glaucoma
+mitomycin,colorectal neoplasms
+mitomycin,stomach cancer
+mitomycin,urinary bladder cancer
+mitoxantrone,breast cancer
+mitoxantrone,malignancy
+mitoxantrone,lymphoma
+mitoxantrone,multiple sclerosis
+mitoxantrone,sarcoma
+mitoxantrone,leukemias
+mitoxantrone,pain
+mitoxantrone,sarcoma
+mitoxantrone,multiple sclerosis
+mitoxantrone,hematologic cancer
+mitoxantrone,prostatic neoplasms
+mitoxantrone,lymphatic system cancer
+mitoxantrone,prostatic neoplasms
+nelarabine,hematologic cancer
+pegaspargase,acute lymphocytic leukemia
+pomalidomide,multiple myeloma
+pralatrexate,lymphoma
+romidepsin,t-cell-lymphoma
+streptozocin,hodgkin disease
+streptozocin,hematologic cancer
+streptozocin,colorectal neoplasms
+streptozocin,pancreatic endocrine neoplasm
+temsirolimus,kidney neoplasm
+thioguanine,psoriasis
+thioguanine,leukemias
+thiotepa,adenocarcinoma
+thiotepa,breast cancer
+thiotepa,lymphoma
+thiotepa,malignancy
+thiotepa,sarcoma
+thiotepa,sarcoma
+thiotepa,ovarian neoplasm
+thiotepa,hematologic cancer
+thiotepa,urinary bladder cancer
+tiagabine,epilepsy syndrome
+tiagabine,bipolar disorder
+tipiracil,colon cancer
+topotecan,non small cell lung cancer
+topotecan,cervical cancer
+topotecan,ovarian neoplasm
+topotecan,ovarian neoplasm
+topotecan,lung neoplasms
+topotecan,carcinoma small cell
+topotecan,peripheral nervous system neoplasm
+topotecan,small cell carcinoma of lung
+topotecan,uterine cervical neoplasm
+trabectedin,sarcoma
+trabectedin,ovarian neoplasm
+valrubicin,urinary bladder cancer
+vinblastine,testicular neoplasms
+vinblastine,kidney neoplasm
+vinblastine,hodgkin disease
+vinblastine,breast cancer
+vinblastine,malignancy
+vinblastine,lung neoplasms
+vinblastine,mycosis fungoides
+vinblastine,kidney neoplasm
+vinblastine,testicular neoplasms
+vinblastine,lung neoplasms
+vinblastine,hematologic cancer
+vinblastine,histiocytosis
+vinblastine,idiopathic thrombocytopenic purpura
+vinblastine,germ cell cancer
+vinblastine,head and neck cancer
+vinblastine,head and neck cancer
+vinblastine,kaposi sarcoma
+vinblastine,choriocarcinoma
+vincristine,hodgkin disease
+vincristine,colon cancer
+vincristine,neuroblastoma
+vincristine,lymphoma
+vincristine,sarcoma
+vincristine,leukemias
+vincristine,kidney neoplasm
+vincristine,not_found
+vincristine,nephroblastoma
+vincristine,hematologic cancer
+vincristine,lymphatic system cancer
+vincristine,peripheral nervous system neoplasm
+vincristine,rhabdomyosarcoma
+vinorelbine,lung neoplasms
+vinorelbine,breast cancer
+vinorelbine,ovarian neoplasm
+vinorelbine,hematologic cancer
+vorinostat,hematologic cancer
+vorinostat,lymphoma
+ezetimibe,atherosclerosis
+ezetimibe,coronary artery disease
+methacholine,bronchial hyperreactivity
+carbachol,glaucoma
+carbachol,glaucoma
+echothiophate,refractive error
+echothiophate,esotropia
+echothiophate,glaucoma
+echothiophate,glaucoma
+echothiophate,glaucoma
+rivastigmine,alzheimers disease
+rivastigmine,parkinsons disease
+donepezil,alzheimers disease
+galantamine,alzheimers disease
+galantamine,alzheimers disease
+memantine,alzheimers disease
+memantine,parkinsons disease
+memantine,alzheimers disease
+neostigmine,urinary retention
+neostigmine,myasthenia gravis
+chorionic gonadotropin,infertility
+clonidine,urinary tract infection
+clonidine,not_found
+clonidine,alcoholism
+clonidine,restless legs syndrome
+clonidine,dysmenorrhea
+clonidine,sialorrhea
+clonidine,attention deficit hyperactivity disorder
+clonidine,muscle spasticity
+clonidine,opioid withdrawal
+clonidine,hot flushes
+clonidine,pain
+clonidine,hypertension
+clonidine,glaucoma
+clonidine,glaucoma
+clonidine,attention deficit hyperactive disorder
+clonidine,diarrhea
+clonidine,tourette syndrome
+clonidine,hypertension
+clonidine,tourette syndrome
+colchicine,primary biliary cirrhosis
+colchicine,gout
+colchicine,amyloidosis
+colchicine,gout
+colchicine,systemic scleroderma
+colchicine,biliary cirrhosis
+colchicine,familial mediterranean fever
+copper,pregnancy
+alclometasone,dermatitis
+alclometasone,dermatoses
+alclometasone,inflammation
+amcinonide,rash
+beclomethasone,asthma
+beclomethasone,asthma
+beclomethasone,rhinitis
+beclomethasone,inflammation
+beclomethasone,psoriasis
+beclomethasone,nasal polyps
+betamethasone,rheumatoid arthritis
+betamethasone,anal pruritus
+betamethasone,hypertension
+betamethasone,ankylosing spondylitis
+betamethasone,ulcerative colitis
+betamethasone,psoriasis
+betamethasone,breast cancer
+betamethasone,colon cancer
+betamethasone,allergic rhinitis
+betamethasone,asthma
+betamethasone,multiple sclerosis
+betamethasone,anemia
+betamethasone,not_found
+betamethasone,psoriasis
+betamethasone,psoriatic arthritis
+betamethasone,seborrheic dermatitis
+betamethasone,systemic lupus erythematosus
+betamethasone,dermatitis atopic
+betamethasone,kidney neoplasm
+betamethasone,hematologic cancer
+betamethasone,inflammation
+betamethasone,prostatic neoplasms
+betamethasone,dermatoses
+betamethasone,atopic dermatitis
+budesonide,inflammatory bowel diseases
+budesonide,asthma
+budesonide,asthma
+budesonide,rhinitis
+budesonide,ulcerative colitis
+budesonide,nasal polyps
+ciclesonide,asthma
+clocortolone,clocortolone
+corticotropin,nephrotic syndrome
+corticotropin,collagen diseases
+corticotropin,sarcoidosis
+corticotropin,multiple sclerosis
+corticotropin,erythema multiforme
+corticotropin,optic neuritis
+corticotropin,rheumatism
+corticotropin,west syndrome
+corticotropin,uveitis
+corticotropin,serum sickness
+cortisone,dermatomyositis
+cortisone,pemphigus
+cortisone,thyroiditis
+cortisone,arthritis gouty
+cortisone,leukemias
+cortisone,iritis
+cortisone,mycosis fungoides
+cortisone,adrenal insufficiency
+cortisone,ulcerative colitis
+cortisone,psoriasis
+cortisone,hypercalcemia
+cortisone,sarcoidosis
+cortisone,rheumatoid arthritis
+cortisone,idiopathic thrombocytopenic purpura
+cortisone,ankylosing spondylitis
+cortisone,bursitis
+cortisone,asthma
+cortisone,berylliosis
+cortisone,systemic lupus erythematosus
+cortisone,rheumatism
+cortisone,keratitis
+cortisone,dermatitis herpetiformis
+cortisone,exfoliative dermatitis
+cortisone,seborrheic dermatitis
+cortisone,nephrotic syndrome
+cortisone,tuberculosis
+cortisone,dermatitis atopic
+cortisone,rhinitis
+cortisone,choroiditis
+cortisone,erythema multiforme
+cortisone,collagen diseases
+deflazacort,not_found
+deflazacort,duchenne muscular dystrophy
+desonide,pruritis
+desonide,dermatoses
+desonide,inflammation
+desoximetasone,pruritis
+desoximetasone,dermatoses
+desoximetasone,inflammation
+diflorasone,pruritis
+diflorasone,dermatoses
+diflorasone,inflammation
+difluprednate,occular inflamation
+fluocinolone acetonide,pruritis
+fluocinolone acetonide,dermatoses
+fluocinolone acetonide,inflammation
+fluocinonide,pruritis
+fluocinonide,inflammation
+fluocinonide,psoriasis
+fluocinonide,dermatoses
+fluocinonide,atopic dermatitis
+flurandrenolide,dermatoses
+flurandrenolide,inflammation
+"fluti, bacterial infectionscasone",asthma
+"fluti, bacterial infectionscasone",chronic obstructive pulmonary disease
+"fluti, bacterial infectionscasone furoate",asthma
+"fluti, bacterial infectionscasone furoate",chronic obstructive pulmonary disease
+halcinonide,pruritis
+halcinonide,inflammation
+halcinonide,psoriasis
+halcinonide,dermatoses
+halcinonide,atopic dermatitis
+halobetasol,pruritis
+halobetasol,inflammation
+halobetasol,psoriasis
+halobetasol,dermatoses
+halobetasol,atopic dermatitis
+hydrocortisone,rheumatoid arthritis
+hydrocortisone,gout
+hydrocortisone,anal pruritus
+hydrocortisone,hemorrhoids
+hydrocortisone,status asthmaticus
+hydrocortisone,adrenal insufficiency
+hydrocortisone,ulcerative colitis
+hydrocortisone,ulcerative colitis
+hydrocortisone,allergic rhinitis
+hydrocortisone,asthma
+hydrocortisone,psoriasis
+hydrocortisone,contact dermatitis
+hydrocortisone,shock
+hydrocortisone,congenital adrenal hyperplasia
+hydrocortisone,rheumatism
+hydrocortisone,systemic lupus erythematosus
+hydrocortisone,kidney neoplasm
+hydrocortisone,inflammation
+hydrocortisone,prostatic neoplasms
+hydrocortisone,dermatoses
+hydrocortisone,atopic dermatitis
+hydrocortisone butyrate,rheumatoid arthritis
+hydrocortisone butyrate,gout
+hydrocortisone butyrate,anal pruritus
+hydrocortisone butyrate,hemorrhoids
+hydrocortisone butyrate,status asthmaticus
+hydrocortisone butyrate,adrenal insufficiency
+hydrocortisone butyrate,ulcerative colitis
+hydrocortisone butyrate,ulcerative colitis
+hydrocortisone butyrate,allergic rhinitis
+hydrocortisone butyrate,asthma
+hydrocortisone butyrate,psoriasis
+hydrocortisone butyrate,contact dermatitis
+hydrocortisone butyrate,shock
+hydrocortisone butyrate,congenital adrenal hyperplasia
+hydrocortisone butyrate,rheumatism
+hydrocortisone butyrate,systemic lupus erythematosus
+hydrocortisone butyrate,kidney neoplasm
+hydrocortisone butyrate,inflammation
+hydrocortisone butyrate,prostatic neoplasms
+hydrocortisone butyrate,dermatoses
+hydrocortisone butyrate,atopic dermatitis
+loteprednol,edema
+loteprednol,allergic conjunctivitis
+loteprednol,rosacea
+loteprednol,iritis
+loteprednol,bacterial conjunctivitis
+loteprednol,inflammation
+loteprednol,viral conjunctivitis
+loteprednol,keratitis
+loteprednol etabonate,edema
+loteprednol etabonate,allergic conjunctivitis
+loteprednol etabonate,rosacea
+loteprednol etabonate,iritis
+loteprednol etabonate,bacterial conjunctivitis
+loteprednol etabonate,inflammation
+loteprednol etabonate,viral conjunctivitis
+loteprednol etabonate,keratitis
+mometasone,asthma
+mometasone,rhinitis
+mometasone,pruritis
+mometasone,inflammation
+mometasone,systemic scleroderma
+mometasone,dermatoses
+mometasone,atopic dermatitis
+prednicarbate,pruritis
+prednicarbate,inflammation
+prednicarbate,psoriasis
+prednicarbate,dermatoses
+prednicarbate,atopic dermatitis
+prednisolone,chronic obstructive pulmonary disease
+prednisolone,rheumatoid arthritis
+prednisolone,gout
+prednisolone,allergic rhinitis
+prednisolone,asthma
+prednisolone,multiple sclerosis
+prednisolone,psoriatic arthritis
+prednisolone,systemic lupus erythematosus
+prednisolone,hematologic cancer
+prednisolone,ankylosing spondylitis
+prednisolone,anemia
+prednisolone,idiopathic pulmonary fibrosis
+prednisolone,psoriasis
+prednisolone,ulcerative colitis
+prednisolone,atopic dermatitis
+prednisone,dermatomyositis
+prednisone,pemphigus
+prednisone,rheumatoid arthritis
+prednisone,thyroiditis
+prednisone,lymphoma
+prednisone,gout
+prednisone,arthritis gouty
+prednisone,leukemias
+prednisone,iritis
+prednisone,multiple sclerosis
+prednisone,synovitis
+prednisone,neuralgia
+prednisone,ankylosing spondylitis
+prednisone,adrenal insufficiency
+prednisone,serum sickness
+prednisone,ulcerative colitis
+prednisone,ulcerative colitis
+prednisone,hypercalcemia
+prednisone,allergic conjunctivitis
+prednisone,multiple sclerosis
+prednisone,sarcoidosis
+prednisone,asthma
+prednisone,rheumatoid arthritis
+prednisone,crohns disease
+prednisone,idiopathic thrombocytopenic purpura
+prednisone,anemia
+prednisone,autoimmune hemolytic anemia
+prednisone,psoriasis
+prednisone,osteoarthritis
+prednisone,ankylosing spondylitis
+prednisone,graft-vs-host disease
+prednisone,contact dermatitis
+prednisone,chronic obstructive pulmonary disease
+prednisone,bursitis
+prednisone,asthma
+prednisone,berylliosis
+prednisone,psoriatic arthritis
+prednisone,systemic lupus erythematosus
+prednisone,arthritis psoriatic
+prednisone,rheumatism
+prednisone,migraine
+prednisone,dermatitis herpetiformis
+prednisone,nephrotic syndrome
+prednisone,seborrheic dermatitis
+prednisone,tuberculosis
+prednisone,systemic lupus erythematosus
+prednisone,dermatitis atopic
+prednisone,rhinitis
+prednisone,erythema multiforme
+prednisone,hematologic cancer
+prednisone,inflammation
+prednisone,prostatic neoplasms
+prednisone,systemic scleroderma
+prednisone,collagen diseases
+prednisone,atopic dermatitis
+beclometasone,asthma
+beclometasone,chronic obstructive pulmonary disease
+fludrocortisone,parkinsons disease
+fludrocortisone,adrenal gland hyperfunction
+fludrocortisone,addison disease
+dexamethasone,pemphigus
+dexamethasone,rheumatoid arthritis
+dexamethasone,thyroiditis
+dexamethasone,gout
+dexamethasone,arthritis gouty
+dexamethasone,leukemias
+dexamethasone,synovitis
+dexamethasone,multiple sclerosis
+dexamethasone,mycosis fungoides
+dexamethasone,ankylosing spondylitis
+dexamethasone,adrenal insufficiency
+dexamethasone,hematological disease
+dexamethasone,ulcerative colitis
+dexamethasone,ulcerative colitis
+dexamethasone,hypercalcemia
+dexamethasone,allergic rhinitis
+dexamethasone,sarcoidosis
+dexamethasone,asthma
+dexamethasone,rheumatoid arthritis
+dexamethasone,neurologic manifestations
+dexamethasone,multiple sclerosis
+dexamethasone,brain neoplasms
+dexamethasone,anemia
+dexamethasone,not_found
+dexamethasone,osteoarthritis
+dexamethasone,ankylosing spondylitis
+dexamethasone,graft-vs-host disease
+dexamethasone,asthma
+dexamethasone,berylliosis
+dexamethasone,psoriatic arthritis
+dexamethasone,systemic lupus erythematosus
+dexamethasone,rheumatism
+dexamethasone,uveitis
+dexamethasone,dermatitis herpetiformis
+dexamethasone,nephrotic syndrome
+dexamethasone,tuberculosis
+dexamethasone,systemic lupus erythematosus
+dexamethasone,dermatitis atopic
+dexamethasone,erythema multiforme
+dexamethasone,hematologic cancer
+dexamethasone,inflammation
+dexamethasone,acute respiratory distress syndrome
+dexamethasone,serum sickness
+dexamethasone,atopic dermatitis
+methylprednisolone,pemphigus
+methylprednisolone,rheumatoid arthritis
+methylprednisolone,thyroiditis
+methylprednisolone,gout
+methylprednisolone,arthritis gouty
+methylprednisolone,leukemias
+methylprednisolone,synovitis
+methylprednisolone,multiple sclerosis
+methylprednisolone,mycosis fungoides
+methylprednisolone,ankylosing spondylitis
+methylprednisolone,adrenal insufficiency
+methylprednisolone,hematological disease
+methylprednisolone,ulcerative colitis
+methylprednisolone,ulcerative colitis
+methylprednisolone,hypercalcemia
+methylprednisolone,allergic rhinitis
+methylprednisolone,sarcoidosis
+methylprednisolone,asthma
+methylprednisolone,rheumatoid arthritis
+methylprednisolone,neurologic manifestations
+methylprednisolone,multiple sclerosis
+methylprednisolone,brain neoplasms
+methylprednisolone,anemia
+methylprednisolone,not_found
+methylprednisolone,osteoarthritis
+methylprednisolone,ankylosing spondylitis
+methylprednisolone,graft-vs-host disease
+methylprednisolone,asthma
+methylprednisolone,berylliosis
+methylprednisolone,psoriatic arthritis
+methylprednisolone,systemic lupus erythematosus
+methylprednisolone,rheumatism
+methylprednisolone,uveitis
+methylprednisolone,dermatitis herpetiformis
+methylprednisolone,nephrotic syndrome
+methylprednisolone,tuberculosis
+methylprednisolone,systemic lupus erythematosus
+methylprednisolone,dermatitis atopic
+methylprednisolone,erythema multiforme
+methylprednisolone,hematologic cancer
+methylprednisolone,inflammation
+methylprednisolone,acute respiratory distress syndrome
+methylprednisolone,serum sickness
+methylprednisolone,atopic dermatitis
+benzonatate,cough
+dextromethorphan,multiple sclerosis
+dextromethorphan,amyotrophic lateral sclerosis
+dextromethorphan,cough
+guaifenesin,laryngitis
+guaifenesin,sinusitis
+guaifenesin,bronchitis
+guaifenesin,cough
+guaifenesin,rhinitis
+guaifenesin,pharyngitis
+guaifenesin,common cold
+guaifenesin,pertussis
+sodium chloride,not_found
+celecoxib,rheumatoid arthritis
+celecoxib,colon cancer
+celecoxib,systemic lupus erythematosus
+celecoxib,kidney neoplasm
+celecoxib,hematologic cancer
+celecoxib,ankylosing spondylitis
+celecoxib,prostatic neoplasms
+celecoxib,systemic scleroderma
+celecoxib,osteoarthritis
+crofelemer,diarrhea
+crotamiton,scabies
+cupric chloride,not_found
+ribociclib,metastatic breast cancer
+cysteamine,cystinosis
+dapsone,lepromatous leprosy
+dapsone,lepromatous leprosy
+dapsone,polychondritis relapsing
+dapsone,systemic lupus erythematosus
+dapsone,malaria
+dapsone,malaria
+dapsone,toxoplasmosis
+dapsone,dermatitis herpetiformis
+desmopressin,diabetes insipidus
+desmopressin,hemophilia a
+desmopressin,von willebrand disease
+bismuth,dysentery bacterial
+bismuth,nausea
+bismuth,virus diseases
+bismuth,diarrhea
+bismuth,stomach diseases
+bismuth,escherichia coli
+bismuth,helicobacter pylori
+calcipotriene,psoriasis
+capsaicin,neuralgia
+capsaicin,pain
+capsaicin,diabetic neuropathy
+capsaicin,herpes zoster
+ciclopirox,topical antifungal
+clobetasol,dermatitis
+clobetasol,dermatoses
+clobetasol,inflammation
+collagenase,not_found
+fluocinolone,not_found
+fluorouracil,pancreatic neoplasm
+fluorouracil,breast cancer
+fluorouracil,basal cell carcinoma
+fluorouracil,colon cancer
+fluorouracil,malignancy
+fluorouracil,colorectal neoplasms
+fluorouracil,urinary bladder cancer
+fluorouracil,keratosis
+fluorouracil,skin cancer
+fluorouracil,rectal neoplasms
+fluorouracil,stomach cancer
+fluorouracil,head and neck cancer
+fluorouracil,pancreatic neoplasm
+fluorouracil,head and neck cancer
+imiquimod,skin cancer
+menthol,pain
+mupirocin,impetigo
+mupirocin,atopic dermatitis
+pimecrolimus,atopic dermatitis
+pimecrolimus,dermatitis atopic
+pramoxine,pruritis
+salicylic acid,psoriasis
+selenium,not_found
+selenium sulfide,dandruff
+selenium sulfide,seborrheic dermatitis
+silver sulfadiazine,wound infection
+talc,pneumothorax
+talc,pleural effusion
+triamcinolone,pemphigus
+triamcinolone,rheumatoid arthritis
+triamcinolone,thyroiditis
+triamcinolone,arthritis gouty
+triamcinolone,synovitis
+triamcinolone,multiple sclerosis
+triamcinolone,bronchospasm
+triamcinolone,ankylosing spondylitis
+triamcinolone,adrenal insufficiency
+triamcinolone,ulcerative colitis
+triamcinolone,ulcerative colitis
+triamcinolone,hypercalcemia
+triamcinolone,allergic rhinitis
+triamcinolone,asthma
+triamcinolone,epilepsy syndrome
+triamcinolone,rheumatoid arthritis
+triamcinolone,alopecia areata
+triamcinolone,multiple sclerosis
+triamcinolone,anemia
+triamcinolone,not_found
+triamcinolone,psoriasis
+triamcinolone,ankylosing spondylitis
+triamcinolone,asthma
+triamcinolone,berylliosis
+triamcinolone,psoriatic arthritis
+triamcinolone,systemic lupus erythematosus
+triamcinolone,rheumatism
+triamcinolone,uveitis
+triamcinolone,dermatitis herpetiformis
+triamcinolone,anemia hemolytic
+triamcinolone,nephrotic syndrome
+triamcinolone,tuberculosis
+triamcinolone,systemic lupus erythematosus
+triamcinolone,dermatitis atopic
+triamcinolone,rhinitis
+triamcinolone,erythema multiforme
+triamcinolone,hematologic cancer
+triamcinolone,inflammation
+triamcinolone,serum sickness
+triamcinolone,dermatoses
+triamcinolone,atopic dermatitis
+deutetrabenazine,chorea
+dexrazoxane,breast cancer
+dexrazoxane,malignancy
+icodextrin,not_found
+diatrizoate,male urogenital diseases
+diatrizoate,cardiovascular diseases
+diatrizoate,liver diseases
+diatrizoate,musculoskeletal diseases
+diatrizoate,not_found
+diatrizoate,biliary tract diseases
+digoxin,congestive heart failure
+digoxin,atrial fibrillation
+digoxin,atrial fibrillation
+digoxin,dilated cardiomyopathy
+digoxin,atrial flutter
+digoxin,shock cardiogenic
+digoxin,heart failure with reduced ejection fraction
+digoxin,coronary artery disease
+digoxin,paroxysmal supraventricular tachycardia
+digoxin,supraventricular tachycardia
+digoxin,anxiety
+dimethyl sulfoxide,not_found
+disulfiram,alcohol dependence
+disulfiram,alcoholism
+ethacrynic acid,chronic kidney failure
+ethacrynic acid,edema
+ethacrynic acid,congestive heart failure
+ethacrynic acid,nephrotic syndrome
+ethacrynic acid,acute kidney injury
+ethacrynic acid,pulmonary edema
+ethacrynic acid,hypertension
+ethacrynic acid,ascites
+ethacrynic acid,liver cirrhosis
+amiloride,cystic fibrosis
+amiloride,edema
+amiloride,congestive heart failure
+amiloride,hypokalemia
+amiloride,polyuria
+amiloride,hypertension
+amiloride,hypertension
+amiloride,ascites
+abatacept,not_found
+apremilast,not_found
+leflunomide,systemic scleroderma
+leflunomide,rheumatoid arthritis
+leflunomide,systemic lupus erythematosus
+dornase alfa,not_found
+cabergoline,parkinsons disease
+carbidopa,alzheimers disease
+carbidopa,parkinsons disease
+carbidopa,parkinsons disease
+carbidopa,restless legs syndrome
+dopamine,heart block
+dopamine,kidney diseases
+dopamine,shock
+dopamine,hypertension
+dopamine,hypotension
+dopamine,bradycardia
+dopamine,heart failure with reduced ejection fraction
+dopamine,coronary artery disease
+methyldopa,hypertension
+methyldopa,hypertension
+methyldopa (levorotatory),not_found
+methyldopate,hypertension
+methyldopate,hypertension
+fenoldopam,congestive heart failure
+fenoldopam,hypertension
+fenoldopam,hypertension renovascular
+fenoldopam,malignancy
+doxapram,respiratory hypersensitivity
+doxapram,respiratory insufficiency
+doxapram,hypercapnia
+alogliptin,not_found
+linagliptin,diabetes mellitus
+linagliptin,diabetes mellitus
+saxagliptin,not_found
+sitagliptin,diabetes mellitus
+dyclonine,sore throat
+edaravone,stroke
+edaravone,amyotrophic lateral sclerosis
+edetate calcium,not_found
+eflornithine,hypertrichosis
+eflornithine,african trypanosomiasis
+eliglustat,gaucher disease
+eltrombopag,thrombocytopenia
+eltrombopag,aplastic anemia
+ambrisentan,pulmonary artery hypertension
+bosentan,pulmonary artery hypertension
+macitentan,pulmonary artery hypertension
+asfotase alfa,hypophosphatesia
+asparaginase,acute lymphocytic leukemia
+cerliponase,batten disease
+rasburicase,hyperuricemia
+rasburicase,tumor lysis syndrome
+sacrosidase,not_found
+sacrosidase,not_found
+taliglucerase alfa,gaucher disease
+elosulfase alfa,morquio syndrome
+galsulfase,mucopolysaccharidosis
+idursulfase,hunter syndrome
+imiglucerase,gaucher disease
+laronidase,mucopolysaccharidosis i
+pegademase bovine,adenosine deaminase deficiency
+pegloticase,gout
+epinephrine,anaphylaxis
+epinephrine,heart block
+epinephrine,allergic rhinitis
+epinephrine,asthma
+epinephrine,hypotension
+epinephrine,ventricular fibrillation
+epinephrine,ventricular fibrillation
+epinephrine,glaucoma
+epinephrine,bronchospasm
+epinephrine,bradycardia
+epinephrine,airway obstruction
+epinephrine,glaucoma
+epinephrine,cardiac arrest
+epinephrine,septic shock
+epinephrine,ventricular tachycardia
+"ergoloid mesylates, usp",dementia
+dihydroergotamine,xerostomia
+dihydroergotamine,headache
+dihydroergotamine,postpartum hemorrhage
+dihydroergotamine,migraine
+dihydroergotamine,migraine
+dihydroergotamine,orthostatic hypotension
+dihydroergotamine,angina
+ergotamine,headache
+ergotamine,postpartum hemorrhage
+ergotamine,migraine
+ergotamine,migraine
+ergotamine,angina
+darbepoetin alfa,anemia
+epoetin alfa,anemia
+erythropoietin,anemia
+conjugated estrogens,ovarian failure premature
+conjugated estrogens,osteoporosis
+conjugated estrogens,malignancy
+conjugated estrogens,menorrhagia
+conjugated estrogens,hot flushes
+conjugated estrogens,hypogonadism
+conjugated estrogens,premature menopause
+conjugated estrogens,prostatic neoplasms
+estradiol,ovarian failure premature
+estradiol,osteoporosis
+estradiol,malignancy
+estradiol,menorrhagia
+estradiol,hot flushes
+estradiol,hypogonadism
+estradiol,premature menopause
+estradiol,prostatic neoplasms
+estrogens,ovarian failure premature
+estrogens,osteoporosis
+estrogens,malignancy
+estrogens,menorrhagia
+estrogens,hot flushes
+estrogens,hypogonadism
+estrogens,premature menopause
+estrogens,prostatic neoplasms
+"estrogens, conjugated (usp)",ovarian failure premature
+"estrogens, conjugated (usp)",osteoporosis
+"estrogens, conjugated (usp)",malignancy
+"estrogens, conjugated (usp)",menorrhagia
+"estrogens, conjugated (usp)",hot flushes
+"estrogens, conjugated (usp)",hypogonadism
+"estrogens, conjugated (usp)",premature menopause
+"estrogens, conjugated (usp)",prostatic neoplasms
+estropipate,osteoporosis
+ethinyl estradiol,ovarian failure premature
+ethinyl estradiol,osteoporosis
+ethinyl estradiol,malignancy
+ethinyl estradiol,menorrhagia
+ethinyl estradiol,hot flushes
+ethinyl estradiol,hypogonadism
+ethinyl estradiol,premature menopause
+ethinyl estradiol,prostatic neoplasms
+eteplirsen,duchenne muscular dystrophy
+ethanol,reflex sympathetic dystrophy
+ethanolamine oleate,not_found
+fenofibrate,coronary artery disease
+fenofibrate,hypercholesterolemia
+fenofibrate,dyslipidemia
+fenofibrate,coronary artery disease
+fenofibrate,hypertriglyceridemia
+gemfibrozil,coronary artery disease
+gemfibrozil,pancreatitis
+gemfibrozil,hypercholesterolemia
+gemfibrozil,dyslipidemia
+gemfibrozil,sclerosing cholangitis
+gemfibrozil,coronary artery disease
+gemfibrozil,hypertriglyceridemia
+fingolimod,multiple sclerosis
+fluorescein,corneal diseases
+besifloxacin,gonorrhea
+besifloxacin,bacterial conjunctivitis
+besifloxacin,urinary tract infection
+besifloxacin,bacterial infection
+besifloxacin,epididymitis
+besifloxacin,otitis externa
+besifloxacin,prostatitis
+besifloxacin,cellulitis
+besifloxacin,staphylococcus
+besifloxacin,klebsiella
+besifloxacin,helicobacter pylori
+besifloxacin,chronic obstructive pulmonary disease
+besifloxacin,cystitis
+besifloxacin,proteus
+besifloxacin,escherichia coli
+besifloxacin,corneal ulcer
+besifloxacin,tuberculosis
+besifloxacin,bronchitis
+besifloxacin,haemophilus
+besifloxacin,salmonella infections
+besifloxacin,suppurative otitis media
+besifloxacin,chlamydia
+ofloxacin,gonorrhea
+ofloxacin,bacterial conjunctivitis
+ofloxacin,urinary tract infection
+ofloxacin,bacterial infection
+ofloxacin,epididymitis
+ofloxacin,otitis externa
+ofloxacin,prostatitis
+ofloxacin,cellulitis
+ofloxacin,staphylococcus
+ofloxacin,klebsiella
+ofloxacin,helicobacter pylori
+ofloxacin,chronic obstructive pulmonary disease
+ofloxacin,cystitis
+ofloxacin,proteus
+ofloxacin,escherichia coli
+ofloxacin,corneal ulcer
+ofloxacin,tuberculosis
+ofloxacin,bronchitis
+ofloxacin,haemophilus
+ofloxacin,salmonella infections
+ofloxacin,suppurative otitis media
+ofloxacin,chlamydia
+gatifloxacin,gonorrhea
+gatifloxacin,bacterial conjunctivitis
+gatifloxacin,urinary tract infection
+gatifloxacin,bacterial infection
+gatifloxacin,epididymitis
+gatifloxacin,otitis externa
+gatifloxacin,prostatitis
+gatifloxacin,cellulitis
+gatifloxacin,staphylococcus
+gatifloxacin,klebsiella
+gatifloxacin,helicobacter pylori
+gatifloxacin,chronic obstructive pulmonary disease
+gatifloxacin,cystitis
+gatifloxacin,proteus
+gatifloxacin,escherichia coli
+gatifloxacin,corneal ulcer
+gatifloxacin,tuberculosis
+gatifloxacin,bronchitis
+gatifloxacin,haemophilus
+gatifloxacin,salmonella infections
+gatifloxacin,suppurative otitis media
+gatifloxacin,chlamydia
+gemifloxacin,gonorrhea
+gemifloxacin,bacterial conjunctivitis
+gemifloxacin,urinary tract infection
+gemifloxacin,bacterial infection
+gemifloxacin,epididymitis
+gemifloxacin,otitis externa
+gemifloxacin,prostatitis
+gemifloxacin,cellulitis
+gemifloxacin,staphylococcus
+gemifloxacin,klebsiella
+gemifloxacin,helicobacter pylori
+gemifloxacin,chronic obstructive pulmonary disease
+gemifloxacin,cystitis
+gemifloxacin,proteus
+gemifloxacin,escherichia coli
+gemifloxacin,corneal ulcer
+gemifloxacin,tuberculosis
+gemifloxacin,bronchitis
+gemifloxacin,haemophilus
+gemifloxacin,salmonella infections
+gemifloxacin,suppurative otitis media
+gemifloxacin,chlamydia
+ciprofloxacin,bacteroides
+ciprofloxacin,pyelonephritis
+ciprofloxacin,dysentery
+ciprofloxacin,gonorrhea
+ciprofloxacin,bacterial conjunctivitis
+ciprofloxacin,urinary tract infection
+ciprofloxacin,bacterial infection
+ciprofloxacin,arthritis infectious
+ciprofloxacin,otitis externa
+ciprofloxacin,ulcerative colitis
+ciprofloxacin,prostatitis
+ciprofloxacin,anthrax
+ciprofloxacin,cellulitis
+ciprofloxacin,asthma
+ciprofloxacin,staphylococcus
+ciprofloxacin,osteomyelitis
+ciprofloxacin,fever
+ciprofloxacin,klebsiella
+ciprofloxacin,chronic obstructive pulmonary disease
+ciprofloxacin,sinusitis
+ciprofloxacin,cystitis
+ciprofloxacin,proteus
+ciprofloxacin,pseudomonas colitis
+ciprofloxacin,diarrhea
+ciprofloxacin,typhoid fever
+ciprofloxacin,escherichia coli
+ciprofloxacin,haemophilus
+ciprofloxacin,prostatic neoplasms
+ciprofloxacin,neutropenia
+ciprofloxacin,campylobacter infection
+levofloxacin,pyelonephritis
+levofloxacin,urinary tract infection
+levofloxacin,bacterial infection
+levofloxacin,pneumonia
+levofloxacin,cellulitis
+levofloxacin,asthma
+levofloxacin,streptococcus
+levofloxacin,staphylococcus
+levofloxacin,mycoplasma infections
+levofloxacin,klebsiella
+levofloxacin,chronic obstructive pulmonary disease
+levofloxacin,proteus
+levofloxacin,pseudomonas colitis
+levofloxacin,escherichia coli
+levofloxacin,tuberculosis
+levofloxacin,bronchitis
+levofloxacin,haemophilus
+levofloxacin,salmonella infections
+levofloxacin,legionnaires disease
+levofloxacin,maxillary sinusitis
+levofloxacin,chlamydia
+moxifloxacin,chronic obstructive pulmonary disease
+moxifloxacin,asthma
+moxifloxacin,hypertension
+folic acid,not_found
+leucovorin,colon cancer
+leucovorin,anemia megaloblastic
+leucovorin,folic acid deficiency
+leucovorin,not_found
+follitropin alfa,not_found
+follitropin beta,not_found
+fosaprepitant,nausea
+fosaprepitant,vomiting
+urofollitropin,female infertility
+urofollitropin,polycystic ovary syndrome
+anakinra,rheumatoid arthritis
+anakinra,stills disease
+anakinra,familial mediterranean fever
+belatacept,not_found
+aflibercept,macular degeneration
+rilonacept,not_found
+filgrastim,neutropenia
+filgrastim,infection
+pegfilgrastim,neutropenia
+pegfilgrastim,infection
+plerixafor,multiple myeloma
+plerixafor,hematologic cancer
+plerixafor,lymphoma
+flumazenil,drug overdose
+gabapentin,rheumatoid arthritis
+gabapentin,restless legs syndrome
+gabapentin,colon cancer
+gabapentin,systemic lupus erythematosus
+gabapentin,multiple sclerosis
+gabapentin,epilepsy syndrome
+gabapentin,kidney neoplasm
+gabapentin,parkinsons disease
+gabapentin,bipolar disorder
+gabapentin,migraine
+pregabalin,restless legs syndrome
+pregabalin,systemic lupus erythematosus
+pregabalin,multiple sclerosis
+pregabalin,epilepsy syndrome
+pregabalin,prostatic neoplasms
+albiglutide,diabetes mellitus
+dulaglutide,diabetes mellitus
+exenatide,diabetes mellitus
+teduglutide,short bowel syndrome
+liraglutide,diabetes mellitus
+lixisenatide,diabetes mellitus
+glucagon,anaphylaxis
+glucagon,hypoglycemia
+glucagon,shock cardiogenic
+glucagon,hypotension
+glucagon,bradycardia
+glucagon,not_found
+sargramostim,neutropenia
+nafarelin,precocious puberty
+nafarelin,endometriosis
+tesamorelin,hiv associated lipodystrophy
+triptorelin,prostatic neoplasms
+goserelin,breast cancer
+goserelin,malignancy
+goserelin,endometriosis
+goserelin,prostatic neoplasms
+goserelin,prostatic neoplasms
+histrelin,prostatic neoplasms
+histrelin,uterine fibroids
+leuprolide,endometrial neoplasms
+leuprolide,malignancy
+leuprolide,fibroid tumor
+leuprolide,endometriosis
+leuprolide,ovarian neoplasm
+leuprolide,prostatic neoplasms
+leuprolide,infertility
+leuprolide,precocious puberty
+leuprolide,prostatic hyperplasia
+leuprorelin,prostatic neoplasms
+leuprorelin,breast cancer
+leuprorelin,endometriosis
+leuprorelin,breast cancer
+cetrorelix,in vitro fertilization
+cetrorelix,not_found
+degarelix,prostatic neoplasms
+ganirelix,in vitro fertilization
+ganirelix,not_found
+auranofin,pemphigus
+auranofin,rheumatoid arthritis
+auranofin,psoriatic arthritis
+auranofin,rheumatoid arthritis
+auranofin,arthritis psoriatic
+lanreotide,acromegaly
+somatropin,prader-willi syndrome
+somatropin,turner syndrome
+somatropin,dwarfism
+somatropin,noonan syndrome
+somatropin,cachexia
+guanidine,lambert-eaton myasthenia
+guanidine,muscle weakness
+linaclotide,irritable bowel syndrome
+clemastine,urticaria
+clemastine,rhinitis
+clemastine,hay fever
+clemastine,atopic dermatitis
+clemastine,common cold
+clemastine,insomnia
+carbinoxamine,urticaria
+carbinoxamine,rhinitis
+carbinoxamine,hay fever
+carbinoxamine,atopic dermatitis
+carbinoxamine,common cold
+carbinoxamine,insomnia
+chlorpheniramine,urticaria
+chlorpheniramine,rhinitis
+chlorpheniramine,hay fever
+chlorpheniramine,atopic dermatitis
+chlorpheniramine,common cold
+chlorpheniramine,insomnia
+cyproheptadine,allergic rhinitis
+cyproheptadine,urticaria
+cyproheptadine,rhinitis
+cyproheptadine,pruritis
+cyproheptadine,akathesia
+cyproheptadine,hay fever
+desloratadine,urticaria
+desloratadine,rhinitis
+desloratadine,hay fever
+desloratadine,atopic dermatitis
+desloratadine,common cold
+desloratadine,insomnia
+fexofenadine,urticaria
+fexofenadine,rhinitis
+fexofenadine,hay fever
+fexofenadine,atopic dermatitis
+fexofenadine,common cold
+fexofenadine,insomnia
+loratadine,urticaria
+loratadine,rhinitis
+loratadine,hay fever
+loratadine,atopic dermatitis
+loratadine,common cold
+loratadine,insomnia
+alcaftadine,allergic conjunctivitis
+brompheniramine,urticaria
+brompheniramine,rhinitis
+brompheniramine,hay fever
+brompheniramine,atopic dermatitis
+brompheniramine,common cold
+brompheniramine,insomnia
+cetirizine,urticaria
+cetirizine,rhinitis
+cetirizine,hay fever
+cetirizine,atopic dermatitis
+cetirizine,common cold
+cetirizine,insomnia
+dexchlorpheniramine,urticaria
+dexchlorpheniramine,rhinitis
+dexchlorpheniramine,hay fever
+dexchlorpheniramine,atopic dermatitis
+dexchlorpheniramine,common cold
+dexchlorpheniramine,insomnia
+diphenhydramine,urticaria
+diphenhydramine,rhinitis
+diphenhydramine,hay fever
+diphenhydramine,atopic dermatitis
+diphenhydramine,common cold
+diphenhydramine,insomnia
+doxylamine,urticaria
+doxylamine,rhinitis
+doxylamine,hay fever
+doxylamine,atopic dermatitis
+doxylamine,common cold
+doxylamine,insomnia
+emedastine,allergic conjunctivitis
+epinastine,allergic conjunctivitis
+levocetirizine,urticaria
+levocetirizine,rhinitis
+levocetirizine,hay fever
+levocetirizine,atopic dermatitis
+levocetirizine,common cold
+levocetirizine,insomnia
+promethazine,anaphylaxis
+promethazine,allergic conjunctivitis
+promethazine,nausea
+promethazine,urticaria
+promethazine,pain
+promethazine,vomiting
+promethazine,rhinitis
+promethazine,motion sickness
+cimetidine,gastro-esophageal reflux disease
+cimetidine,urticaria
+cimetidine,obesity
+cimetidine,duodenal ulcer
+cimetidine,zollinger-ellison
+cimetidine,heartburn
+cimetidine,dyspepsia
+cimetidine,gastric ulcer
+cimetidine,esophagitis
+cimetidine,helicobacter pylori
+cimetidine,gastro-intestinal bleed
+famotidine,gastro-esophageal reflux disease
+famotidine,gastro-intestinal bleed
+famotidine,urticaria
+famotidine,duodenal ulcer
+famotidine,zollinger-ellison
+famotidine,dyspepsia
+famotidine,gastric ulcer
+famotidine,esophagitis
+famotidine,helicobacter pylori
+famotidine,heartburn
+nizatidine,gastro-intestinal bleed
+nizatidine,gastro-esophageal reflux disease
+nizatidine,urticaria
+nizatidine,duodenal ulcer
+nizatidine,zollinger-ellison
+nizatidine,dyspepsia
+nizatidine,gastric ulcer
+nizatidine,esophagitis
+nizatidine,helicobacter pylori
+nizatidine,heartburn
+ranitidine,gastro-esophageal reflux disease
+ranitidine,duodenal ulcer
+ranitidine,zollinger-ellison
+ranitidine,gastric ulcer
+ranitidine,esophagitis
+ranitidine,gastro-intestinal bleed
+panobinostat,not_found
+helium,decompression sickness
+helium,positive-pressure respiration intrinsic
+tranexamic acid,bleeding
+dalteparin,thrombophlebitis
+dalteparin,thromboembolism
+dalteparin,myocardial infarction
+dalteparin,venous thrombosis
+dalteparin,pulmonary embolism
+dalteparin,angina unstable
+enoxaparin,thrombophlebitis
+enoxaparin,thromboembolism
+enoxaparin,myocardial infarction
+enoxaparin,venous thrombosis
+enoxaparin,pulmonary embolism
+enoxaparin,angina unstable
+heparin,deep venous thrombosis
+heparin,pulmonary embolism
+hexachlorophene,cellulitis
+hexachlorophene,acne
+abacavir,human immumodeficiency virus
+abacavir,human immumodeficiency virus
+abacavir,acquired immunodeficiency syndrome
+darunavir,human immumodeficiency virus
+darunavir,human immumodeficiency virus
+darunavir,acquired immunodeficiency syndrome
+dolutegravir,human immumodeficiency virus
+dolutegravir,human immumodeficiency virus
+dolutegravir,acquired immunodeficiency syndrome
+entecavir,human immumodeficiency virus
+entecavir,human immumodeficiency virus
+entecavir,acquired immunodeficiency syndrome
+tenofovir,human immumodeficiency virus
+tenofovir,human immumodeficiency virus
+tenofovir,acquired immunodeficiency syndrome
+didanosine,human immumodeficiency virus
+didanosine,human immumodeficiency virus
+didanosine,acquired immunodeficiency syndrome
+emtricitabine,human immumodeficiency virus
+emtricitabine,human immumodeficiency virus
+emtricitabine,acquired immunodeficiency syndrome
+lamivudine,human immumodeficiency virus
+lamivudine,human immumodeficiency virus
+lamivudine,acquired immunodeficiency syndrome
+stavudine,human immumodeficiency virus
+stavudine,human immumodeficiency virus
+stavudine,acquired immunodeficiency syndrome
+zidovudine,human immumodeficiency virus
+zidovudine,human immumodeficiency virus
+zidovudine,acquired immunodeficiency syndrome
+hydroxycarbamide,sickle cell disease
+hydroxycarbamide,chronic myeloid leukemia
+hydroxycarbamide,not_found
+eszopiclone,insomnia
+ramelteon,insomnia
+suvorexant,insomnia
+zolpidem,insomnia
+interferon beta-1a,multiple sclerosis
+glatiramer,multiple sclerosis
+glatiramer acetate,multiple sclerosis
+ciclosporin,not_found
+mycophenolic acid,systemic scleroderma
+mycophenolic acid,psoriasis
+indocyanine green,not_found
+ingenol mebutate,not_found
+theophylline,asthma
+theophylline,asthma
+theophylline,bronchitis
+theophylline,apnea
+theophylline,bradycardia
+theophylline,bronchospasm
+theophylline,emphysema
+flunisolide,allergic rhinitis
+flunisolide,asthma
+insulin aspart,diabetes mellitus
+insulin,diabetes mellitus
+insulin aspart,diabetes mellitus
+insulin degludec,diabetes mellitus
+insulin degludec,diabetes mellitus
+insulin detemir,diabetes mellitus
+insulin detemir,diabetes mellitus
+insulin glargine,diabetes mellitus
+insulin glargine,diabetes mellitus
+insulin lispro,diabetes mellitus
+insulin lispro,diabetes mellitus
+insulin (human),diabetes mellitus
+"insulin, aspart, human",diabetes mellitus
+"insulin, isophane",diabetes mellitus
+"regular insulin, human",diabetes mellitus
+interferon alfa-2a,hepatitis b
+interferon alfa-2a,hepatitis c
+interferon alfa-2b,hepatitis b
+interferon alfa-2b,hepatitis c
+interferon alfa-2b,chronic myeloid leukemia
+interferon alfa-2b,hairy cell leukemia
+interferon alfa-n3,not_found
+interferon beta-1b,multiple sclerosis
+interferon gamma-1b,cryoglobulinemia
+interferon gamma-1b,leukemias
+interferon gamma-1b,mycosis fungoides
+interferon gamma-1b,sezary syndrome
+interferon gamma-1b,hemangioma
+interferon gamma-1b,osteopetrosis
+interferon gamma-1b,hepatitis c
+interferon gamma-1b,malignancy
+interferon gamma-1b,melanoma
+interferon gamma-1b,macular degeneration
+interferon gamma-1b,liver neoplasms
+interferon gamma-1b,brain neoplasms
+interferon gamma-1b,colorectal neoplasms
+interferon gamma-1b,multiple myeloma
+interferon gamma-1b,ileal neoplasms
+interferon gamma-1b,skin ulcer
+interferon gamma-1b,kaposi sarcoma
+interferon gamma-1b,hypereosinophilic syndrome
+interferon gamma-1b,hepatitis d
+interferon gamma-1b,renal cell carcinoma
+interferon gamma-1b,thrombocythemia essential
+interferon gamma-1b,bacterial infection
+interferon gamma-1b,thrombocytopenia
+interferon gamma-1b,warts
+peginterferon alfa-2a,hepatitis b
+peginterferon alfa-2a,hepatitis c
+peginterferon alfa-2b,hepatitis c
+peginterferon alfa-2b,multiple myeloma
+aldesleukin,lymphoma
+aldesleukin,human immumodeficiency virus
+aldesleukin,melanoma
+aldesleukin,multiple myeloma
+aldesleukin,colorectal neoplasms
+aldesleukin,renal cell carcinoma
+iodine,burn injury
+iodine,leg ulcer
+iodine,radiation injury
+iodine,staphylococcus
+iodixanol,not_found
+iothalamate,male urogenital diseases
+iothalamate,cerebrovascular disorders
+ferric citrate,iron deficiency
+ferumoxytol,not_found
+iron sucrose,iron deficiency anemia
+iron sucrose,anemia
+sodium ferric gluconate complex,iron deficiency anemia
+sodium ferric gluconate complex,anemia
+deferasirox,iron overload
+deferasirox,hemochromatosis
+deferiprone,iron overload
+deferiprone,hemochromatosis
+deferoxamine,iron overload
+deferoxamine,hemochromatosis
+iron,iron deficiency anemia
+iron,anemia
+ivabradine,stable angina
+ivacaftor,cystic fibrosis
+triamterene,edema
+triamterene,hypertension
+triamterene,hypokalemia
+triamterene,hypertension
+ecallantide,hereditary angioedema
+midostaurin,not_found
+midostaurin,myelodysplastic syndrome
+lactulose,constipation
+lactulose,hepatic encephalopathy
+magnesium,magnesium deficiency
+magnesium hydroxide,constipation
+magnesium sulfate,constipation
+polyethylene glycol 3350,constipation
+sorbitol,constipation
+sorbitol,poisoning
+metreleptin,lipodystrophy
+zafirlukast,asthma
+montelukast,allergic rhinitis
+montelukast,asthma
+montelukast,chronic obstructive pulmonary disease
+lindane,scabies
+lindane,lice infestations
+orlistat,diabetes mellitus
+orlistat,hypertension
+orlistat,obesity
+lithium,bipolar disorder
+lithium,post traumatic stress disorder
+lithium,depression
+lithium,schizophrenia
+lithium,conduct disorder
+lithium carbonate,bipolar disorder
+lithium carbonate,post traumatic stress disorder
+lithium carbonate,depression
+lithium carbonate,schizophrenia
+lithium carbonate,conduct disorder
+lithium citrate,bipolar disorder
+lithium citrate,post traumatic stress disorder
+lithium citrate,depression
+lithium citrate,schizophrenia
+lithium citrate,conduct disorder
+articaine,pain
+bupivacaine,pain
+chloroprocaine,not_found
+cocaine,dental caries
+cocaine,cough
+cocaine,pain
+mepivacaine,pain
+prilocaine,pain
+proparacaine,pain
+ropivacaine,pain
+tetracaine,pain
+lomitapide,not_found
+bumetanide,chronic kidney failure
+bumetanide,edema
+bumetanide,congestive heart failure
+bumetanide,nephrotic syndrome
+bumetanide,hypertension
+bumetanide,acute kidney injury
+bumetanide,pulmonary edema
+bumetanide,hypertension
+bumetanide,chronic kidney failure
+bumetanide,ascites
+bumetanide,liver cirrhosis
+furosemide,chronic kidney failure
+furosemide,edema
+furosemide,congestive heart failure
+furosemide,nephrotic syndrome
+furosemide,dilated cardiomyopathy
+furosemide,systemic scleroderma
+furosemide,hypertension
+furosemide,acute kidney injury
+furosemide,coronary artery disease
+furosemide,pulmonary edema
+furosemide,hypertension
+furosemide,chronic kidney failure
+furosemide,ascites
+furosemide,liver cirrhosis
+torasemide,chronic kidney failure
+torasemide,hypertension
+torsemide,not_found
+lumacaftor,not_found
+agalsidase beta,not_found
+velaglucerase alfa,not_found
+alglucosidase alfa,not_found
+azithromycin,otitis media
+azithromycin,mycoplasma pneumonia
+azithromycin,streptococcus
+azithromycin,staphylococcus
+azithromycin,tonsillitis
+azithromycin,urethritis
+azithromycin,infective endocarditis
+azithromycin,haemophilus
+azithromycin,neisseria
+azithromycin,mycobacterium
+azithromycin,chlamydia
+clarithromycin,otitis media
+clarithromycin,chlamydia
+clarithromycin,mycoplasma pneumonia
+clarithromycin,sinusitis
+clarithromycin,bronchitis
+clarithromycin,streptococcus
+clarithromycin,staphylococcus
+clarithromycin,tonsillitis
+clarithromycin,duodenal ulcer
+clarithromycin,infective endocarditis
+clarithromycin,haemophilus
+clarithromycin,mycobacterium
+clarithromycin,helicobacter pylori
+clindamycin,bacteroides
+clindamycin,acne
+clindamycin,allergic rhinitis
+clindamycin,pneumocystis jiroveci
+clindamycin,malaria
+clindamycin,bacterial vaginosis
+clindamycin,streptococcus
+clindamycin,staphylococcus
+clindamycin,infective endocarditis
+clindamycin,toxoplasmosis
+clindamycin,atopic dermatitis
+clindamycin,actinomycetales infections
+erythromycin,gastroenteritis
+erythromycin,chancroids
+erythromycin,acne
+erythromycin,gonorrhea
+erythromycin,streptococcus
+erythromycin,staphylococcus
+erythromycin,erythrasma
+erythromycin,urethritis
+erythromycin,syphilis
+erythromycin,mycoplasma infections
+erythromycin,legionnaires disease
+erythromycin,campylobacter infection
+erythromycin,pertussis
+erythromycin,chlamydia
+fidaxomicin,clostridium difficile
+malathion,lice infestations
+manganese,not_found
+manganese chloride,not_found
+mannitol,cerebral edema
+mannitol,edema
+mannitol,hyperuricemia
+mannitol,anuria
+mannitol,craniocerebral trauma
+mannitol,glaucoma
+mannitol,glaucoma
+mannitol,acute kidney injury
+mannitol,oliguria
+mannitol,pulmonary edema
+mannitol,ascites
+mannitol,prostatic diseases
+tranylcypromine,post traumatic stress disorder
+tranylcypromine,depression
+phenelzine,depression
+cromoglicic acid,asthma
+cromolyn,inflammatory bowel diseases
+cromolyn,conjunctivitis
+cromolyn,asthma
+cromolyn,mastocytosis
+cromolyn,rhinitis
+cromolyn,food allergy
+cromolyn,bronchospasm
+nedocromil,asthma
+nedocromil,pruritis
+nedocromil,asthma
+nedocromil,allergic conjunctivitis
+mecamylamine,tourette syndrome
+mecamylamine,hypertension
+mecamylamine,tourette syndrome
+medium chain triglycerides,nutrition disorders
+medium chain triglycerides,ascites
+medium chain triglycerides,seizures
+nateglinide,diabetes mellitus
+repaglinide,diabetes mellitus
+mesna,hemorrhage
+mesna,cystitis
+methimazole,hyperthyroidism
+methimazole,thyroid crisis
+methimazole,goiter
+methimazole,graves disease
+thiamazole,hyperthyroidism
+thiamazole,thyroid crisis
+thiamazole,goiter
+thiamazole,graves disease
+methoxsalen,vitiligo
+methoxsalen,vitiligo
+methoxsalen,mycosis fungoides
+methoxsalen,hematologic cancer
+methoxsalen,psoriasis
+methoxsalen,psoriasis
+methyl salicylate,not_found
+methylene blue,cyanosis
+methylene blue,not_found
+methylene blue,urinary tract infection
+methylene blue,bacterial infection
+methylene blue,methemoglobinemia
+methylene blue,poisoning
+aminophylline,chronic obstructive pulmonary disease
+aminophylline,asthma
+aminophylline,asthma
+aminophylline,bronchitis
+aminophylline,apnea
+aminophylline,bradycardia
+aminophylline,bronchospasm
+aminophylline,emphysema
+caffeine,fatigue
+caffeine,osteoarthritis
+caffeine,migraine
+caffeine,apnea
+metyrapone,cushing syndrome
+cabazitaxel,prostatic neoplasms
+paclitaxel,non small cell lung cancer
+paclitaxel,breast cancer
+paclitaxel,malignancy
+paclitaxel,ovarian neoplasm
+paclitaxel,ovarian neoplasm
+paclitaxel,kidney neoplasm
+paclitaxel,lung neoplasms
+paclitaxel,kaposi sarcoma
+miglustat,gaucher disease
+miltefosine,not_found
+spironolactone,edema
+spironolactone,congestive heart failure
+spironolactone,hypokalemia
+spironolactone,dilated cardiomyopathy
+spironolactone,hirsutism
+spironolactone,not_found
+spironolactone,hyperaldosteronism
+spironolactone,epilepsy syndrome
+spironolactone,hypertension
+spironolactone,hypertension
+spironolactone,ascites
+calcium carbonate,hypocalcemia
+calcium gluconate,hypocalcemia
+magnesium chloride,hypomagnesemia
+magnesium oxide,hypomagnesemia
+potassium chloride,hypokalemia
+potassium citrate,hypokalemia
+zinc oxide,not_found
+simethicone,flatulence
+aztreonam,cellulitis
+aztreonam,sepsis
+aztreonam,pseudomonas colitis
+aztreonam,urinary tract infection
+aztreonam,bacterial infection
+aztreonam,endometritis
+omalizumab,not_found
+rituximab,not_found
+dupilumab,not_found
+guselkumab,not_found
+ixekizumab,not_found
+secukinumab,not_found
+ustekinumab,not_found
+sarilumab,not_found
+tocilizumab,not_found
+abciximab,not_found
+ado-trastuzumab emtansine,not_found
+alemtuzumab,not_found
+atezolizumab,not_found
+avelumab,not_found
+basiliximab,not_found
+belimumab,not_found
+bevacizumab,not_found
+bezlotoxumab,not_found
+blinatumomab,not_found
+brentuximab vedotin,not_found
+brodalumab,not_found
+canakinumab,not_found
+cetuximab,not_found
+daclizumab,graft-vs-host disease
+daclizumab,multiple sclerosis
+daratumumab,not_found
+dinutuximab,not_found
+durvalumab,not_found
+eculizumab,not_found
+elotuzumab,not_found
+gemtuzumab ozogamicin,leukemias
+ibritumomab tiuxetan,not_found
+ipilimumab,not_found
+mepolizumab,not_found
+natalizumab,not_found
+necitumumab,not_found
+obinutuzumab,not_found
+ocrelizumab,not_found
+ofatumumab,not_found
+olaratumab,not_found
+palivizumab,not_found
+panitumumab,not_found
+pertuzumab,not_found
+ramucirumab,not_found
+ranibizumab,not_found
+reslizumab,not_found
+siltuximab,not_found
+trastuzumab,not_found
+vedolizumab,not_found
+alirocumab,not_found
+evolocumab,not_found
+nivolumab,not_found
+pembrolizumab,not_found
+denosumab,not_found
+adalimumab,not_found
+golimumab,not_found
+certolizumab pegol,not_found
+infliximab,not_found
+lidocaine,rheumatoid arthritis
+lidocaine,burn injury
+lidocaine,pain
+lidocaine,ventricular fibrillation
+lidocaine,ventricular fibrillation
+lidocaine,myocardial infarction
+lidocaine,not_found
+lidocaine,ventricular dysfunction
+lidocaine,paroxysmal supraventricular tachycardia
+lidocaine,supraventricular tachycardia
+lidocaine,coronary artery disease
+lidocaine,systemic scleroderma
+lidocaine,osteoarthritis
+lidocaine,mouth diseases
+lidocaine,ventricular tachycardia
+lidocaine,premature ventricular contraction
+cevimeline,not_found
+chlorhexidine,candidiasis
+chlorhexidine,periodontal diseases
+clotrimazole,candidiasis
+clotrimazole,tinea pedis
+sodium fluoride,not_found
+everolimus,kidney neoplasm
+sirolimus,graft-vs-host disease
+sirolimus,prostatic neoplasms
+tacrolimus,graft-vs-host disease
+tacrolimus,atopic dermatitis
+tacrolimus,dermatitis atopic
+tapentadol,not_found
+levocarnitine,not_found
+biotin,vitamin b deficiency
+levomefolate,not_found
+baclofen,neurogenic bladder
+baclofen,spinal cord injuries
+baclofen,multiple sclerosis
+baclofen,muscle spasticity
+baclofen,pain
+baclofen,spondylolysis
+baclofen,multiple sclerosis
+baclofen,spinal cord neoplasms
+baclofen,trigeminal neuralgia
+baclofen,myelitis transverse
+baclofen,cerebral palsy
+baclofen,hiccup
+baclofen,huntington disease
+carisoprodol,muscle rigidity
+carisoprodol,muscle spasticity
+carisoprodol,spasm
+carisoprodol,pain
+carisoprodol,myositis
+carisoprodol,muscle cramp
+cyclobenzaprine,rheumatoid arthritis
+cyclobenzaprine,systemic lupus erythematosus
+cyclobenzaprine,systemic scleroderma
+cyclobenzaprine,ankylosing spondylitis
+cyclobenzaprine,migraine
+cyclobenzaprine,osteoarthritis
+dantrolene,spinal cord injuries
+dantrolene,malignancy
+dantrolene,cerebral infarction
+dantrolene,multiple sclerosis
+dantrolene,muscle spasticity
+dantrolene,multiple sclerosis
+dantrolene,cerebral palsy
+metaxalone,muscle rigidity
+metaxalone,spasm
+metaxalone,pain
+metaxalone,myositis
+metaxalone,muscle cramp
+metaxalone,tetanus
+methocarbamol,muscle rigidity
+methocarbamol,spasm
+methocarbamol,pain
+methocarbamol,myositis
+methocarbamol,muscle cramp
+methocarbamol,tetanus
+orphenadrine,muscle rigidity
+orphenadrine,spasm
+orphenadrine,pain
+orphenadrine,myositis
+orphenadrine,muscle cramp
+orphenadrine,tetanus
+tizanidine,muscle rigidity
+tizanidine,spasm
+tizanidine,pain
+tizanidine,myositis
+tizanidine,muscle cramp
+tizanidine,tetanus
+oxymetazoline,conjunctivitis
+oxymetazoline,sinusitis
+oxymetazoline,allergic rhinitis
+oxymetazoline,rhinitis
+oxymetazoline,common cold
+mirtazapine,depression
+bupropion,attention deficit hyperactivity disorder
+bupropion,depression
+bupropion,obesity
+bupropion,attention deficit hyperactive disorder
+bupropion,panic disorder
+bupropion,tobacco use disorder
+netupitant,nausea
+netupitant,vomiting
+nicotine,chronic obstructive pulmonary disease
+nicotine,tobacco use disorder
+nicotine,nicotine dependence
+nicotine,ulcerative colitis
+nicotine,ulcerative colitis
+nitisinone,tyrosinemia
+nitric oxide,not_found
+glyceryl trinitrate,angina
+isosorbide,congestive heart failure
+isosorbide,esophageal spasm
+isosorbide,coronary artery disease
+isosorbide,angina
+isosorbide dinitrate,congestive heart failure
+isosorbide dinitrate,esophageal spasm
+isosorbide dinitrate,coronary artery disease
+isosorbide dinitrate,angina
+isosorbide mononitrate,congestive heart failure
+isosorbide mononitrate,esophageal spasm
+isosorbide mononitrate,coronary artery disease
+isosorbide mononitrate,angina
+nitroglycerin,congestive heart failure
+nitroglycerin,esophageal spasm
+nitroglycerin,coronary artery disease
+nitroglycerin,angina
+albendazole,neurocysticercosis
+albendazole,enterobiasis
+albendazole,necatoriasis
+albendazole,trichuris trichiura
+albendazole,echinococcosis
+albendazole,clonorchiasis
+albendazole,toxocariasis
+albendazole,ancylostomiasis
+albendazole,opisthorchiasis
+albendazole,giardiasis
+albendazole,hymenolepiasis
+mebendazole,enterobiasis
+mebendazole,ancylostomiasis
+mebendazole,ascariasis
+mebendazole,trichuris trichiura
+metronidazole,trichomonas vaginitis
+metronidazole,trichomonas infections
+metronidazole,bacteroides
+metronidazole,rosacea
+metronidazole,meningitis bacterial
+metronidazole,crohns disease
+metronidazole,bacterial vaginosis
+metronidazole,enterocolitis pseudomembranous
+metronidazole,sepsis
+metronidazole,infective endocarditis
+metronidazole,abscess
+metronidazole,systemic scleroderma
+metronidazole,amebiasis
+metronidazole,giardiasis
+metronidazole,helicobacter pylori
+tinidazole,amebiasis
+tinidazole,giardiasis
+tinidazole,bacterial vaginosis
+apixaban,deep venous thrombosis
+apixaban,pulmonary embolism
+apixaban,atrial fibrillation
+argatroban,deep venous thrombosis
+argatroban,pulmonary embolism
+argatroban,atrial fibrillation
+edoxaban,deep venous thrombosis
+edoxaban,pulmonary embolism
+edoxaban,atrial fibrillation
+fondaparinux,deep venous thrombosis
+fondaparinux,pulmonary embolism
+fondaparinux,atrial fibrillation
+rivaroxaban,deep venous thrombosis
+rivaroxaban,pulmonary embolism
+rivaroxaban,atrial fibrillation
+nonoxynol-9,pregnancy
+crisaborole,not_found
+diclofenac,rheumatoid arthritis
+diclofenac,photophobia
+diclofenac,dysmenorrhea
+diclofenac,systemic scleroderma
+diclofenac,rheumatoid arthritis
+diclofenac,keratosis
+diclofenac,arthritis
+diclofenac,ankylosing spondylitis
+diclofenac,inflammation
+diclofenac,migraine
+diclofenac,osteoarthritis
+diclofenac,ankylosing spondylitis
+diclofenac,juvenile arthritis
+diflunisal,rheumatoid arthritis
+diflunisal,rheumatoid arthritis
+diflunisal,pain
+diflunisal,arthritis
+diflunisal,osteoarthritis
+etodolac,osteoarthritis
+etodolac,arthritis
+etodolac,rheumatoid arthritis
+etodolac,pain
+fenoprofen,osteoarthritis
+fenoprofen,arthritis
+fenoprofen,rheumatoid arthritis
+fenoprofen,pain
+flurbiprofen,miosis disorder
+flurbiprofen,rheumatoid arthritis
+flurbiprofen,arthritis
+flurbiprofen,inflammation
+flurbiprofen,osteoarthritis
+flurbiprofen,macular edema
+ibuprofen,dysmenorrhea
+ibuprofen,bursitis
+ibuprofen,rheumatoid arthritis
+ibuprofen,menorrhagia
+ibuprofen,pain
+ibuprofen,arthritis
+ibuprofen,gout
+ibuprofen,inflammation
+ibuprofen,premenstrual syndrome
+ibuprofen,osteoarthritis
+ibuprofen,ankylosing spondylitis
+ibuprofen,fever
+ibuprofen,juvenile arthritis
+indometacin,dysmenorrhea
+indometacin,bursitis
+indometacin,rheumatoid arthritis
+indometacin,menorrhagia
+indometacin,pain
+indometacin,arthritis
+indometacin,gout
+indometacin,inflammation
+indometacin,premenstrual syndrome
+indometacin,osteoarthritis
+indometacin,ankylosing spondylitis
+indometacin,fever
+indometacin,juvenile arthritis
+indomethacin,rheumatoid arthritis
+indomethacin,bursitis
+indomethacin,gout
+indomethacin,arthritis gouty
+indomethacin,rheumatoid arthritis
+indomethacin,pain
+indomethacin,patent ductus arteriosus
+indomethacin,arthritis
+indomethacin,ankylosing spondylitis
+indomethacin,inflammation
+indomethacin,tendinopathy
+indomethacin,migraine
+indomethacin,osteoarthritis
+indomethacin,ankylosing spondylitis
+ketoprofen,osteoarthritis
+ketoprofen,arthritis
+ketoprofen,rheumatoid arthritis
+ketoprofen,dysmenorrhea
+meclofenamate,dysmenorrhea
+meclofenamate,arthritis
+meclofenamate,spondylarthritis
+meclofenamate,gout
+meclofenamate,inflammation
+mefenamic acid,dysmenorrhea
+mefenamic acid,arthritis
+mefenamic acid,spondylarthritis
+mefenamic acid,gout
+mefenamic acid,inflammation
+meloxicam,rheumatoid arthritis
+meloxicam,systemic lupus erythematosus
+meloxicam,ankylosing spondylitis
+meloxicam,systemic scleroderma
+meloxicam,osteoarthritis
+mesalazine,ulcerative colitis
+mesalazine,crohns disease
+nabumetone,osteoarthritis
+nabumetone,rheumatoid arthritis
+naproxen,rheumatoid arthritis
+naproxen,dysmenorrhea
+naproxen,bursitis
+naproxen,gout
+naproxen,systemic lupus erythematosus
+naproxen,rheumatoid arthritis
+naproxen,pain
+naproxen,headache
+naproxen,arthritis
+naproxen,common cold
+naproxen,ankylosing spondylitis
+naproxen,gout
+naproxen,inflammation
+naproxen,migraine
+naproxen,osteoarthritis
+naproxen,ankylosing spondylitis
+naproxen,fever
+naproxen,juvenile arthritis
+nepafenac,rheumatoid arthritis
+nepafenac,dysmenorrhea
+nepafenac,bursitis
+nepafenac,gout
+nepafenac,systemic lupus erythematosus
+nepafenac,rheumatoid arthritis
+nepafenac,pain
+nepafenac,headache
+nepafenac,arthritis
+nepafenac,common cold
+nepafenac,ankylosing spondylitis
+nepafenac,gout
+nepafenac,inflammation
+nepafenac,migraine
+nepafenac,osteoarthritis
+nepafenac,ankylosing spondylitis
+nepafenac,fever
+nepafenac,juvenile arthritis
+oxaprozin,osteoarthritis
+oxaprozin,rheumatoid arthritis
+piroxicam,rheumatoid arthritis
+piroxicam,rheumatoid arthritis
+piroxicam,arthritis
+piroxicam,sunburn
+piroxicam,ankylosing spondylitis
+piroxicam,inflammation
+piroxicam,osteoarthritis
+piroxicam,ankylosing spondylitis
+sulindac,bursitis
+sulindac,arthritis gouty
+sulindac,rheumatoid arthritis
+sulindac,pain
+sulindac,arthritis
+sulindac,tendinopathy
+sulindac,inflammation
+sulindac,osteoarthritis
+sulindac,ankylosing spondylitis
+tolmetin,rheumatoid arthritis
+tolmetin,rheumatoid arthritis
+tolmetin,arthritis
+tolmetin,ankylosing spondylitis
+tolmetin,osteoarthritis
+tolmetin,juvenile arthritis
+azacitidine,leukemias
+azacitidine,sideroblastic anemia
+azacitidine,refractory anemias
+nusinersen,spinal muscular atrophy
+acetylcysteine,cystic fibrosis
+acetylcysteine,pneumonia
+acetylcysteine,bronchiectasis
+acetylcysteine,chronic obstructive pulmonary disease
+acetylcysteine,amyloidosis
+acetylcysteine,bronchitis
+acetylcysteine,acute tubular necrosis
+acetylcysteine,lung diseases
+acetylcysteine,emphysema
+acetylcysteine,acute respiratory distress syndrome
+acetylcysteine,poisoning
+choline,rheumatoid arthritis
+choline,rheumatic fever
+choline,rheumatoid arthritis
+choline,pain
+choline,choline deficiency
+choline,arthritis
+choline,infant nutrition disorders
+choline,osteoarthritis
+ulipristal,contraceptive
+ocriplasmin,vitero macular adhesion
+octreotide,adenoma
+octreotide,pancreatic neoplasm
+octreotide,pancreatitis
+octreotide,acromegaly
+octreotide,thymus cancer
+octreotide,type 1 diabetes mellitus
+octreotide,diarrhea
+octreotide,pancreatic neoplasm
+octreotide,pituitary neoplasms
+olopatadine,allergic rhinitis
+brimonidine,glaucoma
+brimonidine,hypertension
+bromfenac,occular inflamation
+fluorometholone,keratitis
+fluorometholone,conjunctivitis
+fluorometholone,inflammation
+ketorolac,photophobia
+ketorolac,allergic conjunctivitis
+ketorolac,inflammation
+ketorolac,pain
+ketotifen,asthma
+ketotifen,allergic conjunctivitis
+ketotifen,rhinitis
+lifitegrast,kerato conjunctivitis sicca
+pegaptanib,macular degeneration
+pilocarpine,mydriasis
+pilocarpine,rheumatoid arthritis
+pilocarpine,glaucoma
+pilocarpine,hypertension
+pilocarpine,glaucoma
+pilocarpine,head and neck cancer
+pilocarpine,head and neck cancer
+pilocarpine,xerostomia
+tetrahydrozoline,eye decongestant
+difenoxin,not_found
+diphenoxylate,diarrhea
+alfentanil,opioid withdrawal
+alfentanil,pain
+alfentanil,cough
+alfentanil,diarrhea
+apomorphine,opioid withdrawal
+apomorphine,pain
+apomorphine,cough
+apomorphine,diarrhea
+buprenorphine,opioid withdrawal
+buprenorphine,pain
+buprenorphine,cough
+buprenorphine,diarrhea
+butorphanol,opioid withdrawal
+butorphanol,pain
+butorphanol,cough
+butorphanol,diarrhea
+codeine,opioid withdrawal
+codeine,pain
+codeine,cough
+codeine,diarrhea
+dihydrocodeine,opioid withdrawal
+dihydrocodeine,pain
+dihydrocodeine,cough
+dihydrocodeine,diarrhea
+fentanyl,opioid withdrawal
+fentanyl,pain
+fentanyl,cough
+fentanyl,diarrhea
+hydrocodone,opioid withdrawal
+hydrocodone,pain
+hydrocodone,cough
+hydrocodone,diarrhea
+hydromorphone,opioid withdrawal
+hydromorphone,pain
+hydromorphone,cough
+hydromorphone,diarrhea
+levorphanol,opioid withdrawal
+levorphanol,pain
+levorphanol,cough
+levorphanol,diarrhea
+meperidine,opioid withdrawal
+meperidine,pain
+meperidine,cough
+meperidine,diarrhea
+methadone,opioid withdrawal
+methadone,pain
+methadone,cough
+methadone,diarrhea
+morphine,opioid withdrawal
+morphine,pain
+morphine,cough
+morphine,diarrhea
+nalbuphine,opioid withdrawal
+nalbuphine,pain
+nalbuphine,cough
+nalbuphine,diarrhea
+oxycodone,opioid withdrawal
+oxycodone,pain
+oxycodone,cough
+oxycodone,diarrhea
+oxymorphone,opioid withdrawal
+oxymorphone,pain
+oxymorphone,cough
+oxymorphone,diarrhea
+pentazocine,opioid withdrawal
+pentazocine,pain
+pentazocine,cough
+pentazocine,diarrhea
+pethidine,opioid withdrawal
+pethidine,pain
+pethidine,cough
+pethidine,diarrhea
+remifentanil,opioid withdrawal
+remifentanil,pain
+remifentanil,cough
+remifentanil,diarrhea
+sufentanil,opioid withdrawal
+sufentanil,pain
+sufentanil,cough
+sufentanil,diarrhea
+tramadol,restless legs syndrome
+tramadol,pain
+eluxadoline,not_found
+loperamide,dysentery bacterial
+loperamide,diarrhea
+methylnaltrexone,opioid induced constipation
+methylnaltrexone bromide,opioid induced constipation
+naloxegol,opioid induced constipation
+naloxone,opioid withdrawal
+naloxone,opioid overdose
+naloxone,alcoholism
+naltrexone,opioid withdrawal
+naltrexone,opioid overdose
+naltrexone,alcoholism
+oxygen,hypoxia
+methylergonovine,migraine
+methylergonovine,postpartum hemorrhage
+methylergometrine,migraine
+methylergometrine,postpartum hemorrhage
+oxytocin,postpartum hemorrhage
+cangrelor,atherosclerosis
+cangrelor,coronary artery disease
+cangrelor,acute coronary syndrome
+clopidogrel,atherosclerosis
+clopidogrel,coronary artery disease
+prasugrel,atherosclerosis
+prasugrel,coronary artery disease
+ticagrelor,cerebrovascular accident
+ticagrelor,myocardial infarction
+ticagrelor,coronary artery disease
+ticagrelor,coronary artery disease
+ticlopidine,cerebrovascular accident
+ticlopidine,embolism and thrombosis
+ticlopidine,thromboembolism
+ticlopidine,ischemia
+ticlopidine,venous thrombosis
+olaparib,ovarian neoplasm
+palifermin,not_found
+pancrelipase,exocrine pancreatic insufficiency
+selegiline,depression
+selegiline,alzheimers disease
+selegiline,depression
+selegiline,schizophrenia
+selegiline,parkinsons disease
+selegiline,attention deficit hyperactive disorder
+selegiline,alzheimers disease
+selegiline,parkinsons disease
+niraparib,ovarian neoplasm
+niraparib,peritoneal cancer
+rucaparib,ovarian neoplasm
+pasireotide,cushings disease
+inamrinone,congestive heart failure
+inamrinone,cardiomyopathy dilated
+inamrinone,heart failure with reduced ejection fraction
+inamrinone,shock cardiogenic
+dipyridamole,vascular graft occlusion
+dipyridamole,coronary artery disease
+dipyridamole,coronary artery disease
+roflumilast,chronic obstructive pulmonary disease
+roflumilast,chronic obstructive pulmonary disease
+avanafil,erectile dysfunction
+avanafil,pulmonary artery hypertension
+avanafil,raynauds phenomenon
+sildenafil,erectile dysfunction
+sildenafil,pulmonary artery hypertension
+sildenafil,raynauds phenomenon
+tadalafil,erectile dysfunction
+tadalafil,pulmonary artery hypertension
+tadalafil,raynauds phenomenon
+vardenafil,erectile dysfunction
+vardenafil,pulmonary artery hypertension
+vardenafil,raynauds phenomenon
+pegvisomant,acromegaly
+penicillamine,primary biliary cirrhosis
+penicillamine,rheumatoid arthritis
+penicillamine,mercury poisoning
+penicillamine,rheumatoid arthritis
+penicillamine,hepatolenticular degeneration
+penicillamine,cystinuria
+penicillamine,lead poisoning
+penicillamine,biliary cirrhosis
+amoxicillin,otitis media
+amoxicillin,actinomycosis
+amoxicillin,sinusitis
+amoxicillin,listeriosis
+amoxicillin,cellulitis
+amoxicillin,streptococcus
+amoxicillin,duodenal ulcer
+amoxicillin,infective endocarditis
+amoxicillin,helicobacter pylori
+amoxicillin,urinary tract infection
+amoxicillin,bacterial infection
+amoxicillin,lyme disease
+amoxicillin,chlamydia
+amoxicillin,human bite
+ampicillin,dysentery bacterial
+ampicillin,actinomycosis
+ampicillin,listeriosis
+ampicillin,meningitis bacterial
+ampicillin,cellulitis
+ampicillin,pneumococcus
+ampicillin,gonorrhea
+ampicillin,staphylococcus
+ampicillin,haemophilus
+ampicillin,salmonella infections
+ampicillin,infective endocarditis
+ampicillin,urinary tract infection
+ampicillin,bacterial infection
+ampicillin,meningococcal infections
+ampicillin,escherichia coli
+ampicillin,klebsiella
+ampicillin,human bite
+benzylpenicillin,bacterial infection
+dicloxacillin,pneumonia
+dicloxacillin,cellulitis
+dicloxacillin,osteomyelitis
+dicloxacillin,wound infection
+dicloxacillin,urinary tract infection
+dicloxacillin,bacterial infection
+nafcillin,meningitis bacterial
+nafcillin,cellulitis
+nafcillin,staphylococcus
+nafcillin,osteomyelitis
+nafcillin,wound infection
+nafcillin,sepsis
+nafcillin,infective endocarditis
+nafcillin,urinary tract infection
+nafcillin,bacterial infection
+oxacillin,meningitis bacterial
+oxacillin,cellulitis
+oxacillin,staphylococcus
+oxacillin,osteomyelitis
+oxacillin,sepsis
+oxacillin,wound infection
+oxacillin,infective endocarditis
+oxacillin,urinary tract infection
+oxacillin,bacterial infection
+penicillin,actinomycosis
+penicillin,anthrax
+penicillin,cellulitis
+penicillin,meningococcal infections
+penicillin,pneumococcus
+penicillin,gonorrhea
+penicillin,staphylococcus
+penicillin,sepsis
+penicillin,escherichia coli
+penicillin,spirochaetales infections
+penicillin,salmonella infections
+penicillin,urinary tract infection
+penicillin,bacterial infection
+penicillin,botulism
+penicillin,tetanus
+penicillin g,bacterial infection
+penicillin v,bacterial infection
+phenoxymethylpenicillin,bacterial infection
+piperacillin,pelvic infection
+piperacillin,pneumonia
+piperacillin,streptococcus
+piperacillin,proteus
+piperacillin,sepsis
+piperacillin,pseudomonas colitis
+piperacillin,urinary tract infection
+piperacillin,bacterial infection
+piperacillin,escherichia coli
+pentetate,malignancy
+pentetate calcium,chelating agent
+pentosan polysulfate,interstitial cystitis
+pentosan polysulfate sodium,interstitial cystitis
+perflutren,ultrasound contrast
+permethrin,scabies
+permethrin,lice infestations
+calcium acetate,hyperphosphatemia
+calcium acetate,renal failure
+lanthanum carbonate,hyperphosphatemia
+lanthanum carbonate,renal failure
+sevelamer,hyperphosphatemia
+sevelamer,renal failure
+sucroferric oxyhydroxide,hyperphosphatemia
+sucroferric oxyhydroxide,renal failure
+milrinone,congestive heart failure
+pentoxifylline,intermittent claudication
+pentoxifylline,alcoholic hepatitis
+idelalisib,chronic lymphocytic leukemia
+idelalisib,follicular b cell lymphoma
+pimozide,tourette syndrome
+pimozide,psychosis
+pimozide,tourette syndrome
+pimozide,huntington disease
+pirfenidone,idiopathic pulmonary fibrosis
+cilostazol,systemic scleroderma
+carboplatin,testicular neoplasms
+carboplatin,central nervous system neoplasms
+carboplatin,breast cancer
+carboplatin,endometrial neoplasms
+carboplatin,esophageal cancer
+carboplatin,malignancy
+carboplatin,ovarian neoplasm
+carboplatin,lung neoplasms
+carboplatin,embryonal neoplasm
+carboplatin,not_found
+carboplatin,ovarian neoplasm
+carboplatin,ocular cancer
+carboplatin,uterine cancer
+carboplatin,not_found
+carboplatin,bone marrow diseases
+carboplatin,osteosarcoma
+carboplatin,esophageal neoplasms
+carboplatin,urinary bladder cancer
+cisplatin,testicular neoplasms
+cisplatin,neuroblastoma
+cisplatin,lymphoma
+cisplatin,not_found
+cisplatin,prostatic neoplasms
+cisplatin,esophageal neoplasms
+cisplatin,urinary bladder cancer
+cisplatin,malignancy
+cisplatin,melanoma
+cisplatin,ovarian neoplasm
+cisplatin,testicular neoplasms
+cisplatin,lung neoplasms
+cisplatin,multiple myeloma
+cisplatin,carcinoma small cell
+cisplatin,mesothelioma
+cisplatin,esophageal cancer
+cisplatin,lung neoplasms
+cisplatin,astrocytoma
+cisplatin,germ cell cancer
+cisplatin,osteosarcoma
+cisplatin,peripheral nervous system neoplasm
+cisplatin,hodgkin disease
+cisplatin,hematologic cancer
+oxaliplatin,cancer
+plecanatide,constipation
+plecanatide,irritable bowel syndrome
+podofilox,warts
+podofilox,mulloscum contagiosum
+podophyllotoxin,warts
+podophyllotoxin,mulloscum contagiosum
+nystatin,candidiasis
+potassium acetate,not_found
+sodium polystyrene sulfonate,hyperkalemia
+potassium iodide,not_found
+potassium phosphate,not_found
+dexlansoprazole,gastro-esophageal reflux disease
+dexlansoprazole,peptic ulcer
+dexlansoprazole,zollinger-ellison
+dexlansoprazole,gastric ulcer
+dexlansoprazole,esophagitis
+dexlansoprazole,helicobacter pylori
+dexlansoprazole,heartburn
+dexlansoprazole,not_found
+esomeprazole,gastro-esophageal reflux disease
+esomeprazole,peptic ulcer
+esomeprazole,zollinger-ellison
+esomeprazole,gastric ulcer
+esomeprazole,esophagitis
+esomeprazole,helicobacter pylori
+esomeprazole,heartburn
+esomeprazole,not_found
+lansoprazole,gastro-esophageal reflux disease
+lansoprazole,peptic ulcer
+lansoprazole,zollinger-ellison
+lansoprazole,gastric ulcer
+lansoprazole,esophagitis
+lansoprazole,helicobacter pylori
+lansoprazole,heartburn
+lansoprazole,not_found
+omeprazole,gastro-esophageal reflux disease
+omeprazole,peptic ulcer
+omeprazole,zollinger-ellison
+omeprazole,gastric ulcer
+omeprazole,esophagitis
+omeprazole,helicobacter pylori
+omeprazole,heartburn
+omeprazole,not_found
+pantoprazole,gastro-esophageal reflux disease
+pantoprazole,peptic ulcer
+pantoprazole,zollinger-ellison
+pantoprazole,gastric ulcer
+pantoprazole,esophagitis
+pantoprazole,helicobacter pylori
+pantoprazole,heartburn
+pantoprazole,not_found
+rabeprazole,gastro-esophageal reflux disease
+rabeprazole,peptic ulcer
+rabeprazole,zollinger-ellison
+rabeprazole,gastric ulcer
+rabeprazole,esophagitis
+rabeprazole,helicobacter pylori
+rabeprazole,heartburn
+rabeprazole,not_found
+pralidoxime,organo phosphate poisioning
+bismuth subsalicylate,peptic ulcer
+bismuth subsalicylate,diarrhea
+mifepristone,ectopic pregnancy
+mifepristone,brain neoplasms
+mifepristone,meningeal neoplasms
+mifepristone,hyperglycemia
+mifepristone,not_found
+mifepristone,meningioma
+desogestrel,polycystic ovary syndrome
+desogestrel,acne
+desogestrel,endometriosis
+desogestrel,pregnancy
+desogestrel,menstruation disturbances
+dienogest,oral contraception
+dienogest,endometriosis
+drospirenone,polycystic ovary syndrome
+etonogestrel,pregnancy
+levonorgestrel,polycystic ovary syndrome
+levonorgestrel,pregnancy
+medroxyprogesterone,hypoventilation
+medroxyprogesterone,endometrial neoplasms
+medroxyprogesterone,malignancy
+medroxyprogesterone,uterine hemorrhage
+medroxyprogesterone,pregnancy
+medroxyprogesterone,renal cell carcinoma
+medroxyprogesterone,amenorrhea
+medroxyprogesterone,endometrial hyperplasia
+megestrol,cachexia
+megestrol,endometrial neoplasms
+megestrol,anorexia
+megestrol,malignancy
+mestranol,ovarian neoplasm
+mestranol,pregnancy
+mestranol,ovarian neoplasm
+norelgestromin,not_found
+norethisterone,not_found
+norgestimate,not_found
+norgestrel,pregnancy
+norethindrone,polycystic ovary syndrome
+norethindrone,osteoporosis
+norethindrone,acne
+norethindrone,osteoporosis
+norethindrone,menorrhagia
+norethindrone,hypogonadism
+norethindrone,endometriosis
+norethindrone,pregnancy
+norethindrone,endometrial hyperplasia
+prasterone,not_found
+progesterone,uterine cancer
+progesterone,amenorrhea
+progesterone,uterine hemorrhage
+progesterone,female infertility
+progesterone,pregnancy
+progesterone,endometrial hyperplasia
+proguanil,malaria
+proguanil,malaria
+propylthiouracil,thyroid crisis
+propylthiouracil,goiter
+propylthiouracil,graves disease
+selexipag,pulmonary artery hypertension
+alprostadil,pulmonary valve stenosis
+alprostadil,aortic coarctation
+alprostadil,pulmonary hypertension
+alprostadil,hypertension
+alprostadil,hypoplastic left heart syndrome
+alprostadil,patent ductus arteriosus
+alprostadil,impotence
+alprostadil,tetralogy of fallot
+alprostadil,aortic arch syndromes
+alprostadil,tricuspid atresia
+bimatoprost,glaucoma
+bimatoprost,hypertension
+carboprost,fetal death
+carboprost,postpartum hemorrhage
+carboprost,cystitis
+carboprost,incomplete spontaneous abortion
+dinoprostone,gestational trophoblastic disease
+dinoprostone,uterine neoplasms
+dinoprostone,fetal death
+dinoprostone,uterine cancer
+dinoprostone,germ cell cancer
+epoprostenol,atherosclerosis
+epoprostenol,purpura
+epoprostenol,peripheral vascular diseases
+epoprostenol,pulmonary hypertension
+epoprostenol,hypertension
+epoprostenol,arteriosclerosis
+epoprostenol,systemic scleroderma
+epoprostenol,acute respiratory distress syndrome
+epoprostenol,systemic scleroderma
+iloprost,pulmonary hypertension
+iloprost,hypertension
+latanoprost,glaucoma
+latanoprost,hypertension
+lubiprostone,not_found
+misoprostol,gastric ulcer
+misoprostol,osteoarthritis
+tafluprost,not_found
+travoprost,glaucoma
+travoprost,hypertension
+treprostinil,pulmonary hypertension
+treprostinil,rheumatoid arthritis
+treprostinil,hypertension
+protamine,not_found
+protamine sulfate (usp),not_found
+protamines,drug overdose
+bortezomib,hematologic cancer
+carfilzomib,not_found
+ixazomib,not_found
+acamprosate,alcohol dependence
+parathyroid hormone,not_found
+abaloparatide,not_found
+pyrazinamide,tuberculosis
+pyridoxine (vit b6),vitamin b6 deficiency
+chloroquine,pemphigus
+chloroquine,rheumatoid arthritis
+chloroquine,systemic lupus erythematosus
+chloroquine,malaria
+chloroquine,systemic scleroderma
+chloroquine,amebiasis
+mefloquine,malaria
+primaquine,malaria
+quinidine,atrial fibrillation
+quinidine,atrial fibrillation
+quinidine,atrial flutter
+quinidine,malaria
+quinidine,malaria
+quinidine,paroxysmal supraventricular tachycardia
+quinidine,supraventricular tachycardia
+quinidine,ventricular tachycardia
+aliskiren,not_found
+tretinoin,acne
+tretinoin,leukemias
+tretinoin,hematologic cancer
+tretinoin,hyperpigmentation
+tretinoin,dermatoses
+tretinoin,peripheral nervous system neoplasm
+acitretin,psoriasis
+acitretin,psoriasis
+alitretinoin,hematologic cancer
+alitretinoin,peripheral nervous system neoplasm
+bexarotene,hematologic cancer
+isotretinoin,acne
+isotretinoin,neuroblastoma
+isotretinoin,leukemias
+isotretinoin,hematologic cancer
+isotretinoin,peripheral nervous system neoplasm
+tazarotene,psoriasis
+adapalene,acne
+riluzole,amyotrophic lateral sclerosis
+riluzole,amyotrophic lateral sclerosis
+riociguat,pulmonary hypertension
+rotigotine,restless legs syndrome
+rotigotine,parkinsons disease
+rotigotine,parkinsons disease
+nefazodone,depression
+trazodone,depression
+trazodone,depression
+trazodone,insomnia
+trazodone,bipolar disorder
+trazodone,schizophrenia
+secretin,liver diseases
+secretin,pancreatic diseases
+dexmedetomidine,psychomotor agitation
+dexmedetomidine,pain
+bazedoxifene,not_found
+clomifene,azoospermia
+clomiphene,male infertility
+clomiphene,female infertility
+ospemifene,menopause
+ospemifene,not_found
+ospemifene,dyspareunia
+raloxifene,breast cancer
+raloxifene,osteoporosis
+raloxifene,osteoporosis
+tamoxifen,pancreatic neoplasm
+tamoxifen,breast cancer
+tamoxifen,gynecomastia
+tamoxifen,malignancy
+tamoxifen,pancreatic neoplasm
+tamoxifen,precocious puberty
+tamoxifen,invasive ductal breast carcinoma
+toremifene,breast cancer
+toremifene,neoplasms hormone-dependent
+toremifene,malignancy
+vortioxetine,major depression
+dapagliflozin,diabetes mellitus
+canagliflozin,diabetes mellitus
+empagliflozin,diabetes mellitus
+vismodegib,skin cancer
+levomilnacipran,depression
+levomilnacipran,anxiety
+levomilnacipran,depression
+levomilnacipran,anxiety
+desvenlafaxine,depression
+desvenlafaxine,anxiety
+doxepin,depression
+doxepin,anxiety
+milnacipran,depression
+milnacipran,anxiety
+venlafaxine,depression
+venlafaxine,anxiety
+sodium acetate,not_found
+sodium ascorbate,not_found
+sodium citrate,not_found
+sodium iodide,not_found
+sodium oxybate,not_found
+sodium phenylbutyrate,not_found
+sodium phosphate,not_found
+"sodium phosphate, dibasic",not_found
+"sodium phosphate, monobasic",not_found
+sodium thiosulfate,not_found
+soybean oil,not_found
+spinosad,not_found
+citalopram,alcohol dependence
+citalopram,alcoholism
+citalopram,depression
+citalopram,depression
+citalopram,obsessive compulsive disorder
+citalopram,parkinsons disease
+citalopram,dementia
+citalopram,bipolar disorder
+citalopram,diabetic neuropathy
+citalopram,tobacco use disorder
+citalopram,panic disorder
+duloxetine,depression
+duloxetine,bipolar disorder
+escitalopram,parkinsons disease
+escitalopram,depression
+escitalopram,depression
+escitalopram,bipolar disorder
+fluoxetine,depression
+fluoxetine,obsessive compulsive disorder
+fluoxetine,bulimia
+fluoxetine,panic disorder
+fluoxetine,schizophrenia
+fluoxetine,panic disorder
+fluvoxamine,depression
+fluvoxamine,depression
+fluvoxamine,obsessive compulsive disorder
+fluvoxamine,panic disorder
+fluvoxamine,panic disorder
+paroxetine,eating disorder
+paroxetine,post traumatic stress disorder
+paroxetine,depression
+paroxetine,depression
+paroxetine,obsessive compulsive disorder
+paroxetine,bipolar disorder
+paroxetine,panic disorder
+paroxetine,panic disorder
+paroxetine,anxiety
+sertraline,not_found
+sertraline,not_found
+sertraline,eating disorder
+sertraline,post traumatic stress disorder
+sertraline,depression
+sertraline,depression
+sertraline,obsessive compulsive disorder
+sertraline,parkinsons disease
+sertraline,panic disorder
+sertraline,schizophrenia
+sertraline,panic disorder
+vilazodone,depression
+atorvastatin,diabetes mellitus
+atorvastatin,coronary artery disease
+atorvastatin,hypertension
+cilastatin,sepsis
+cilastatin,infective endocarditis
+cilastatin,urinary tract infection
+cilastatin,bacterial infection
+cilastatin,arthritis infectious
+fluvastatin,not_found
+lovastatin,atherosclerosis
+lovastatin,coronary artery disease
+lovastatin,hypertension
+lovastatin,hypercholesterolemia
+lovastatin,dyslipidemia
+lovastatin,coronary artery disease
+lovastatin,hypertriglyceridemia
+pentostatin,hematologic cancer
+pentostatin,leukemias
+pitavastatin,coronary artery disease
+pravastatin,atherosclerosis
+pravastatin,coronary artery disease
+pravastatin,hypercholesterolemia
+pravastatin,dyslipidemia
+pravastatin,coronary artery disease
+pravastatin,hypertriglyceridemia
+pravastatin,prostatic neoplasms
+rosuvastatin,atherosclerosis
+rosuvastatin,coronary artery disease
+simvastatin,atherosclerosis
+simvastatin,coronary artery disease
+simvastatin,hypertension
+simvastatin,hypercholesterolemia
+simvastatin,dyslipidemia
+simvastatin,coronary artery disease
+simvastatin,hypertriglyceridemia
+simvastatin,diabetes mellitus
+mitotane,cushing syndrome
+mitotane,adrenocortical carcinoma
+armodafinil,excessive sleepiness
+armodafinil,attention deficit hyperactive disorder
+armodafinil,chronic fatigue disorder
+armodafinil,narcolepsy
+armodafinil,attention deficit hyperactivity disorder
+atomoxetine,attention deficient hyperactive disorder
+atomoxetine,attention deficit hyperactive disorder
+dexmethylphenidate,attention deficient hyperactive disorder
+dexmethylphenidate,attention deficit hyperactive disorder
+methylphenidate,depression
+methylphenidate,attention deficit hyperactive disorder
+methylphenidate,narcolepsy
+methylphenidate,attention deficit hyperactivity disorder
+modafinil,excessive sleepiness
+modafinil,attention deficit hyperactive disorder
+modafinil,chronic fatigue disorder
+modafinil,narcolepsy
+modafinil,attention deficit hyperactivity disorder
+phentermine,obesity
+phentermine,obesity
+sucralfate,pneumonia
+sucralfate,stomatitis
+sucralfate,hypertension
+sucralfate,duodenal ulcer
+sucralfate,gastritis
+sucralfate,gastric ulcer
+sucralfate,esophagitis
+sulfur,psoriasis
+sulfur,acne
+sulfur,seborrheic dermatitis
+sulfur,rosacea
+sulfur hexafluoride,not_found
+sulfacetamide,trachoma
+sulfacetamide,corneal ulcer
+sulfacetamide,seborrheic dermatitis
+sulfacetamide,cellulitis
+sulfacetamide,not_found
+sulfadiazine,enterobacter
+sulfadiazine,trachoma
+sulfadiazine,chancroids
+sulfadiazine,otitis media
+sulfadiazine,rheumatic fever
+sulfadiazine,nocardia infections
+sulfadiazine,malaria
+sulfadiazine,malaria
+sulfadiazine,meningococcal meningitis
+sulfadiazine,toxoplasmosis
+sulfadiazine,urinary tract infection
+sulfadiazine,bacterial infection
+sulfamethoxazole,otitis media
+sulfamethoxazole,enterobacter
+sulfamethoxazole,pneumocystis jiroveci
+sulfamethoxazole,nocardia infections
+sulfamethoxazole,toxoplasmosis
+sulfamethoxazole,urinary tract infection
+sulfamethoxazole,bacterial infection
+sulfamethoxazole,chronic bronchitis
+sulfamethoxazole,chlamydia
+sulfamethoxazole and trimethoprim,bacterial infection
+sulfanilamide,candidiasis
+glimepiride,diabetes mellitus
+glipizide,diabetes mellitus
+glipizide,diabetes mellitus
+glyburide,diabetes mellitus
+glyburide,diabetes mellitus
+glyburide,gestational diabetes
+chlorpropamide,diabetes mellitus
+chlorpropamide,diabetes mellitus
+glibenclamide,not_found
+tolazamide,diabetes mellitus
+tolazamide,diabetes mellitus
+tolbutamide,diabetes mellitus
+tolbutamide,diabetes mellitus
+sapropterin,phenylketonurias
+beractant,newborn respiratory distress syndrome
+beractant,atelectasis
+sodium tetradecyl sulfate,newborn respiratory distress syndrome
+sodium tetradecyl sulfate,atelectasis
+poractant alfa,newborn respiratory distress syndrome
+poractant alfa,atelectasis
+levonordefrin,oral ulcer
+levonordefrin,pain
+naphazoline,hyperemia
+naphazoline,sinusitis
+naphazoline,rhinitis
+teriparatide,osteoporosis
+tasimelteon,not_found
+docetaxel,breast cancer
+docetaxel,ovarian neoplasm
+docetaxel,lung neoplasms
+docetaxel,melanoma
+docetaxel,skin cancer
+docetaxel,stomach cancer
+docetaxel,prostatic neoplasms
+docetaxel,pancreatic neoplasm
+docetaxel,head and neck cancer
+telotristat,not_found
+testosterone,breast cancer
+testosterone,delayed puberty
+testosterone,hypogonadism
+testosterone,malignancy
+methyltestosterone,breast cancer
+methyltestosterone,delayed puberty
+methyltestosterone,osteoporosis
+methyltestosterone,malignancy
+methyltestosterone,hypogonadism
+methyltestosterone,erectile dysfunction
+tetrabenazine,hyperactive behavior
+tetrabenazine,huntington disease
+doxycycline,chronic obstructive pulmonary disease
+doxycycline,trachoma
+doxycycline,pneumonia
+doxycycline,anthrax
+doxycycline,pleural effusion
+doxycycline,granuloma inguinale
+doxycycline,malaria
+doxycycline,malaria
+doxycycline,psittacosis
+doxycycline,plague
+doxycycline,syphilis
+doxycycline,rocky mountain spotted fever
+doxycycline,relapsing fever
+doxycycline,mycoplasma infections
+doxycycline,campylobacter infection
+doxycycline,cholera
+minocycline,trachoma
+minocycline,chancroids
+minocycline,anthrax
+minocycline,acne
+minocycline,borrelia infections
+minocycline,cholera
+minocycline,systemic scleroderma
+minocycline,psittacosis
+minocycline,plague
+minocycline,tularemia
+minocycline,rocky mountain spotted fever
+minocycline,meningococcal infections
+minocycline,mycoplasma infections
+minocycline,escherichia coli
+demeclocycline,siadh
+demeclocycline,trachoma
+demeclocycline,lymphogranuloma venereum
+demeclocycline,mycoplasma pneumonia
+demeclocycline,actinomycosis
+demeclocycline,clostridium
+demeclocycline,acne
+demeclocycline,gonorrhea
+demeclocycline,psittacosis
+demeclocycline,plague
+demeclocycline,rocky mountain spotted fever
+demeclocycline,urinary tract infection
+demeclocycline,bacterial infection
+demeclocycline,typhoid fever
+demeclocycline,campylobacter infection
+demeclocycline,pertussis
+demeclocycline,cholera
+tetracycline,chancroids
+tetracycline,acne
+tetracycline,borrelia infections
+tetracycline,granuloma inguinale
+tetracycline,bronchitis
+tetracycline,gonorrhea
+tetracycline,psittacosis
+tetracycline,staphylococcus
+tetracycline,streptococcus
+tetracycline,rickettsia infections
+tetracycline,syphilis
+tetracycline,helicobacter pylori
+tetracycline,bartonella infections
+tetracycline,mycoplasma infections
+tetracycline,campylobacter infection
+tetracycline,cholera
+tetracycline,chlamydia
+tigecycline,bacterial infection
+lenalidomide,hematologic cancer
+thalidomide,lepromatous leprosy
+thalidomide,renal cell carcinoma
+thalidomide,histiocytosis langerhans-cell
+thalidomide,rheumatoid arthritis
+thalidomide,systemic lupus erythematosus
+thalidomide,behcet syndrome
+thalidomide,lepromatous leprosy
+thalidomide,erythema multiforme
+thalidomide,erythema nodosum
+thalidomide,aphthous stomatitis
+thalidomide,crohns disease
+thalidomide,waldenstrom macroglobulinemia
+thalidomide,hematologic cancer
+thalidomide,multiple myeloma
+thalidomide,graft-vs-host disease
+thiamine (vit b1),vitamin b1 deficiency
+bendroflumethiazide,edema
+bendroflumethiazide,congestive heart failure
+bendroflumethiazide,nephrotic hypertension
+bendroflumethiazide,liver cirrhosis
+bendroflumethiazide,hypertension
+chlorothiazide,edema
+chlorothiazide,congestive heart failure
+chlorothiazide,nephrotic hypertension
+chlorothiazide,liver cirrhosis
+chlorothiazide,hypertension
+chlortalidone,edema
+chlortalidone,congestive heart failure
+chlortalidone,nephrotic hypertension
+chlortalidone,liver cirrhosis
+chlortalidone,hypertension
+chlorthalidone,edema
+chlorthalidone,congestive heart failure
+chlorthalidone,nephrotic hypertension
+chlorthalidone,liver cirrhosis
+chlorthalidone,hypertension
+indapamide,edema
+indapamide,congestive heart failure
+indapamide,nephrotic hypertension
+indapamide,liver cirrhosis
+indapamide,hypertension
+methyclothiazide,edema
+methyclothiazide,congestive heart failure
+methyclothiazide,nephrotic hypertension
+methyclothiazide,liver cirrhosis
+methyclothiazide,hypertension
+metolazone,edema
+metolazone,congestive heart failure
+metolazone,nephrotic hypertension
+metolazone,liver cirrhosis
+metolazone,hypertension
+hydrochlorothiazide,edema
+hydrochlorothiazide,congestive heart failure
+hydrochlorothiazide,nephrotic hypertension
+hydrochlorothiazide,liver cirrhosis
+hydrochlorothiazide,hypertension
+pioglitazone,diabetes mellitus
+rosiglitazone,diabetes mellitus
+bivalirudin,unstable angina
+bivalirudin,acute coronary syndrome
+bivalirudin,Percutaneous coronary intervention
+bivalirudin,acute myocardial infarction
+dabigatran etexilate,unstable angina
+dabigatran etexilate,acute coronary syndrome
+dabigatran etexilate,Percutaneous coronary intervention
+dabigatran etexilate,acute myocardial infarction
+alteplase,unstable angina
+alteplase,acute coronary syndrome
+alteplase,Percutaneous coronary intervention
+alteplase,acute myocardial infarction
+reteplase,unstable angina
+reteplase,acute coronary syndrome
+reteplase,Percutaneous coronary intervention
+reteplase,acute myocardial infarction
+romiplostim,idiopathic thrombocytopenic purpura
+levothyroxine,hypothyroidism
+levothyroxine sodium,hypothyroidism
+thyrotropin alfa,hypothyroidism
+liothyronine,hypothyroidism
+liothyronine sodium,hypothyroidism
+tiopronin,cystinuria
+etanercept,arthritis psoriatic
+etanercept,ankylosing spondylitis
+etanercept,rheumatoid arthritis
+etanercept,juvenile arthritis
+etoposide,testicular neoplasms
+etoposide,neuroblastoma
+etoposide,sarcoma
+etoposide,leukemias
+etoposide,mycosis fungoides
+etoposide,not_found
+etoposide,ewings sarcoma
+etoposide,uterine cancer
+etoposide,prostatic neoplasms
+etoposide,urinary bladder cancer
+etoposide,histiocytosis
+etoposide,trophoblastic neoplasms
+etoposide,malignancy
+etoposide,testicular neoplasms
+etoposide,brain neoplasms
+etoposide,lung neoplasms
+etoposide,not_found
+etoposide,kaposi sarcoma
+etoposide,rhabdomyosarcoma
+etoposide,lung neoplasms
+etoposide,germ cell cancer
+etoposide,peripheral nervous system neoplasm
+etoposide,uterine neoplasms
+etoposide,hematologic cancer
+etoposide,prostatic neoplasms
+tenecteplase,myocardial infarction
+tenecteplase,coronary artery disease
+clomipramine,depression
+clomipramine,pain
+clomipramine,obsessive compulsive disorder
+clomipramine,panic disorder
+clomipramine,panic disorder
+protriptyline,depression
+trimipramine,depression
+desipramine,depression
+desipramine,attention deficit hyperactive disorder
+desipramine,pain
+desipramine,attention deficit hyperactivity disorder
+amitriptyline,rheumatoid arthritis
+amitriptyline,systemic lupus erythematosus
+amitriptyline,multiple sclerosis
+amitriptyline,depression
+amitriptyline,depression
+amitriptyline,pain
+amitriptyline,migraine
+amoxapine,depression
+imipramine,attention deficit hyperactivity disorder
+imipramine,enuresis
+imipramine,depression
+imipramine,depression
+imipramine,pain
+imipramine,attention deficit hyperactive disorder
+imipramine,panic disorder
+imipramine,panic disorder
+nortriptyline,attention deficit hyperactivity disorder
+nortriptyline,multiple sclerosis
+nortriptyline,enuresis
+nortriptyline,depression
+nortriptyline,depression
+nortriptyline,pain
+nortriptyline,attention deficit hyperactive disorder
+nortriptyline,panic disorder
+nortriptyline,anxiety
+trientine,hepatolenticular degeneration
+trientine,heavy metal poisoning
+almotriptan,migraine
+eletriptan,migraine
+frovatriptan,migraine
+naratriptan,migraine
+rizatriptan,migraine
+rizatriptan,multiple sclerosis
+sumatriptan,migraine
+sumatriptan,headache
+sumatriptan,migraine
+zolmitriptan,migraine
+paracetamol,fever
+paracetamol,headache
+ibrutinib,waldenstrom macroglobulinemia
+ibrutinib,leukemias
+ibrutinib,lymphoma
+osimertinib,not_found
+tofacitinib,not_found
+afatinib,non small cell lung cancer
+afatinib,squamous cell carcinoma
+alectinib,not_found
+axitinib,not_found
+"bosuti, bacterial infectionsnib",not_found
+brigatinib,not_found
+cabozantinib,not_found
+ceritinib,not_found
+cobimetinib,melanoma
+crizotinib,lung neoplasms
+dabrafenib,not_found
+dasatinib,hematologic cancer
+erlotinib,lung neoplasms
+erlotinib,pancreatic neoplasm
+erlotinib,kidney neoplasm
+gefitinib,lung neoplasms
+imatinib,hematologic cancer
+lapatinib,breast cancer
+lenvatinib,not_found
+neratinib,not_found
+nilotinib,hematologic cancer
+nintedanib,not_found
+pazopanib,kidney neoplasm
+ponatinib,not_found
+regorafenib,not_found
+ruxolitinib,hematologic cancer
+sonidegib,not_found
+sorafenib,liver neoplasms
+sorafenib,thyroid neoplasms
+sorafenib,kidney neoplasm
+sunitinib,pancreatic neoplasm
+sunitinib,kidney neoplasm
+trametinib,not_found
+acetohydroxamic acid,not_found
+lesinurad,not_found
+probenecid,gonorrhea
+probenecid,neurosyphilis
+probenecid,gout
+probenecid,gout
+uridine,drug overdose
+uridine triacetate,not_found
+bethanechol,neurogenic bladder
+bethanechol,urinary retention
+bethanechol,urinary incontinence
+fesoterodine,neurogenic bladder
+fesoterodine,urinary retention
+fesoterodine,urinary incontinence
+mirabegron,neurogenic bladder
+mirabegron,urinary retention
+mirabegron,urinary incontinence
+oxybutynin,neurogenic bladder
+oxybutynin,urinary retention
+oxybutynin,urinary incontinence
+tolterodine,neurogenic bladder
+tolterodine,urinary retention
+tolterodine,urinary incontinence
+trospium,neurogenic bladder
+trospium,urinary retention
+trospium,urinary incontinence
+valbenazine,not_found
+valproate,bipolar disorder
+valproate,epilepsy complex partial
+valproate,alzheimers disease
+valproate,absence epilepsy
+valproate,migraine
+valproic acid,bipolar disorder
+valproic acid,epilepsy complex partial
+valproic acid,alzheimers disease
+valproic acid,absence epilepsy
+valproic acid,migraine
+diazoxide,hypoglycemia
+diazoxide,hypertension
+diazoxide,malignancy
+hydralazine,pulmonary hypertension
+hydralazine,congestive heart failure
+hydralazine,hypertension
+hydralazine,malignancy
+minoxidil,alopecia
+minoxidil,epilepsy syndrome
+minoxidil,hypertension
+minoxidil,malignancy
+vasopressin,not_found
+vasopressin (usp),not_found
+midodrine,orthostatic hypotension
+droxidopa,orthostatic hypotension
+verteporfin,choroidal neovascularization
+cyanocobalamin,vitamin b12 deficiency
+paricalcitol,chronic kidney failure
+doxercalciferol,hyperparathyroidism
+citric acid,not_found
+hydroxocobalamin,anemia pernicious
+hydroxocobalamin,vitamin b 12 deficiency
+hydroxocobalamin,multiple sclerosis
+hydroxocobalamin,diabetic neuropathy
+hydroxocobalamin,alcoholic neuropathy
+vitamin b 12,not_found
+ascorbic acid,not_found
+calcifediol,vitamin d deficiency
+calcifediol,hypocalcemia
+calcifediol,osteoporosis
+calcifediol,hypoparathyroidism
+calcifediol,hypophosphatemic rickets
+calcitriol,hypocalcemia
+calcitriol,vitamin d deficiency
+calcitriol,chronic kidney failure
+calcitriol,osteoporosis
+calcitriol,rickets
+calcitriol,hyperparathyroidism
+calcitriol,vitamin e deficiency
+calcitriol,psoriasis
+calcitriol,psoriasis
+niacinamide,coronary artery disease
+niacinamide,peripheral vascular diseases
+niacinamide,hypercholesterolemia
+niacinamide,pellagra
+niacinamide,hypertriglyceridemia
+nicotinic acid,not_found
+retinol,not_found
+niacin,atherosclerosis
+niacin,coronary artery disease
+niacin,peripheral vascular diseases
+niacin,pancreatitis
+niacin,hypercholesterolemia
+niacin,pellagra
+niacin,coronary artery disease
+niacin,hypertriglyceridemia
+pyridoxine,anemia
+riboflavin,riboflavin deficiency
+riboflavin 5-phosphate,riboflavin deficiency
+vitamin a,not_found
+vitamin e,not_found
+vitamin k,not_found
+cholecalciferol,chronic kidney failure
+cholecalciferol,chronic kidney failure
+cholecalciferol,osteoporosis
+cholecalciferol,osteoporosis
+cholecalciferol,malignancy
+cholecalciferol,lung neoplasms
+cholecalciferol,cardiovascular diseases
+cholecalciferol,hypophosphatemic rickets
+cholecalciferol,hypoparathyroidism
+cholecalciferol,crohns disease
+cholecalciferol,psoriasis
+cholecalciferol,ulcerative colitis
+cholecalciferol,psoriasis
+ergocalciferol,rheumatoid arthritis
+ergocalciferol,osteoporosis
+ergocalciferol,osteoporosis
+ergocalciferol,rickets
+ergocalciferol,hypophosphatemia
+ergocalciferol,metabolic syndrome x
+ergocalciferol,hypoparathyroidism
+thiamine,wernicke encephalopathy
+thiamine,beriberi
+thiamine,pellagra
+thiamine,alcoholic neuropathy
+povidone,dermatomycoses
+povidone,leg ulcer
+povidone,cellulitis
+povidone,skin diseases viral
+povidone,radiation injury
+povidone,bacterial vaginosis
+povidone,staphylococcus
+povidone,skin diseases parasitic
+warfarin,cerebrovascular accident
+warfarin,atrial fibrillation
+warfarin,atrial fibrillation
+warfarin,thrombophlebitis
+warfarin,coronary artery disease
+warfarin,thromboembolism
+warfarin,myocardial infarction
+warfarin,venous thrombosis
+warfarin,transient ischemic attack
+warfarin,pulmonary embolism
+allopurinol,gout
+allopurinol,hematologic cancer
+allopurinol,calculi
+allopurinol,gout
+allopurinol,tumor lysis syndrome
+febuxostat,gout
+ziconotide,chronic pain
+zileuton,asthma
+zinc acetate,not_found
+zinc chloride,not_found
+acrivastine,not_found
+adenosine,paroxysmal supraventricular tachycardia
+adenosine,supraventricular tachycardia
+adenosine,wolf parkinson white syndrome
+adenosine,tachycardia atrioventricular nodal reentry
+aluminum hydroxide,not_found
+amfepramone,not_found
+amifostine,chronic kidney failure
+amifostine,acute kidney injury
+amifostine,not_found
+ammonium chloride,not_found
+barium sulfate,not_found
+calfactant,not_found
+chlorphenamine,not_found
+chlorzoxazone,muscle rigidity
+chlorzoxazone,spasm
+chlorzoxazone,pain
+chlorzoxazone,myositis
+chlorzoxazone,muscle cramp
+flavoxate,nocturia
+flavoxate,urinary incontinence
+flavoxate,dysuria
+fulvestrant,breast cancer
+isocarboxazid,depression
+isocarboxazid,panic disorder
+obeticholic acid,primary biliary cholangitis
+sincalide,not_found
+terbutaline,asthma
+terbutaline,asthma
+vandetanib,thyroid neoplasms
+vandetanib,thyroid neoplasms
+vorapaxar,myocardial infarction

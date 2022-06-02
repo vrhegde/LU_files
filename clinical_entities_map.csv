@@ -1,0 +1,1051 @@
+input,output,source
+abscess,abscess,2
+absence epilepsy,absence epilepsy,2
+acanthamoeba keratitis,acanthamoeba keratitis,2
+acidosis,acidosis,2
+acinetobacter,acinetobacter,2
+acne,acne,2
+acquired immunodeficiency syndrome,acquired immunodeficiency syndrome,2
+acromegaly,acromegaly,2
+actinomycetales infections,actinomycetales infections,2
+actinomycosis,actinomycosis,2
+acute coronary syndrome,acute coronary syndrome,2
+acute intermittent porphyria,acute intermittent porphyria,2
+acute kidney injury,acute kidney injury,2
+acute lymphocytic leukemia,acute lymphocytic leukemia,2
+acute myelogenous leukemia,acute myelogenous leukemia,2
+aml,acute myelogenous leukemia,2
+acute mi,acute myocardial infarction,2
+Acute myocardial infarction,Acute myocardial infarction,2
+acute pulmonary edema,acute pulmonary edema,2
+ards,acute respiratory distress syndrome,2
+atn,acute tubular necrosis,2
+adams-stokes syndrome,adams-stokes syndrome,2
+addison disease,addison disease,2
+adenocarcinoma,adenocarcinoma,2
+adenoma,adenoma,2
+adenosine deaminase deficiency,adenosine deaminase deficiency,2
+adenovirus infections human,adenovirus infections human,2
+adrenal gland hyperfunction,adrenal gland hyperfunction,2
+adrenal insufficiency,adrenal insufficiency,2
+adrenocortical carcinoma,adrenocortical carcinoma,2
+african trypanosomiasis,african trypanosomiasis,2
+agitation,agitation,2
+agoraphobia,agoraphobia,2
+airway obstruction,airway obstruction,2
+akathesia,akathesia,2
+akathisia,akathisia,2
+alcohol,alcohol dependence,1
+etoh,alcohol dependence,1
+etoh abuse,alcohol dependence,1
+alcohol dependence,alcohol dependence,2
+alcohol poisioning,alcohol poisoning,2
+alcohol poisoning,alcohol poisoning,2
+alcohol withdrawal,alcohol withdrawal,2
+alcoholic hepatitis,alcoholic hepatitis,2
+alcoholic neuropathy,alcoholic neuropathy,2
+alcoholism,alcoholism,2
+alkalosis,alkalosis,2
+allergic conjunctivitis,allergic conjunctivitis,2
+allergic rhinitis,allergic rhinitis,2
+alopecia,alopecia,2
+alopecia areata,alopecia areata,2
+altitude sickness,altitude sickness,2
+alzehimer,alzheimers disease,1
+alzheimers disease,alzheimers disease,2
+amebiasis,amebiasis,2
+amenorrhea,amenorrhea,2
+amyloidosis,amyloidosis,2
+als,amyotrophic lateral sclerosis,2
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis,2
+anal fissure,anal fissure,2
+pruritus ani,anal pruritus,2
+anaphylaxis,anaphylaxis,2
+anasthesia,anasthesia,2
+ancylostomiasis,ancylostomiasis,2
+anemia,anemia,2
+anemia hemolytic,anemia hemolytic,2
+anemia megaloblastic,anemia megaloblastic,2
+anemia pernicious,anemia pernicious,2
+angina,angina,2
+angina unstable,angina unstable,2
+ankylosing spondylitis,ankylosing spondylitis,2
+anorexia,anorexia,2
+anthrax,anthrax,2
+antiprotozoal,antiprotozoal,2
+antiseptic,antiseptic,2
+anuria,anuria,2
+anxiety,anxiety,2
+aortic arch syndromes,aortic arch syndromes,2
+aortic coarctation,aortic coarctation,2
+aphthous stomatitis,aphthous stomatitis,2
+aplastic anemia,aplastic anemia,2
+apnea,apnea,2
+ablation treatment,Arrhythmia,1
+arsenic poisoning,arsenic poisoning,2
+arteriosclerosis,arteriosclerosis,2
+arthritis,arthritis,2
+arthritis gouty,arthritis gouty,2
+arthritis infectious,arthritis infectious,2
+arthritis psoriatic,arthritis psoriatic,2
+ascariasis,ascariasis,2
+ascites,ascites,2
+aspergillosis,aspergillosis,2
+assisted reproduction,assisted reproduction,2
+asthma,asthma,2
+astrocytoma,astrocytoma,2
+atelectasis,atelectasis,2
+endarterectomy,atheroscleoris,1
+atherosclerosis,atherosclerosis,2
+atopic dermatitis,atopic dermatitis,2
+afib,atrial fibrillation,2
+atrial fibrillation,atrial fibrillation,2
+aflutter,atrial flutter,2
+atrial flutter,atrial flutter,2
+atrial premature complexes,atrial premature complexes,2
+attention deficient hyperactive disorders,attention deficient hyperactive disorder,2
+adhd,attention deficit hyperactive disorder,2
+attention deficit hyperactive disorder,attention deficit hyperactive disorder,2
+attention deficit hyperactivity disorder,attention deficit hyperactivity disorder,2
+autoimmune hemolytic anemia,autoimmune hemolytic anemia,2
+azoospermia,azoospermia,2
+babesiosis,babesiosis,2
+bacteremia,bacteremia,2
+bacterial conjunctivitis,bacterial conjunctivitis,2
+bacterial infection,bacterial infection,2
+bacterial infections,bacterial infection,2
+bacteroidaceae infections,bacterial infection,2
+bactrial infections,bacterial infection,2
+bacterial vaginosis,bacterial vaginosis,2
+bacteroides,bacteroides,2
+bartonella infections,bartonella infections,2
+bartter disease,bartter disease,2
+basal cell carcinoma,basal cell carcinoma,2
+batten disease,batten disease,2
+behcet syndrome,behcet syndrome,2
+behcets,behcet syndrome,2
+beign prostatic hypertrophy,benign prostatic hyperplasia,1
+benign prostatic hyperplasia,benign prostatic hyperplasia,2
+bph,benign prostatic hyperplasia,2
+beriberi,beriberi,2
+berylliosis,berylliosis,2
+biliary cirrhosis,biliary cirrhosis,2
+biliary tract diseases,biliary tract diseases,2
+bipolar,bipolar disorder,1
+bipolar disorder,bipolar disorder,2
+bladder neck obstruction,bladder neck obstruction,2
+blastomycosis,blastomycosis,2
+bleeding,bleeding,2
+blepharitis,blepharitis,2
+bone marrow diseases,bone marrow diseases,2
+borrelia infections,borrelia infections,2
+botulism,botulism,2
+bradycardia,bradycardia,2
+brain ischemia,brain ischemia,2
+brain neoplasms,brain neoplasms,2
+breast cancer,breast cancer,2
+breast fibrocystic disease,breast fibrocystic disease,2
+bronchial hyperreactivity,bronchial hyperreactivity,2
+bronchiectasis,bronchiectasis,2
+chronic bronchitis,bronchitis,1
+bronchitis,bronchitis,2
+bronchoconstriction,bronchoconstriction,2
+bronchial spasm,bronchospasm,2
+bronchospasm,bronchospasm,2
+brucellosis,brucellosis,2
+bulimia,bulimia,2
+burn injury,burn injury,2
+bursitis,bursitis,2
+cachexia,cachexia,2
+calculi,calculi,2
+campylobacter infection,campylobacter infection,2
+carcinoma,cancer,1
+cancer,cancer,2
+candidemia,candidiasis,2
+candidiasis,candidiasis,2
+carcinoma,carcinoma,2
+carcinoma small cell,carcinoma small cell,2
+cardiac arrest,cardiac arrest,2
+cardiogenic shock,cardiogenic shock,2
+cardiomyopathy dilated,cardiomyopathy dilated,2
+cardiovascular diseases,cardiovascular diseases,2
+catatonia,catatonia,2
+cellulitis,cellulitis,2
+central nervous system neoplasms,central nervous system neoplasms,2
+cerebral edema,cerebral edema,2
+cerebral infarction,cerebral infarction,2
+cerebral ischemia,cerebral ischemia,2
+cerebral palsy,cerebral palsy,2
+cerebrovascular accident,cerebrovascular accident,2
+cerebrovascular disorders,cerebrovascular disorders,2
+cervical cancer,cervical cancer,2
+chancroids,chancroids,2
+chelating agent,chelating agent,2
+diastolic failure,heart failure diastolic,1
+hfpef,heart failure diastolic,1
+hfref,heart failure systolic,1
+systolic failure,heart failure systolic,1
+child behavior disorders,child behavior disorders,2
+chlamydia,chlamydia,2
+cholecystectomy,cholecystectomy,1
+cholera,cholera,2
+choline deficiency,choline deficiency,2
+chorea,chorea,2
+choriocarcinoma,choriocarcinoma,2
+choroidal neovascularization,choroidal neovascularization,2
+choroiditis,choroiditis,2
+chromoblastomycosis,chromoblastomycosis,2
+chronic anemia,chronic anemia,1
+chronic angina,chronic angina,2
+chronic bronchitis,chronic bronchitis,2
+chronic fatigue disorder,chronic fatigue disorder,2
+chronic kidney disease,chronic kidney failure,2
+chronic kidney failure,chronic kidney failure,2
+ckd,chronic kidney failure,2
+chronic lymphocytic leukemia,chronic lymphocytic leukemia,2
+cll,chronic lymphocytic leukemia,2
+chronic myeloid leukemia,chronic myeloid leukemia,2
+cml,chronic myeloid leukemia,2
+chronic obstructive pulmonary disease,chronic obstructive pulmonary disease,2
+copd,chronic obstructive pulmonary disease,2
+chronic pain,chronic pain,2
+cri,chronic renal failure,1
+cirrhosis,cirrhosis,1
+portal hypertension,cirrhosis,1
+clonorchiasis,clonorchiasis,2
+closed head injuries,closed head injuries,2
+clostridium,clostridium,2
+clostridium difficile,clostridium difficile,2
+coccidioidomycosis,coccidioidomycosis,2
+collagen diseases,collagen diseases,2
+colon cancer,colon cancer,2
+colonic diseases,colonic diseases,2
+colonic neoplasms,colorectal neoplasms,2
+colorectal neoplasms,colorectal neoplasms,2
+common cold,common cold,2
+complex regional pain syndrome,complex regional pain syndrome,2
+conduct disorder,conduct disorder,2
+congenital adrenal hyperplasia,congenital adrenal hyperplasia,2
+congestive heart,heart failure,1
+heart failure,heart failure,1
+chf,heart failure,2
+congestive heart failure,heart failure,2
+conjunctivitis,conjunctivitis,2
+conscious sedation,conscious sedation,2
+constipation,constipation,2
+contact dermatitis,contact dermatitis,2
+contraceptive,contraceptive,2
+corneal diseases,corneal diseases,2
+corneal ulcer,corneal ulcer,2
+cad,coronary artery disease,2
+coronary artery disease,coronary artery disease,2
+cough,cough,2
+coughing,cough,2
+craniocerebral trauma,craniocerebral trauma,2
+crohn disease,crohns disease,2
+crohns disease,crohns disease,2
+cryoglobulinemia,cryoglobulinemia,2
+cryptococcosis,cryptococcosis,2
+cryptococcus neoformans,cryptococcosis,2
+cryptosporidiosis,cryptosporidiosis,2
+cushing syndrome,cushing syndrome,2
+cushings disease,cushings disease,2
+cyanosis,cyanosis,2
+cystic fibrosis,cystic fibrosis,2
+cysticercosis,cysticercosis,2
+cystinosis,cystinosis,2
+cysteinurea,cystinuria,2
+cystinuria,cystinuria,2
+cystitis,cystitis,2
+cmv,cytomegalovirus,2
+dandruff,dandruff,2
+decompression sickness,decompression sickness,2
+deep venous thrombosis,deep venous thrombosis,2
+deep venous thrombosis,deep venous thrombosis,2
+delayed puberty,delayed puberty,2
+dementia,dementia,2
+dementia associated psychosis,dementia associated psychosis,2
+dental caries,dental caries,2
+depression,depression,2
+endogenous depression,depression,2
+dermatitis,dermatitis,2
+dermatitis atopic,dermatitis atopic,2
+dermatitis herpetiformis,dermatitis herpetiformis,2
+dermatomycoses,dermatomycoses,2
+dermatomyositis,dermatomyositis,2
+dermatoses,dermatoses,2
+di,diabetes insipidus,1
+diabetes insipidus,diabetes insipidus,2
+diabetes,diabetes mellitus,1
+diabetes mellitus,diabetes mellitus,2
+dm,diabetes mellitus,2
+diabetic foot ulcers,diabetic foot ulcers,2
+dka,diabetic ketoacidosis,1
+diabetic nephropathy,diabetic nephropathy,2
+diabetic neuropathy,diabetic neuropathy,2
+diarrhea,diarrhea,2
+dilated cardiomyopathy,dilated cardiomyopathy,2
+disinfectant,disinfectant,2
+diverticulitis,diverticulitis,2
+drug overdose,drug overdose,2
+duchenne muscular dystrophy,duchenne muscular dystrophy,2
+duodenal ulcer,duodenal ulcer,2
+dvt,deep venous thrombosis,1
+dwarfism,dwarfism,2
+dysarthria,dysarthria,2
+autonomic dysfunction,dysautonomia,1
+dysautonomia,dysautonomia,1
+dysentery,dysentery,2
+dysentery bacillary,dysentery bacterial,2
+dyskinesia,dyskinesia,2
+high cholesterol,dyslipidemia,1
+hld,dyslipidemia,1
+hyper cholesterolemia,dyslipidemia,1
+hypertriglyceridemia,dyslipidemia,1
+dyslipidemia,dyslipidemia,2
+dysmenorrhea,dysmenorrhea,2
+dyspareunia,dyspareunia,2
+dyspepsia,dyspepsia,2
+dysphagia,dysphagia,1
+dyspnea paroxysmal,dyspnea paroxysmal,2
+dysthymic disorder,dysthymic disorder,2
+dystonia,dystonia,2
+dysuria,dysuria,2
+eating disorder,eating disorder,2
+echinococcosis,echinococcosis,2
+ectopic pregnancy,ectopic pregnancy,2
+edema,edema,2
+edema cardiac,edema,2
+elephantiasis,elephantiasis,2
+emaciation,emaciation,2
+embolism and thrombosis,embolism and thrombosis,2
+embryonal neoplasm,embryonal neoplasm,2
+emphysema,emphysema,2
+dialysis,end stage renal disease,1
+esrd,end stage renal disease,1
+endometrial hyperplasia,endometrial hyperplasia,2
+endometrial neoplasms,endometrial neoplasms,2
+endometriosis,endometriosis,2
+endometritis,endometritis,2
+enteritis,enteritis,2
+enterobacter,enterobacter,2
+enterobiasis,enterobiasis,2
+enterocolitis pseudomembranous,enterocolitis pseudomembranous,2
+enuresis,enuresis,2
+ependymoma,ependymoma,2
+epididymitis,epididymitis,2
+epilepsy,epilepsy,2
+epilepsy complex partial,epilepsy complex partial,2
+epilepsies partial,epilepsy partial,2
+epilepsy post-traumatic,epilepsy post-traumatic,2
+epilepsy syndrome,epilepsy syndrome,2
+epilepsy temporal lobe,epilepsy temporal lobe,2
+ebv,epstein-barr virus,2
+erectile dysfunction,erectile dysfunction,2
+erythema multiforme,erythema multiforme,2
+erythema nodosum,erythema nodosum,2
+erythrasma,erythrasma,2
+escherichia coli,escherichia coli,2
+esophageal and gastric varices,esophageal and gastric varices,2
+esophageal cancer,esophageal cancer,2
+esophageal neoplasms,esophageal neoplasms,2
+esophageal spasm,esophageal spasm,2
+esophagitis,esophagitis,2
+esotropia,esotropia,2
+essential thrombocytosis,essential thrombocytosis,2
+essential tremor,essential tremor,2
+ethelyn glycol poisioning,ethelyn glycol poisioning,2
+ewings sarcoma,ewings sarcoma,2
+excessive sleepiness,excessive sleepiness,2
+exfoliative dermatitis,exfoliative dermatitis,2
+exocrine pancreatic insufficiency,exocrine pancreatic insufficiency,2
+eye decongestant,eye decongestant,2
+facial paralysis,facial paralysis,2
+familial mediterranean fever,familial mediterranean fever,2
+fatigue,fatigue,2
+female infertility,female infertility,2
+fetal death,fetal death,2
+fever,fever,2
+fibroid tumor,fibroid tumor,2
+fibrosarcoma,fibrosarcoma,2
+flatulence,flatulence,2
+focal glomerulosclerosis,focal glomerulosclerosis,2
+focal segmental glomerulosclerosis,focal segmental glomerulosclerosis,2
+folic acid deficiency,folic acid deficiency,2
+folicular b cell lymphoma,follicular b cell lymphoma,2
+follicular b cell lymphoma,follicular b cell lymphoma,2
+food allergy,food allergy,2
+fungal infections,fungal infections,2
+fungemia,fungemia,2
+fusobacterium infections,fusobacterium infections,2
+galactorrhea,galactorrhea,2
+gastric ulcer,gastric ulcer,2
+gastritis,gastritis,2
+gastro-esophageal reflux disease,gastro-esophageal reflux disease,2
+gerd,gastro-esophageal reflux disease,2
+gastro-intestinal bleed,gastro-intestinal bleed,2
+gi bleed,gastro-intestinal bleed,2
+gastroenteritis,gastroenteritis,2
+gastrointestinal neoplasms,gastrointestinal neoplasms,2
+gastroparesis,gastroparesis,2
+gaucher disease,gaucher disease,2
+general anesthesia,general anesthesia,2
+generalized anxiety disorder,generalized anxiety disorder,1
+genital herpes,genital herpes simplex infection,2
+gastroesophageal reflux disease,gastro-esophageal reflux disease,1
+reflux,gastro-esophageal reflux disease,1
+germ cell cancer,germ cell cancer,2
+gestational diabetes,gestational diabetes,2
+gestational trophoblastic disease,gestational trophoblastic disease,2
+giardiasis,giardiasis,2
+galaucoma,glaucoma,2
+glaucoma,glaucoma,2
+glioblastoma,glioblastoma,2
+goiter,goiter,2
+gonorrhea,gonorrhea,2
+gout,gout,2
+graft vs host disease,graft-vs-host disease,2
+graft-vs-host disease,graft-vs-host disease,2
+gram negative infections,gram negative infections,2
+gram negative infections.,gram negative infections,2
+gram positive infections,gram positive infections,2
+gram postive infections.,gram positive infections,2
+granuloma inguinale,granuloma inguinale,2
+granulomatosis with polyangiitis,granulomatosis with polyangiitis,2
+graves disease,graves disease,2
+growth disorders,growth disorders,2
+gynecomastia,gynecomastia,2
+haemophilus,haemophilus,2
+hairy cell leukemia,hairy cell leukemia,2
+hay fever,hay fever,2
+head and neck cancer,head and neck cancer,2
+head and neck neoplasms,head and neck cancer,2
+headache,headache,2
+heart block,heart block,2
+heart diseases,heart diseases,2
+heart failure with reduced ejection fraction,heart failure with reduced ejection fraction,2
+hfref,heart failure with reduced ejection fraction,2
+heartburn,heartburn,2
+heavy metal poisoning,heavy metal poisoning,2
+h-pylori infection,helicobacter pylori,2
+helicobacter,helicobacter pylori,2
+hemangioma,hemangioma,2
+hematologic cancer,hematologic cancer,2
+hematological disease,hematological disease,2
+hemochromatosis,hemochromatosis,2
+hemophelia a,hemophilia a,2
+hemophilia a,hemophilia a,2
+hemorrhage,hemorrhage,2
+hemorrhoids,hemorrhoids,2
+hemosiderosis,hemosiderosis,2
+hepatic encephalopathy,hepatic encephalopathy,2
+hep b,hepatitis b,2
+hepatitis b,hepatitis b,2
+hep C,hepatitis c,1
+hepatitis c,hepatitis c,2
+hepatitis d infection,hepatitis d,2
+hepatolenticular degeneration,hepatolenticular degeneration,2
+hereditary angioedema,hereditary angioedema,2
+heriditary angioedema,hereditary angioedema,2
+herpes labialis,herpes labialis,2
+herpes simplex,herpes simplex virus,2
+hsv encephalitis,herpes simplex virus,2
+herpes zoster,herpes zoster,2
+chickenpox,herpes zoster infection,2
+heterotopic ossification,heterotopic ossification,2
+hiccup,hiccup,2
+hirsuti,hirsutism,2
+hirsutism,hirsutism,2
+histiocytosis,histiocytosis,2
+histiocytosis langerhans-cell,histiocytosis langerhans-cell,2
+histoplasmosis,histoplasmosis,2
+hiv associated lipodystrophy,hiv associated lipodystrophy,2
+hodgkin disease,hodgkin disease,2
+homocystinuria,homocystinuria,2
+hot flushes,hot flushes,2
+human bite,human bite,2
+aids,human immumodeficiency virus,2
+hiv,human immumodeficiency virus,2
+hiv infections,human immumodeficiency virus,2
+human immumodeficiency virus,human immumodeficiency virus,2
+human immunodeficiency virus,human immunodeficiency virus,2
+hunter syndrome,hunter syndrome,2
+huntington disease,huntington disease,2
+hydatidiform mole,hydatidiform mole,2
+hymenolepiasis,hymenolepiasis,2
+hyperactive behavior,hyperactive behavior,2
+hyperaldosteronism,hyperaldosteronism,2
+hyperammonemia,hyperammonemia,2
+hypercalcemia,hypercalcemia,2
+hypercapnia,hypercapnia,2
+hypercholesterolemia,hypercholesterolemia,2
+hyperemia,hyperemia,2
+hypereosinophilic syndrome,hypereosinophilic syndrome,2
+hyperglycemia,hyperglycemia,2
+hyperkalemia,hyperkalemia,2
+hyperkeratosis epidermolytic,hyperkeratosis epidermolytic,2
+hyperlipedemia,hyperlipidemia,2
+hyperlipidemia,hyperlipidemia,2
+hyperparathyroidism,hyperparathyroidism,2
+hyperphosphatemia,hyperphosphatemia,2
+hyrerphosphatemia,hyperphosphatemia,2
+hyperpigmentation,hyperpigmentation,2
+hyperprolactinemia,hyperprolactinemia,2
+hypertension,Hypertension,1
+htn,hypertension,2
+hypertension,hypertension,2
+hypertension renovascular,hypertension renovascular,2
+hyperthyroid,hyperthyroidism,1
+hyperthyroidism,hyperthyroidism,2
+hypertrichosis,hypertrichosis,2
+hypertriglyceridemia,hypertriglyceridemia,2
+hyperuricemia,hyperuricemia,2
+hypoalbuminemia,hypoalbuminemia,2
+hypocalcemia,hypocalcemia,2
+hypoglycemia,hypoglycemia,2
+hypogonadism,hypogonadism,2
+hypokalemia,hypokalemia,2
+hypomagnesemia,hypomagnesemia,2
+hyponatremia,hyponatremia,2
+hypoparathyroidism,hypoparathyroidism,2
+hypophosphatemia,hypophosphatemia,2
+hypophosphatemic rickets,hypophosphatemic rickets,2
+hypophosphatesia,hypophosphatesia,2
+hypoplastic left heart syndrome,hypoplastic left heart syndrome,2
+hypotension,hypotension,2
+disease of thyroid,hypothyroidism,1
+acquired hypothyroidism,hypothyroidism,1
+hypothyroid,hypothyroidism,1
+hypothyroidism,hypothyroidism,2
+hypoventilation,hypoventilation,2
+hypovolemic shock,hypovolemic shock,2
+hypovolumic shock,hypovolemic shock,2
+hypoxia,hypoxia,2
+idiopathetic pulmonary fibrosis,idiopathic pulmonary fibrosis,2
+idiopathic pulmonary fibrosis,idiopathic pulmonary fibrosis,2
+chronic itp,idiopathic thrombocytopenic purpura,2
+idiopathic thrombocytopenic purpura,idiopathic thrombocytopenic purpura,2
+itp,idiopathic thrombocytopenic purpura,2
+ileal neoplasms,ileal neoplasms,2
+impetigo,impetigo,2
+impotence,impotence,2
+in vitro fertilization,in vitro fertilization,2
+incomplete spontaneous abortion,incomplete spontaneous abortion,2
+infant nutrition disorders,infant nutrition disorders,2
+infection,infection,2
+infective endocarditis,infective endocarditis,2
+infertility,infertility,2
+ulcerative colitis,ulcerative colitis,1
+inflammation,inflammation,2
+inflamatory arthritis,inflammatory arthritis,2
+inflammatory arthritis,inflammatory arthritis,2
+inflammatory bowel diseases,inflammatory bowel diseases,2
+inflamatory disease,inflammatory disorders,2
+Inflamatory disorders,Inflammatory disorders,2
+inflammatory disorders,inflammatory disorders,2
+Inflammatory disorders,Inflammatory disorders,2
+inflammatory disorders of mucous membrane,inflammatory disorders of mucous membrane,2
+inflamatory diseases,inflammatory disorderss,2
+inflammatory disorderss,inflammatory disorderss,2
+influenza,influenza,2
+insect bites,insect bites,2
+insomnia,insomnia,2
+intermittent claudication,intermittent claudication,2
+interstitial cystitis,interstitial cystitis,2
+intracranial hypertension,intracranial hypertension,2
+invasive ductal breast carcinoma,invasive ductal breast carcinoma,2
+iridocyclitis,iridocyclitis,2
+iritis,iritis,2
+iron deficiency,iron deficiency,2
+iron deficiency anemia,iron deficiency anemia,2
+iron overload,iron overload,2
+ibs,irritable bowel syndrome,2
+irritable bowel,irritable bowel syndrome,2
+irritable bowel syndrome,irritable bowel syndrome,2
+ischemia,ischemia,2
+juvenile arthritis,juvenile arthritis,2
+juvenile myoclonic epilepsy,juvenile myoclonic epilepsy,2
+kaposi sarcoma,kaposi sarcoma,2
+kawasaki disease,kawasaki disease,2
+keratitis,keratitis,2
+keratitis herpetic,keratitis herpetic,2
+kerato conjunctivitis sicca,kerato conjunctivitis sicca,2
+keratoconjunctivitis,keratoconjunctivitis,2
+keratoconjunctivitis infectious,keratoconjunctivitis infectious,2
+keratosis,keratosis,2
+kidney diseases,kidney diseases,2
+kidney cancer,kidney neoplasm,2
+kidney neoplasm,kidney neoplasm,2
+kidney transplant,kidney transplant,2
+klebsiella,klebsiella,2
+TOTAL KNEE ARTHROPLASTY,Knee Replacement,1
+lambert-eaton,lambert-eaton myasthenia,2
+laryngitis,laryngitis,2
+lead poisoning,lead poisoning,2
+left ventricular hypertrophy,left ventricular hypertrophy,2
+lvh,left ventricular hypertrophy,2
+leg ulcer,leg ulcer,2
+legionnaires disease,legionnaires disease,2
+leishmaniasis,leishmaniasis,2
+lennox-gastaut syndrome,lennox-gastaut syndrome,2
+leprosy,lepromatous leprosy,2
+leprosy lepromatous,lepromatous leprosy,2
+leukemia,leukemias,2
+leukemias,leukemias,2
+lwukemias,leukemias,2
+lice infestations,lice infestations,2
+lipodystrophy,lipodystrophy,2
+listeriosis,listeriosis,2
+liver cirrhosis,liver cirrhosis,2
+liver diseases,liver diseases,2
+liver cancer,liver neoplasms,2
+liver carcinoma,liver neoplasms,2
+liver neoplasms,liver neoplasms,2
+local pain,local pain,2
+lung diseases,lung diseases,2
+lung cancer,lung neoplasms,2
+lung neoplasms,lung neoplasms,2
+lupus nephritis,lupus nephritis,2
+lyme disease,lyme disease,2
+lymphatic system cancer,lymphatic system cancer,2
+lymphogranuloma venereum,lymphogranuloma venereum,2
+lymphoma,lymphoma,2
+macular degeneration,macular degeneration,2
+macular edema,macular edema,2
+magnesium deficiency,magnesium deficiency,2
+major depression,major depression,2
+malaria,malaria,2
+male infertility,male infertility,2
+male urogenital diseases,male urogenital diseases,2
+malignancy,malignancy,2
+malignency,malignancy,2
+malignancy  hiv infection,malignancy  hiv infection,2
+malignant glioma,malignant glioma,2
+mania,mania,2
+mansonelliasis,mansonelliasis,2
+mastocytosis,mastocytosis,2
+maxillary sinusitis,maxillary sinusitis,2
+medullary carcinoma,medullary carcinoma,2
+medulloblastoma,medulloblastoma,2
+melanoma,melanoma,2
+meningeal neoplasms,meningeal neoplasms,2
+meningioma,meningioma,2
+meningitis bacterial,meningitis bacterial,2
+meningitis cryptococcal,meningitis cryptococcal,2
+meningococcal infections,meningococcal infections,2
+meningococcal meningitis,meningococcal meningitis,2
+menopause,menopause,2
+menorrhagia,menorrhagia,2
+menstruation disturbances,menstruation disturbances,2
+mercury poisoning,mercury poisoning,2
+mesothelioma,mesothelioma,2
+metabolic syndrome x,metabolic syndrome x,2
+metastatic breast cancer,metastatic breast cancer,2
+methanol poisioning,methanol poisioning,2
+methemoglobinemia,methemoglobinemia,2
+microsporidiosis,microsporidiosis,2
+migraine,migraine,2
+miosis disorder,miosis disorder,2
+moraxella,moraxella,2
+morquio syndrome,morquio syndrome,2
+motion sickness,motion sickness,2
+mouth diseases,mouth diseases,2
+mucopolysaccharidosis,mucopolysaccharidosis,2
+mucopolysaccharidosis i,mucopolysaccharidosis i,2
+mulloscum contagiosum,mulloscum contagiosum,2
+multiple myeloma,multiple myeloma,2
+ms,multiple sclerosis,1
+multiple sclerosis,multiple sclerosis,2
+muscle cramp,muscle cramp,2
+muscle rigidity,muscle rigidity,2
+muscle spasticity,muscle spasticity,2
+muscle weakness,muscle weakness,2
+musculoskeletal diseases,musculoskeletal diseases,2
+myasthenia gravis,myasthenia gravis,2
+mycobacterium,mycobacterium,2
+mycoplasma infections,mycoplasma infections,2
+mycoplasma pneumonia,mycoplasma pneumonia,2
+bacterial infections and mycoses,mycoses,2
+mycoses,mycoses,2
+mycosis fungoides,mycosis fungoides,2
+mydriasis,mydriasis,2
+mydriatic,mydriatic,2
+myelitis transverse,myelitis transverse,2
+myelodysplastic syndrome,myelodysplastic syndrome,2
+myelofibrosis,myelofibrosis,2
+nstemi,myocardial infarction,1
+mi,myocardial infarction,2
+myocardial infarction,myocardial infarction,2
+myoclonic epilepsy,myoclonic epilepsy,2
+myositis,myositis,2
+myotonia,myotonia,2
+narcolepsy,narcolepsy,2
+nasal polyps,nasal polyps,2
+nausea,nausea,2
+necatoriasis,necatoriasis,2
+neisseria,neisseria,2
+neoplasm metastasis,neoplasm metastasis,2
+neoplasms hormone-dependent,neoplasms hormone-dependent,2
+nephroblastoma,nephroblastoma,2
+nephrotic hypertension,nephrotic hypertension,2
+nephrotic syndrome,nephrotic syndrome,2
+neuralgia,neuralgia,2
+neuroblastoma,neuroblastoma,2
+neurocysticercosis,neurocysticercosis,2
+neurogenic bladder,neurogenic bladder,2
+neurologic manifestations,neurologic manifestations,2
+neuropathic pain,neuropathic pain,2
+neurosyphilis,neurosyphilis,2
+neutropenia,neutropenia,2
+newborn respiratory distress syndrome,newborn respiratory distress syndrome,2
+respiratory distress syndrome newborn,newborn respiratory distress syndrome,2
+nicotine dependence,nicotine dependence,2
+nocardia infections,nocardia infections,2
+nocturia,nocturia,2
+non small cell lung ca,non small cell lung cancer,2
+non-small cell lung carcinoma,non small cell lung cancer,2
+nhl,non-hodgkins lymphoma,2
+noonan syndrome,noonan syndrome,2
+nutrition disorders,nutrition disorders,2
+morbid obesity,Obesity,1
+obesity,obesity,2
+ocd,obsessive compulsive disorder,2
+occular inflamation,occular inflamation,2
+ocular cancer,ocular cancer,2
+oliguria,oliguria,2
+onchocerciasis,onchocerciasis,2
+onychomycosis,onychomycosis,2
+opioid induced constipation,opioid induced constipation,2
+opioid overdose,opioid overdose,2
+opioid withdrawal,opioid withdrawal,2
+opisthorchiasis,opisthorchiasis,2
+optic neuritis,optic neuritis,2
+oral contraception,oral contraception,2
+oral contraceptive,oral contraception,2
+oral ulcer,oral ulcer,2
+organ transplant,organ transplant,2
+organo phosphate poisioning,organo phosphate poisioning,2
+orthostatic,orthostatic hypotension,1
+orthostatic hypotension,orthostatic hypotension,2
+osteitis deformans,osteitis deformans,2
+osteoarthritis,osteoarthritis,2
+osteogenesis imperfecta,osteogenesis imperfecta,2
+osteomyelitis,osteomyelitis,2
+osteopetrosis,osteopetrosis,2
+osteoporosis,osteoporosis,2
+osteosarcoma,osteosarcoma,2
+otitis externa,otitis externa,2
+otitis media,otitis media,2
+ovarian failure premature,ovarian failure premature,2
+ovarian cancer,ovarian neoplasm,2
+ovarian neoplasm,ovarian neoplasm,2
+overactive bladder,overactive bladder,2
+paget disease,pagets disease of bone,2
+pagets disease of bone,pagets disease of bone,2
+pain,pain,2
+pancreatic diseases,pancreatic diseases,2
+pancreatic endocrine carcinoma,pancreatic endocrine neoplasm,2
+pancreatic cancer,pancreatic neoplasm,2
+pancreatic neoplasm,pancreatic neoplasm,2
+pancreatitis,pancreatitis,2
+panic disorder,panic disorder,2
+paracoccidioidomycosis,paracoccidioidomycosis,2
+intestinal diseases parasitic,parasitic intestinal diseases,2
+parasitic intestinal diseases,parasitic intestinal diseases,2
+parkinsons,parkinsons disease,2
+parkinsons disease,parkinsons disease,2
+parkinsons disease psychosis,parkinsons disease psychosis,2
+paroxysal supraventricular tachycardia,paroxysmal supraventricular tachycardia,2
+paroxysmal supraventricular tachycardia,paroxysmal supraventricular tachycardia,2
+ppsvt,paroxysmal supraventricular tachycardia,2
+psvt,paroxysmal supraventricular tachycardia,2
+patent ductus arteriosus,patent ductus arteriosus,2
+pellagra,pellagra,2
+pelvic infection,pelvic infection,2
+pelvic inflammatory disorders,pelvic inflammatory disorders,2
+pemphigus,pemphigus,2
+peptic ulcee,peptic ulcer,2
+peptic ulcer,peptic ulcer,2
+peptic ulcer ulcer,peptic ulcer,2
+pci,Percutaneous coronary intervention,2
+Percutaneous coronary intervention,Percutaneous coronary intervention,2
+periodontal diseases,periodontal diseases,2
+peripheral nervous system neoplasm,peripheral nervous system neoplasm,2
+peripheral neuropathy,peripheral neuropathy,1
+pvd,peripheral vascular disease,1
+peripheral vascular diseases,peripheral vascular diseases,2
+peritoneal cancer,peritoneal cancer,2
+peritonitis,peritonitis,2
+pertussis,pertussis,2
+pharyngitis,pharyngitis,2
+phenylketonurias,phenylketonurias,2
+pheochromocytoma,pheochromocytoma,2
+photophobia,photophobia,2
+photosensitivity disorders,photosensitivity disorders,2
+pituitary diseases,pituitary diseases,2
+pituitary neoplasms,pituitary neoplasms,2
+plague,plague,2
+pleural effusion,pleural effusion,2
+polymyalgia rheumatica,PMR,1
+pneumococcus,pneumococcus,2
+pneumocystis jiroveci,pneumocystis jiroveci,2
+pneumonia,pneumonia,2
+pneumothorax,pneumothorax,2
+poisoning,poisoning,2
+polychondritis relapsing,polychondritis relapsing,2
+polycystic ovary syndrome,polycystic ovary syndrome,2
+polycythemia vera,polycythemia vera,2
+PMR,polymyalgia rheumatica,1
+polyuria,polyuria,2
+porphyria cutanea tarda,porphyria cutanea tarda,2
+positive-pressure respiration intrinsic,positive-pressure respiration intrinsic,2
+post traumatic stress disorder,post traumatic stress disorder,2
+ptsd,post traumatic stress disorder,2
+postpartum hemorrhage,postpartum hemorrhage,2
+prader-willi syndrome,prader-willi syndrome,2
+precocious puberty,precocious puberty,2
+pre-eclampsia,preeclampsia,2
+pregnancy,pregnancy,2
+premature menopause,premature menopause,2
+pvc,premature ventricular contraction,2
+premenstrual syndrome,premenstrual syndrome,2
+primary biliary cholangitis,primary biliary cholangitis,2
+primary biliary cirrhosis,primary biliary cirrhosis,2
+proctocolitis,proctocolitis,2
+prostatic diseases,prostatic diseases,2
+prostatic hyperplasia,prostatic hyperplasia,2
+prostate cancer,prostatic neoplasms,2
+prostatic neoplasms,prostatic neoplasms,2
+prostatitis,prostatitis,2
+proteus,proteus,2
+protozoal infections,protozoal infections,2
+pruritis,pruritis,2
+pruritus,pruritis,2
+pseudomonas,pseudomonas colitis,2
+psittacosis,psittacosis,2
+psoriasis,psoriasis,2
+psoriatic arthritis,psoriatic arthritis,2
+psychomotor agitation,psychomotor agitation,2
+psychosis,psychosis,2
+pyschosis,psychosis,2
+pulmonary artery hypertension,pulmonary artery hypertension,2
+pulmonary edema,pulmonary edema,2
+pulmomary embolism,pulmonary embolism,2
+pulmonary embolism,pulmonary embolism,2
+pulmonary hypertension,pulmonary hypertension,2
+pulmonary valve stenosis,pulmonary valve stenosis,2
+pure red-cell aplasia,pure red-cell aplasia,2
+purpura,purpura,2
+pyelonephritis,pyelonephritis,2
+radiation injury,radiation injury,2
+rash,rash,2
+raynaud disease,raynaud disease,2
+raynauds phenomenon,raynauds phenomenon,2
+rectal neoplasms,rectal neoplasms,2
+reflex sympathetic dystrophy,reflex sympathetic dystrophy,2
+refractive error,refractive error,2
+refractory anemias,refractory anemias,2
+relapsing fever,relapsing fever,2
+renal cell carcinoma,renal cell carcinoma,2
+renal failure,renal failure,2
+respiratory hypersensitivity,respiratory hypersensitivity,2
+respiratory insufficiency,respiratory insufficiency,2
+rsv,respiratory syncytial virus,2
+estless legs syndrome,restless legs syndrome,2
+restless legs syndrome,restless legs syndrome,2
+retinoblastoma,retinoblastoma,2
+reye syndrome,reye syndrome,2
+rhabdomyosarcoma,rhabdomyosarcoma,2
+rheumatic fever,rheumatic fever,2
+rheumatism,rheumatism,2
+rheumatoid arthritis,rheumatoid arthritis,2
+rhinitis,rhinitis,2
+riboflavin deficiency,riboflavin deficiency,2
+rickets,rickets,2
+rickettsia infections,rickettsia infections,2
+rocky mountain spotted fever,rocky mountain spotted fever,2
+rosacea,rosacea,2
+salmonella infections,salmonella infections,2
+sarcoidosis,sarcoidosis,2
+sarcoma,sarcoma,2
+scabies,scabies,2
+schistosomiasis,schistosomiasis,2
+schizoaffective,schizoaffective disorder,1
+schizoaffective disorder,schizoaffective disorder,1
+schizophrenia,schizophrenia,2
+sclerosing cholangitis,sclerosing cholangitis,2
+seborrheic dermatitis,seborrheic dermatitis,2
+sedation,sedation,2
+seizures,seizures,2
+sepsis,sepsis,2
+septic shock,septic shock,2
+serratia,serratia,2
+serum sickness,serum sickness,2
+sezary syndrome,sezary syndrome,2
+shock,shock,2
+shock cardiogenic,shock cardiogenic,2
+shock hemorrhagic,shock hemorrhagic,2
+short bowel syndrome,short bowel syndrome,2
+syndrome of inappropriate adh production,SIADH,1
+siadh,siadh,2
+sialorrhea,sialorrhea,2
+sickle cell disease,sickle cell disease,2
+sideroblastic anemia,sideroblastic anemia,2
+sinoatrial block,sinoatrial block,2
+sinusitis,sinusitis,2
+skin cancer,skin cancer,2
+skin diseases parasitic,skin diseases parasitic,2
+skin diseases viral,skin diseases viral,2
+skin ulcer,skin ulcer,2
+cpap,sleep apnea,1
+osa,sleep apnea,1
+sleep apnea,sleep apnea,1
+small cell carcinoma of lung,small cell carcinoma of lung,2
+soft tissue neoplasms,soft tissue neoplasms,2
+solid tumors,solid tumors,2
+sore throat,sore throat,2
+spasm,spasm,2
+spinal cord injuries,spinal cord injuries,2
+spinal cord neoplasms,spinal cord neoplasms,2
+spinal muscular atrophy,spinal muscular atrophy,2
+spirochaetales infections,spirochaetales infections,2
+spondylarthritis,spondylarthritis,2
+spondylolysis,spondylolysis,2
+sporotrichosis,sporotrichosis,2
+squamous cell carcinoma,squamous cell carcinoma,2
+stable angina,stable angina,2
+staphylococcus,staphylococcus,2
+status asthmaticus,status asthmaticus,2
+status epilepticus,status epilepticus,2
+stills disease,stills disease,2
+stomach cancer,stomach cancer,2
+stomach diseases,stomach diseases,2
+stomatitis,stomatitis,2
+streptococcus,streptococcus,2
+cva,stroke,1
+stroke,stroke,2
+strongyloidiasis,strongyloidiasis,2
+subarachnoid hemorrhage,subarachnoid hemorrhage,2
+sunburn,sunburn,2
+suppurative otitis media,suppurative otitis media,2
+svt,supraventricular tachycardia,1
+supraventricular tachycardia,supraventricular tachycardia,2
+syncope,syncope,1
+synovitis,synovitis,2
+syphilis,syphilis,2
+sle,systemic lupus erythematosus,2
+systemic lupus erythematosus,systemic lupus erythematosus,2
+systemic scleroderma,systemic scleroderma,2
+t-cell lymphoma,t-cell lymphoma,2
+lymphoma-t-cell,t-cell-lymphoma,2
+tachycardia atrioventricular nodal reentry,tachycardia atrioventricular nodal reentry,2
+tendinopathy,tendinopathy,2
+teratocarcinoma,teratocarcinoma,2
+testicular cancer,testicular neoplasms,2
+testicular neoplasms,testicular neoplasms,2
+tetanus,tetanus,2
+tetralogy of fallot,tetralogy of fallot,2
+thrombocythemia essential,thrombocythemia essential,2
+thrombocytopenia,thrombocytopenia,2
+thrombocytosis,thrombocytosis,2
+thromboembolism,thromboembolism,2
+thrombophlebitis,thrombophlebitis,2
+thymus cancer,thymus cancer,2
+thyroid crisis,thyroid crisis,2
+thyroid cancer,thyroid neoplasms,2
+thyroid neoplasm,thyroid neoplasms,2
+thyroiditis,thyroiditis,2
+tic disorder,tic disorder,2
+tinea capitis,tinea capitis,2
+tinea cruris,tinea cruris,2
+tinea pedis,tinea pedis,2
+tinea versicolor,tinea versicolor,2
+tobacco use disorder,tobacco use disorder,2
+tonsillitis,tonsillitis,2
+topical antifungal,topical antifungal,2
+torsades de pointes,torsades de pointes,2
+torticollis,torticollis,2
+gilles de la tourette syndrome,tourette syndrome,2
+tourette syndrome,tourette syndrome,2
+toxocariasis,toxocariasis,2
+toxoplasmosis,toxoplasmosis,2
+toxoplasmosis cerebral,toxoplasmosis cerebral,2
+trachoma,trachoma,2
+tia,transient ischemic attack,2
+transplant,transplant,2
+tremor,tremor,2
+trichomonas infections,trichomonas infections,2
+trichomonas vaginitis,trichomonas vaginitis,2
+trichuris trichiura,trichuris trichiura,2
+tricuspid atresia,tricuspid atresia,2
+trigeminal neuralgia,trigeminal neuralgia,2
+trophoblastic neoplasms,trophoblastic neoplasms,2
+trypanosomiasis,trypanosomiasis,2
+tuberculosis,tuberculosis,2
+tularemia,tularemia,2
+tumor lysis syndrome,tumor lysis syndrome,2
+turner syndrome,turner syndrome,2
+type 1 diabetes mellitus,type 1 diabetes mellitus,2
+type 2 diabetes mellitus,type 2 diabetes mellitus,2
+typhoid fever,typhoid fever,2
+tyrosinemia,tyrosinemia,2
+ulcerative colitis,ulcerative colitis,2
+ultrasound contrast,ultrasound contrast,2
+unstable angina,unstable angina,2
+urethral diseases,urethral diseases,2
+urethritis,urethritis,2
+urge incontinence,urge incontinence,2
+urinary bladder cancer,urinary bladder cancer,2
+bladder incontinence,Urinary incontinence,1
+stress incontinence,Urinary incontinence,1
+urinary incontinence,urinary incontinence,2
+urinary retention,urinary retention,2
+urinary tract infection,urinary tract infection,2
+uti,urinary tract infection,2
+urticaria,urticaria,2
+uterine cancer,uterine cancer,2
+uterine cervical neoplasm,uterine cervical neoplasm,2
+fibroids,uterine fibroids,2
+uterine fibroid,uterine fibroids,2
+uterine fibroids,uterine fibroids,2
+uterine hemorrhage,uterine hemorrhage,2
+uterine neoplasms,uterine neoplasms,2
+uveitis,uveitis,2
+graft occlusion vascular,vascular graft occlusion,2
+vascular graft occlusion,vascular graft occlusion,2
+vasovagal syncope,vasovagal syncope,2
+venous thrombosis,venous thrombosis,2
+ventricular dysfunction,ventricular dysfunction,2
+ventricular fibrillation,ventricular fibrillation,2
+vfib,ventricular fibrillation,2
+v-tach,ventricular tachycardia,2
+ventricular tachycardia,ventricular tachycardia,2
+vtach,ventricular tachycardia,2
+vertigo,vertigo,2
+viral conjunctivitis,viral conjunctivitis,2
+viral infection,viral infection,2
+viral infections,viral infection,2
+virus diseases,virus diseases,2
+vitamin b 12 deficiency,vitamin b 12 deficiency,2
+vitamin b deficiency,vitamin b deficiency,2
+vitamin b1 deficiency,vitamin b1 deficiency,2
+vitamin b12 deficiency,vitamin b12 deficiency,2
+vitamin b6 deficiency,vitamin b6 deficiency,2
+vitamin d deficiency,vitamin d deficiency,2
+vitamin e deficiency,vitamin e deficiency,2
+vitero macular adhesion,vitero macular adhesion,2
+vitiligo,vitiligo,2
+vomiting,vomiting,2
+von willebrand disease,von willebrand disease,2
+von williebrand disease,von willebrand disease,2
+waldenstrom macroglobulinemia,waldenstrom macroglobulinemia,2
+warts,warts,2
+wernicke encephalopathy,wernicke encephalopathy,2
+west nile fever,west nile fever,2
+west syndrome,west syndrome,2
+wpw syndrome,wolf parkinson white syndrome,2
+wound infection,wound infection,2
+xerostomia,xerostomia,2
+zellweger syndrome,zellweger syndrome,2
+zollinger-ellison,zollinger-ellison,2
+zygomycosis,zygomycosis,2

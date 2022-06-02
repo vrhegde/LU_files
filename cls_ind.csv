@@ -1,0 +1,275 @@
+med_class,indications
+"2b3a inhibitor, antiplatelet","['coronary artery disease', 'acute coronary syndrome', 'myocardial infarction']"
+5 alpha reductase inhibitor,"['hirsutism', 'prostatic neoplasms', 'prostate cancer', 'alopecia', 'prostatic hyperplasia']"
+5-asa,"['ulcerative colitis', 'crohns disease']"
+5ht2c inhibitor,['obesity']
+5HT3 inhibitor,"['nausea', 'vomiting', 'gastroparesis']"
+5ht4 agonist,['constipation']
+ACEi,"['congestive heart failure', 'raynaud disease', 'hypertension', 'left ventricular hypertrophy', 'bartter disease', 'coronary artery disease', 'diabetic nephropathy', 'systemic scleroderma', 'systemic lupus erythematosus', 'dilated cardiomyopathy', 'left ventricular hypertrophy', 'rheumatoid arthritis']"
+acetaminophen,"['migraine', 'osteoarthritis', 'fever', 'pain']"
+"adh receptor inhibitor, aquaretic",['hyponatremia']
+Adrenergic,"['allergic rhinitis', 'asthma', 'rhinitis', 'bronchospasm', 'asthma']"
+adrenergic,"['shock', 'hypotension', 'obesity']"
+volume expander,['hypovolemic shock']
+alcohol dehydrogenase inhibitor,['alcohol poisoning']
+"alkylating agent, chemotherapy","['solid tumors', 'endometrial neoplasms', 'neuroblastoma', 'lymphoma', 'leukemia', 'lupus nephritis', 'granulomatosis with polyangiitis', 'ewings sarcoma', 'mycosis fungoides', 'malignancy', 'ovarian neoplasm', 'testicular neoplasms', 'idiopathic thrombocytopenic purpura', 'autoimmune hemolytic anemia', 'multiple myeloma', 'rhabdomyosarcoma', 'pure red-cell aplasia', 'hemosiderosis', 'lung neoplasms', 'rheumatism', 'hodgkin disease', 'nephrotic syndrome', 'myasthenia gravis', 'waldenstrom macroglobulinemia', 'melanoma', 'brain neoplasms', 'lung cancer', 'hematologic cancer', 'skin cancer', 'brain cancer', 'malignant glioma']"
+alpha blocker non-selective,"['urinary incontinence', 'bladder neck obstruction', 'pheochromocytoma']"
+alpha-1 blocker,"['prostatic hyperplasia', 'urinary retention', 'benign prostatic hyperplasia']"
+alpha-1a blocker,"['prostatic hyperplasia', 'urinary retention', 'benign prostatic hyperplasia', 'hypertension', 'hypertension', 'prostate cancer']"
+alpha-2 agonist,"['glaucoma', 'hypertension']"
+alpha-glucosidase inhibitor,['diabetes mellitus']
+aminoglycoside,"['tuberculosis', 'gram negative infections']"
+aminopyridine,['multiple sclerosis']
+amphetamine,"['attention deficit hyperactivity disorder', 'obesity', 'narcolepsy']"
+amylin analog,['diabetes mellitus']
+anabolic steroid,"['osteoporosis', 'growth disorders', 'emaciation', 'anemia', 'hypogonadism']"
+Anesthetic,['general anesthesia']
+anesthetic,"['conscious sedation', 'general anesthesia']"
+antacids,"['dyspepsia', 'acidosis']"
+anthelmintic,"['enterobiasis', 'trichuris trichiura', 'onchocerciasis', 'ascariasis', 'elephantiasis', 'mansonelliasis', 'strongyloidiasis', 'scabies']"
+anti-parasite,"['pneumocystis jiroveci', 'toxoplasmosis cerebral']"
+antiarrhythmic,"['paroxysmal supraventricular tachycardia', 'supraventricular tachycardia', 'ventricular fibrillation', 'atrial fibrillation', 'atrial flutter', 'ventricular tachycardia', 'atrial fibrillation']"
+Antibiotic,['bacterial infections']
+"antibiotic, Antitubercular","['tuberculosis', 'bacterial infections']"
+"antibiotic, antitubercular","['bacterial infections', 'tuberculosis']"
+"antibiotic, dermatological",['none']
+antibiotics,['bacterial infections']
+anticholinergic,"['bradycardia', 'parkinsons disease', 'peptic ulcer']"
+"anticholinergic, bronchodialator","['asthma', 'chronic obstructive pulmonary disease', 'bronchitis', 'bronchoconstriction']"
+"anticholinergic, urinary antispasmodics","['urge incontinence', 'overactive bladder']"
+anticonvulsant,"['seizures', 'epilepsy', 'seizures', 'bipolar disorder', 'schizophrenia']"
+antidepressent,"['bipolar disorder', 'dysthymic disorder', 'enuresis', 'pain', 'bulimia', 'duodenal ulcer', 'panic disorder', 'panic disorder']"
+antiemetic,"['nausea', 'vomiting']"
+antifungal,"['aspergillosis', 'blastomycosis', 'candidiasis', 'coccidioidomycosis', 'cryptococcosis', 'fungal infections', 'fungal infections', 'aspergillosis', 'tinea pedis', 'tinea versicolor', 'leishmaniasis', 'paracoccidioidomycosis', 'histoplasmosis']"
+"antifungal, antiprotozoal","['pneumocystis jiroveci', 'leishmaniasis', 'trypanosomiasis']"
+"antifungal, dermatological","['fungal infections', 'tinea capitis', 'tinea pedis', 'tinea cruris']"
+antihelminthic,"['parasitic intestinal diseases ', 'clonorchiasis', 'cysticercosis', 'opisthorchiasis', 'schistosomiasis']"
+"antihistamine, nasal",['allergic rhinitis']
+antihypertensive,['hypertension']
+Antiinflammatory,"['rheumatoid arthritis', 'gout', 'systemic lupus erythematosus', 'hypertension', 'kawasaki disease', 'coronary artery disease', 'migraine', 'osteoarthritis']"
+"antimalarial, quinine",['malaria']
+antimetabolite,"['lung cancer', 'hematologic cancer', 'psoriasis', 'rheumatoid arthritis', 'systemic lupus erythematosus', 'inflammatory disorders', 'organ transplant']"
+antimineralocorticoid,"['coronary artery disease', 'hypertension']"
+"antimuscarenic, ophthalmic","['keratitis', 'iritis', 'iridocyclitis']"
+antimuscranic,"['schizophrenia', 'alzheimers disease', 'parkinsons disease', 'peptic ulcer', 'irritable bowel syndrome']"
+"antimyasthenic agents, cholinesterase_inhibitor",['myasthenia gravis']
+antimycobacterial agent,"['mycobacterium', 'tuberculosis']"
+antiparkinsonian,['parkinsons disease']
+antiprotozoal,"['protozoal infections', 'malaria', 'toxoplasmosis']"
+antipsychotic,"['psychosis', 'schizophrenia', 'schizophrenia']"
+antipsychotic 1st gen,"['nausea', 'psychosis', 'vomiting', 'schizophrenia', 'child behavior disorders', 'anxiety', 'schizophrenia', 'tourette syndrome', 'tourette syndrome']"
+antipsychotic 2nd gen,"['schizophrenia', 'bacterial infections', 'endogenous depression', 'bipolar disorder', 'bipolar disorder', 'schizophrenia', 'psychosis', 'agitation']"
+antiseptics & disinfectants,"['antiseptic', 'disinfectant', 'mycoses']"
+antispasmodic,"['irritable bowel syndrome', 'pancreatitis']"
+antiviral,['viral infection']
+ARB,"['congestive heart failure', 'hypertension', 'type 2 diabetes mellitus', 'left ventricular hypertrophy', 'coronary artery disease', 'diabetic nephropathy', 'hypertension']"
+aromatase inhibitor,['breast cancer']
+artemisinine,['none']
+aspirin,"['stroke', 'cerebral ischemia', 'coronary artery disease', 'arthritis']"
+"Avobenzone, topical",['none']
+"Azelaic acid, topical",['none']
+"Azelastine, nasal agents -topical",['none']
+Barbiturate,"['migraine', 'insomnia']"
+bcl2 inhibitor,['leukemia']
+"Becaplermin, topical",['none']
+"Belinostat, chemotherapy",['none']
+benzodiazepine,"['depression', 'panic disorder', 'anxiety', 'alcohol withdrawal', 'schizophrenia', 'epilepsy syndrome', 'restless legs syndrome', 'muscle spasticity', 'insomnia']"
+"Benzoyl peroxide, dermatological",['none']
+"Benzyl alcohol, dermatological",['none']
+beta agonist,"['chronic obstructive pulmonary disease', 'asthma', 'bronchospasm']"
+beta blocker,"['hypertension', 'ventricular fibrillation', 'supraventricular tachycardia']"
+"beta-lactamase-inhibitor, antibiotic",['bacterial infections']
+biguanide,"['polycystic ovary syndrome', 'metabolic syndrome x', 'kidney cancer', 'liver cancer', 'prostate cancer', 'type 2 diabetes mellitus', 'diabetes mellitus']"
+bile acid sequesterant,"['hyperlipidemia', 'coronary artery disease', 'hypercholesterolemia', 'enterocolitis pseudomembranous', 'dyslipidemia', 'diarrhea', 'hypertriglyceridemia']"
+bisphosphonate,"['osteoporosis', 'pagets disease of bone']"
+bnp,['congestive heart failure']
+bradykinin inhibitor,['hereditary angioedema']
+braf inhibitor,"['melanoma', 'skin cancer', 'melanoma']"
+calcimimetic,['none']
+"calcineurine inhibitor, immunosuppresent","['rheumatoid arthritis', 'systemic lupus erythematosus', 'psoriasis', 'graft vs host disease']"
+calcitonin,"['hypercalcemia', 'osteoporosis', 'osteitis deformans', 'osteogenesis imperfecta']"
+Calcium channel blocker,"['hypertension', 'coronary artery disease', 'angina', 'atrial fibrillation', 'paroxysmal supraventricular tachycardia']"
+cannibanoid,"['nausea', 'anorexia', 'vomiting']"
+carbamate,"['muscle rigidity', 'muscle spasticity', 'spasm', 'headache', 'anxiety']"
+"carbapenem, antibiotic",['bacterial infections']
+carbonic anhydrase inhibitor,"['epilepsy syndrome', 'altitude sickness', 'glaucoma', 'hypertension']"
+cdk4 inhibitor,['breast cancer']
+central alpha 2 agonist,"['hypertension', 'attention deficit hyperactivity disorder']"
+cephalosporin,['bacterial infections']
+chelating agent,"['mercury poisoning', 'arsenic poisoning', 'lead poisoning']"
+chemotherapy,['malignancy']
+cholesterol absorbtion inhibitor,"['atherosclerosis', 'coronary artery disease']"
+"cholinergic, bronchodialator",['bronchial hyperreactivity']
+cholinesterase_inhibitor,"['alzheimers disease', 'parkinsons disease']"
+clonidine,"['hypertension', 'attention deficit hyperactive disorder', 'opioid withdrawal']"
+"colchicine, Antiinflamatory","['primary biliary cirrhosis', 'gout', 'amyloidosis', 'systemic scleroderma', 'familial mediterranean fever', 'inflammatory disorders']"
+Corticosteroid,"['asthma', 'inflammatory diseases', 'psoriasis', 'dermatoses', 'chronic obstructive pulmonary disease', 'cancers', 'addison disease']"
+"corticosteroid, topical antiinflamatory","['pruritus', 'dermatoses']"
+cox2 inhibitor,['Arthritis']
+"cyclin inhibitor, chemotherapy",['metastatic breast cancer']
+ddavp,"['diabetes insipidus', 'hemophilia a', 'von willebrand disease']"
+deutetrabenazine,['chorea']
+Osmotic agent,['hypovolemic shock']
+digoxin,"['congestive heart failure', 'atrial fibrillation', 'dilated cardiomyopathy', 'atrial flutter', 'shock cardiogenic']"
+disulfiram,"['alcohol dependence', 'alcoholism']"
+diuretic,"['chronic kidney disease', 'edema', 'congestive heart failure', 'nephrotic syndrome', 'hypertension', 'ascites']"
+dmard,['Inflammatory disorders']
+dnase,['none']
+dopamin agonist,['parkinsons disease']
+dopamine,"['parkinsons disease', 'hypotension', 'bradycardia', 'cardiogenic shock']"
+D1 receptor agonist,"['parkinsons disease', 'hypotension', 'bradycardia', 'cardiogenic shock']"
+dpp4 inhibtor,['diabetes mellitus']
+emolient,['pruritis']
+endothelin receptor antagonist,['pulmonary artery hypertension']
+Ergot,"['postpartum hemorrhage', 'migraine', 'angina']"
+erythropoietin,['anemia']
+estrogen,"['ovarian failure premature', 'osteoporosis', 'malignancy', 'menorrhagia', 'hot flushes', 'hypogonadism', 'premature menopause', 'prostatic neoplasms']"
+fibrate,"['hypercholesterolemia', 'dyslipidemia', 'coronary artery disease', 'hypertriglyceridemia']"
+fluoroquinolone,['bacterial infections']
+folinic acid,"['colon cancer', 'anemia megaloblastic']"
+"Fosaprepitant, antiemetic",['nausea']
+fsh,"['female infertility', 'polycystic ovary syndrome']"
+G-CSF,"['neutropenia', 'infection', 'multiple myeloma', 'hematologic cancer', 'lymphoma']"
+gaba antagonist,['drug overdose']
+gabaergic,"['neuropathic pain', 'epilepsy syndrome']"
+Glatiramer,['none']
+glp-1 agonist,['diabetes mellitus']
+glp-2 agonist,['short bowel syndrome']
+glucagon,"['hypoglycemia', 'shock cardiogenic', 'hypothyroidism']"
+GM-CSF,"['neutropenia', 'infection', 'multiple myeloma', 'hematologic cancer', 'lymphoma']"
+gnrh agonist,"['precocious puberty', 'endometriosis', 'hiv associated lipodystrophy', 'prostatic neoplasms', 'breast cancer', 'uterine fibroid']"
+gnrh antagonist,"['in vitro fertilization', 'assisted reproduction']"
+gold salt,"['rheumatoid arthritis', 'inflammatory disease', 'inflammatory arthritis']"
+growth hormone,"['prader-willi syndrome', 'turner syndrome', 'dwarfism', 'noonan syndrome', 'cachexia']"
+guanyl cyclase agonist,['irritable bowel syndrome']
+H1 blocker,"['urticaria', 'rhinitis', 'pruritis', 'anxiety', 'nausea', 'vomiting', 'hay fever', 'atopic dermatitis', 'common cold', 'insomnia']"
+h2 blocker,"['gastro-esophageal reflux disease', 'urticaria', 'duodenal ulcer', 'zollinger-ellison', 'heartburn', 'dyspepsia', 'gastric ulcer', 'esophagitis', 'helicobacter', 'gastro-intestinal bleed']"
+hdac inhibitor,['malignancy']
+hemostatic,['bleeding']
+heparin,"['thrombophlebitis', 'thromboembolism', 'myocardial infarction', 'venous thrombosis', 'pulmonary embolism', 'angina unstable']"
+hiv-antiviral,"['human immunodeficiency virus', 'human immumodeficiency virus', 'acquired immunodeficiency syndrome']"
+hydroxyurea,"['sickle cell disease', 'chronic myeloid leukemia', 'essential thrombocytosis']"
+hypnotics,['insomnia']
+immunomodulator,['inflammatory disorders']
+immunosuppresent,['inflammatory disorders']
+inhaled steroid,"['allergic rhinitis', 'asthma']"
+Insulin,['diabetes mellitus']
+Inteferon,"['hepatitis b', 'hepatitis c', 'multiple myeloma', 'leukemias', 'cryoglobulinemia']"
+interlukin,['malignancy  hiv infection']
+Iron,"['iron deficiency anemia', 'anemia']"
+iron chelator,"['iron overload', 'hemochromatosis']"
+k-sparing-diuretic,"['edema', 'hypertension']"
+kallikrein inhibitor,['hereditary angioedema']
+lactulose,"['constipation', 'hepatic encephalopathy']"
+leptin analog,['lipodystrophy']
+leucotrine antagonist,"['allergic rhinitis', 'asthma', 'chronic obstructive pulmonary disease']"
+lipase inhibitor,"['type 2 diabetes mellitus', 'hypertension', 'obesity']"
+lithium,"['bipolar disorder', 'post traumatic stress disorder', 'depression', 'schizophrenia', 'conduct disorder']"
+local anesthetic,['pain']
+loop-diuretic,"['edema', 'nephrotic syndrome', 'hypertension', 'acute pulmonary edema', 'chronic kidney disease', 'ascites', 'liver cirrhosis']"
+macrolide,['bacterial infections']
+mao inhibitor,"['post traumatic stress disorder', 'depression']"
+mast cell stabilizer,"['asthma', 'conjunctivitis', 'mastocytosis', 'rhinitis', 'food allergy', 'bronchial spasm', 'asthma', 'pruritus', 'allergic conjunctivitis']"
+meglitinides,['diabetes mellitus']
+methimazole,"['hyperthyroidism', 'thyroid crisis', 'goiter', 'graves disease']"
+methylxantine,"['asthma', 'chronic obstructive pulmonary disease']"
+microtubule stabilizer,['malignancy']
+mineralocorticoid blocker,"['edema', 'congestive heart failure', 'hypokalemia', 'dilated cardiomyopathy', 'hirsutism', 'hyperaldosteronism', 'hypertension', 'ascites']"
+"monobactam, Antibiotic",['bacterial infections']
+mtor inhibitor,"['graft-vs-host disease', 'transplant']"
+muscle relaxant,"['multiple sclerosis', 'muscle spasticity', 'pain', 'cerebral palsy', 'muscle rigidity', 'spasm', 'myositis', 'muscle cramp', 'tetanus']"
+nasal agents -topical,"['sinusitis', 'allergic rhinitis', 'rhinitis', 'common cold']"
+ndri,"['attention deficit hyperactivity disorder', 'depression', 'obesity', 'panic disorder', 'tobacco use disorder']"
+nicotine,['ulcerative colitis']
+nitroglycerin,"['congestive heart failure', 'angina', 'esophageal spasm']"
+nitroimidazole,"['trichuris trichiura', 'ancylostomiasis', 'giardiasis', 'bacterial vaginosis']"
+noac,"['deep venous thrombosis', 'pulmonary embolism', 'atrial fibrillation']"
+Nonsteroidal antiandrogen,"['hirsutism', 'bacterial infection', 'prostatic neoplasms', 'prostate cancer']"
+NSAID,"['arthritis', 'rheumatoid arthritis', 'inflammatory diseases']"
+nucleoside,"['leukemia', 'sideroblastic anemia', 'refractory anemias']"
+ocp,['contraceptive']
+octreotide,"['adenoma', 'pancreatic neoplasm', 'pancreatitis', 'acromegaly', 'thymus cancer', 'pituitary neoplasms']"
+"ophthalmic, alpha 2 agonist",['eye decongestant']
+"ophthalmic, h1 blocker",['eye decongestant']
+opioid,"['opioid withdrawal', 'pain', 'cough', 'diarrhea']"
+"opioid agonist, antidiarrheal","['dysentery bacillary', 'diarrhea']"
+p2y12 inhibitor,"['atherosclerosis', 'coronary artery disease', 'cerebrovascular accident']"
+pancrease,['exocrine pancreatic insufficiency']
+PARP inhibitor,['ovarian cancer']
+PDE3 inhibitor,"['congestive heart failure', 'cardiomyopathy dilated', 'heart failure with reduced ejection fraction', 'shock cardiogenic']"
+"PDE3 inhibitor, vasodialator","['vascular graft occlusion ', 'coronary artery disease']"
+PDE4 inhibitor,['chronic obstructive pulmonary disease']
+PDE5 inhibitor,"['erectile dysfunction', 'pulmonary artery hypertension', 'raynauds phenomenon']"
+"penicillin, Antibiotic",['bacterial infections']
+pentosan polysulfate sodium,['interstitial cystitis']
+phosphate binder,"['hyperphosphatemia', 'renal failure']"
+phosphodiesterase 3 inhibitor,['congestive heart failure']
+non-selective phosphodiesterase inhibitor,"['intermittent claudication', 'alcoholic hepatitis']"
+pi3 kinase inhibitor,"['chronic lymphocytic leukemia', 'follicular b cell lymphoma']"
+pimozide,"['psychosis', 'tourette syndrome', 'huntington disease']"
+pirfenidone,['idiopathic pulmonary fibrosis']
+platinum-chemo,['malignancy']
+"polyene, local treatment",['candidiasis']
+potassium binder,['hyperkalemia']
+proton pump inhibitor,"['gastro-esophageal reflux disease', 'peptic ulcer ulcer', 'zollinger-ellison', 'gastric ulcer', 'esophagitis', 'helicobacter', 'heartburn']"
+Progesterone blocker,"['ectopic pregnancy', 'oral contraception', 'uterine fibroids']"
+progestins,"['polycystic ovary syndrome', 'endometriosis', 'pregnancy', 'pregnancy', 'endometrial neoplasms', 'malignancy']"
+propylthiouracil,"['thyroid crisis', 'goiter', 'graves disease']"
+prostacyclin,['pulmonary artery hypertension']
+prostaglandin,"['pulmonary valve stenosis', 'aortic coarctation', 'pulmonary hypertension', 'hypertension', 'glaucoma', 'systemic scleroderma', 'pulmonary hypertension']"
+Protamine,['none']
+proteosomal inhibitor,"['lymphoma', 'leukemia']"
+PTH analog,['none']
+quinine,"['malaria', 'arthritis', 'inflammatory disorders']"
+renin inhibitor,['congestive heart failure']
+retinoid,"['psoriasis', 'hematologic cancer', 'peripheral nervous system neoplasm']"
+"retinoid, dermatological","['acne', 'dermatoses']"
+riluzole,['amyotrophic lateral sclerosis']
+sari,"['depression', 'insomnia', 'bipolar disorder', 'schizophrenia']"
+serm,"['breast cancer', 'osteoporosis', 'malignancy']"
+serotonin modulator,['major depression']
+sglt2 inhibitor,['diabetes mellitus']
+sglt2 inhibitor,['diabetes mellitus']
+smo antagonist,['skin cancer']
+snri,"['depression', 'anxiety']"
+Sodium phosphate,['none']
+somatostatin analog,['acromegaly']
+ssri,"['depression', 'anxiety']"
+statin,"['coronary artery disease', 'atherosclerosis', 'coronary artery disease', 'hypercholesterolemia', 'dyslipidemia', 'hypertriglyceridemia']"
+steroidegenesis inhibitor,"['cushing syndrome', 'adrenocortical carcinoma']"
+stimulant,"['excessive sleepiness', 'attention deficit hyperactive disorder', 'chronic fatigue disorder', 'narcolepsy', 'attention deficit hyperactivity disorder', 'attention deficient hyperactive disorders']"
+sucralfate,"['duodenal ulcer', 'gastritis', 'gastric ulcer', 'esophagitis']"
+"Sulpha, antibiotic","['nocardia infections', 'malaria', 'toxoplasmosis', 'urinary tract infection', 'bacterial infections']"
+sulphonylurea,['diabetes mellitus']
+surfactant,"['newborn respiratory distress syndrome ', 'atelectasis']"
+"sympathomimetic, nasal","['sinusitis', 'rhinitis']"
+synthetic_pth,['osteoporosis']
+"taxol, chemotherapy","['malignancy', 'solid tumors']"
+Testosterone,"['breast cancer', 'delayed puberty', 'osteoporosis', 'malignancy', 'hypogonadism', 'erectile dysfunction']"
+tetrabenazine,"['hyperactive behavior', 'huntington disease']"
+tetracycline,['bacterial infections']
+thaledomide analog,['hematologic cancer']
+thiazide,"['edema', 'congestive heart failure', 'nephrotic hypertension', 'liver cirrhosis', 'hypertension']"
+thiozolidinedione,['type 2 diabetes mellitus']
+thrombin inhibitor,"['unstable angina', 'acute coronary syndrome', 'Percutaneous coronary intervention', 'acute myocardial infarction']"
+thrombolytic,"['unstable angina', 'acute coronary syndrome', 'Percutaneous coronary intervention', 'acute myocardial infarction']"
+thrombopoietin,['idiopathic thrombocytopenic purpura']
+thyroxin,['hypothyroidism']
+tnf inhibitor,"['arthritis psoriatic', 'ankylosing spondylitis', 'rheumatoid arthritis', 'juvenile arthritis']"
+topoisomerase 2 inhibitor,['malignancy']
+"TPA, Thrombolytic","['acute coronary syndrome', 'Acute myocardial infarction']"
+tricyclic,"['depression', 'panic disorder']"
+tricyclic antidepressent,"['depression', 'attention deficit hyperactive disorder', 'pain', 'attention deficit hyperactivity disorder']"
+triptan,['migraine']
+tylenol,"['fever', 'headache']"
+uricosuric,['gout']
+Uridine,['none']
+urinary antispasmodics,"['neurogenic bladder', 'urinary retention', 'urinary incontinence']"
+valbenzine,['none']
+valproic acid,"['bipolar disorder', 'epilepsy complex partial', 'alzheimers disease', 'absence epilepsy', 'migraine']"
+vasodialator,['hypertension']
+Vasopressin,['none']
+"vasopressors, Adrenergic",['orthostatic hypotension']
+vit d receptor agonist,"['chronic kidney failure', 'hyperparathyroidism']"
+warfarin,"['deep venous thrombosis', 'pulmonary embolism', 'atrial fibrillation']"
+xanthine oxidase inhibitor,['gout']

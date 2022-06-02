@@ -1,0 +1,1524 @@
+med,med_class
+abciximab,"2b3a inhibitor, monoclonal ab"
+eptifibatide,"2b3a inhibitor,  antiplatelet"
+tirofiban,"2b3a inhibitor,  antiplatelet"
+dutasteride,5 alpha reductase inhibitor
+finasteride,5 alpha reductase inhibitor
+balsalazide,5-aminosalicylic acid
+balsalazide disodium,5-aminosalicylic acid
+mesalamine,5-aminosalicylic acid
+sulfasalazine,5-aminosalicylic acid
+olsalazine,5-aminosalicylic acid
+lorcaserin,5ht2c inhibitor
+alosetron,5HT3 inhibitor
+granisetron,5HT3 inhibitor
+ondansetron,5HT3 inhibitor
+palonosetron,5HT3 inhibitor
+prucalopride,5ht4 agonist
+benazepril,angiotensin-converting-enzyme inhibitor
+benazepril,angiotensin-converting-enzyme inhibitor
+captopril,angiotensin-converting-enzyme inhibitor
+enalapril,angiotensin-converting-enzyme inhibitor
+enalaprilat,angiotensin-converting-enzyme inhibitor
+fosinopril,angiotensin-converting-enzyme inhibitor
+lisinopril,angiotensin-converting-enzyme inhibitor
+moexipril,angiotensin-converting-enzyme inhibitor
+perindopril,angiotensin-converting-enzyme inhibitor
+quinapril,angiotensin-converting-enzyme inhibitor
+ramipril,angiotensin-converting-enzyme inhibitor
+trandolapril,angiotensin-converting-enzyme inhibitor
+acetaminophen,acetaminophen
+conivaptan,"aquaretic, adh receptor inhibitor"
+tolvaptan,"aqaretic, adh receptor inhibitor"
+diethylpropion,Adrenergic
+dobutamine,Adrenergic
+ephedrine,Adrenergic
+isometheptene,adrenergic
+norepinephrine,adrenergic
+phendimetrazine,adrenergic
+phenylephrine,adrenergic
+pseudoephedrine,Adrenergic
+"albumin human, usp",albumin
+fomepizole,alcohol dehydrogenase inhibitor
+lomustine,"alkylating agent,  chemotherapy"
+bendamustine,"alkylating agent,  chemotherapy"
+carmustine,"alkylating agent,  chemotherapy"
+estramustine,"alkylating agent,  chemotherapy"
+cyclophosphamide,"alkylating agent,  chemotherapy"
+procarbazine,"alkylating agent,  chemotherapy"
+temozolomide,"alkylating agent,  chemotherapy"
+phentolamine,alpha blocker
+phenoxybenzamine,alpha blocker non-selective
+miglitol,alpha glucosidase inhibitor
+silodosin,alpha- blocker
+prazosin,alpha-1 blocker
+terazosin,alpha-1 blocker
+alfuzosin,alpha-1a blocker
+doxazosin,alpha-1a blocker
+tamsulosin,alpha-1a blocker
+clonidine,alpha-2 agonist
+guanabenz,"alpha-2 agonist,  antihypertensive"
+acarbose,alpha-glucosidase inhibitor
+arginine,Amino acid
+glutamine,Amino acid
+glycine,Amino acid
+tryptophan,amino acid
+gentamicin,aminoglycoside
+amikacin,"antibiotic, aminoglycoside"
+dalfampridine,aminopyridine
+lisdexamfetamine,"Adrenergic, amphetamine"
+amphetamine,"Adrenergic, amphetamine"
+benzphetamine,"Adrenergic, amphetamine"
+dextroamphetamine,"Adrenergic, amphetamine"
+methamphetamine,"Adrenergic, amphetamine"
+pramlintide,amylin analog
+danazol,anabolic steroid
+fluoxymesterone,anabolic steroid
+oxandrolone,anabolic steroid
+oxymetholone,anabolic steroid
+dehydronepiandrosterone,"androgen,"
+benoxinate,anesthetic
+desflurane,Anesthetic
+isoflurane,"Anesthetic, anesthetic"
+nitrous oxide,anesthetic
+propofol,anesthetic
+sevoflurane,Anesthetic
+aluminium hydroxide,antacid
+aluminum hydroxide,Orphanantacid
+antacid,antacid
+acarbose, alpha-glucosidase inhibitor
+ivermectin,anthelmintic
+lodoxamide,"anti inflamatory, antiinflamatory"
+atovaquone,anti-parasite
+ranolazine,antianginal
+amiodarone,antiarrhythmic
+disopyramide,antiarrhythmic
+dofetilide,antiarrhythmic
+dronedarone,antiarrhythmic
+flecainide,antiarrhythmic
+"ibuti, bacterial infectionslide",antiarrhythmic
+mexiletine,antiarrhythmic
+procainamide,antiarrhythmic
+propafenone,antiarrhythmic
+clavulanate,Antibiotic
+colistimethate,antibiotic
+colistin,antibiotic
+dalbavancin,antibiotic
+dalfopristin,antibiotic
+daptomycin,antibiotic
+ethionamide,antibiotic
+fosfomycin,antibiotic
+lincomycin,antibiotic
+linezolid,antibiotic
+natamycin,antibiotic
+neomycin,antibiotic
+nitrofurantoin,Antibiotic
+oritavancin,antibiotic
+paromomycin,antibiotic
+polymyxin,Antibiotic
+polymyxin b,Antibiotic
+quinupristin,antibiotic
+retapamulin,antibiotic
+rifaximin,antibiotic
+streptomycin,antibiotic
+sulbactam,Antibiotic
+tazobactam,Antibiotic
+tedizolid,Antibiotic
+telavancin,antibiotic
+tobramycin,antibiotic
+trimethoprim,Antibiotic
+vancomycin,antibiotic
+chloramphenicol,Antibiotic
+mafenide,antibiotics
+atropine,anticholinergic
+glycopyrrolate,anticholinergic
+homatropine,anticholinergic
+ipratropium,"anticholinergic,  bronchodialator"
+ipratropium bromide,"anticholinergic,  bronchodialator"
+tiotropium,"anticholinergic,  bronchodialator"
+aclidinium,"anticholinergic,  bronchodialator"
+aclidinium bromide,"anticholinergic,  bronchodialator"
+tiotropium bromide,"anticholinergic,  bronchodialator"
+umeclidinium,"anticholinergic,  bronchodialator"
+darifenacin,"anticholinergic,  urinary antispasmodics"
+solifenacin,"anticholinergic,  urinary antispasmodics"
+brivaracetam,anticonvulsant
+carbamazepine,anticonvulsant
+eslicarbazepine,"anticonvulsant,"
+ethosuximide,anticonvulsant
+ethotoin,anticonvulsant
+felbamate,anticonvulsant
+fosphenytoin,anticonvulsant
+lacosamide,anticonvulsant
+lamotrigine,anticonvulsant
+levetiracetam,anticonvulsant
+mesuximide,anticonvulsant
+methsuximide,anticonvulsant
+oxcarbazepine,anticonvulsant
+perampanel,anticonvulsant
+phenytoin,anticonvulsant
+primidone,anticonvulsant
+rufinamide,anticonvulsant
+stiripentol,anticonvulsant
+topiramate,anticonvulsant
+trimethadione,anticonvulsant
+vigabatrin,anticonvulsant
+zonisamide,anticonvulsant
+maprotiline,antidepressent
+bismuth subsalicylate,"antacid, antidiarrheal"
+metoclopramide,antiemetic
+aprepitant,antiemetics
+dronabinol,antiemetics
+meclizine,antiemetics
+rolapitant,antiemetics
+scopolamine,antiemetics
+trimethobenzamide,antiemetics
+amphotericin b,antifungal
+amphotericin b liposomal,antifungal
+anidulafungin,antifungal
+butenafine,antifungal
+butoconazole,antifungal
+caspofungin,antifungal
+econazole,antifungal
+efinaconazole,antifungal
+griseofulvin,antifungal
+itraconazole,antifungal
+ketoconazole,antifungal
+luliconazole,antifungal
+micafungin,antifungal
+miconazole,antifungal
+naftifine,antifungal
+oxiconazole,antifungal
+posaconazole,antifungal
+sertaconazole,antifungal
+sulconazole,antifungal
+tavaborole,antifungal
+terconazole,antifungal
+tioconazole,antifungal
+pentamidine,"antifungal,  antiprotozoal"
+pentamidine isethionate,"antifungal,  antiprotozoal"
+fluconazole,antifungals
+terbinafine,antifungals
+voriconazole,antifungals
+praziquantel,antihelminthic
+hydroxyzine,antihisamine
+bepotastine,antihistamine
+dimenhydrinate,antihistamine
+metirosine,antihypertensive
+metyrosine,antihypertensive
+nitroprusside,antihypertensive
+acetylsalicylic acid,Antiinflammatory
+aminosalicylic acid,Antiinflammatory
+hydroxychloroquine,"antimalarial,  quinine"
+quinine,"antimalarial,  quinine"
+hydroxyurea,antimetabolite
+mercaptopurine,antimetabolite
+methotrexate,antimetabolite
+mycophenolate,"antimetabolite,  immunomodulator"
+mycophenolate mofetil,antimetabolite
+pemetrexed,antimetabolite
+teriflunomide,antimetabolite
+azathioprine,"antimetabolite,  chemotherapy"
+capecitabine,"antimetabolite,  chemotherapy"
+cladribine,"antimetabolite,  chemotherapy"
+eplerenone,antimineralocorticoid
+methscopolamine,antimuscarenic
+tropicamide,"antimuscarinic, mydriatic"
+benzatropine,antimuscarinic
+hyoscyamine,"antimuscarinic,"
+clidinium,"antimuscarinic,  anticholinergic"
+pyridostigmine,"cholinesterase_inhibitor, antimyasthenic agents"
+bacitracin,"antibiotic, antimycobacterial agent"
+bedaquiline,"antibiotic, antimycobacterial agent"
+capreomycin,"antibiotic, antimycobacterial agent"
+cycloserine,"antibiotic, antimycobacterial agent"
+ethambutol,"antibiotic, antimycobacterial agent"
+isoniazid,"antibiotic, antimycobacterial agent"
+"rifabuti, bacterial infectionsn","antibiotic, antimycobacterial agent"
+rifampicin,"antibiotic, antimycobacterial agent"
+rifampin,"antibiotic, antimycobacterial agent"
+rifapentine,"antibiotic, antimycobacterial agent"
+amantadine,antiparkinsonian
+benztropine,antiparkinsonian
+bromocriptine,antiparkinsonian
+entacapone,antiparkinsonian
+pramipexole,antiparkinsonian
+rasagiline,antiparkinsonian
+ropinirole,antiparkinsonian
+tolcapone,antiparkinsonian
+trihexyphenidyl,antiparkinsonian
+pyrimethamine,antiprotozoal
+nitazoxanide,"antiviral, antiprotozoal"
+droperidol,antipsychotic
+iloperidone,antipsychotic
+molindone,antipsychotic
+thiothixene,antipsychotic
+ziprasidone,antipsychotic
+chlorpromazine,antipsychotic 1st gen
+fluphenazine,antipsychotic 1st gen
+haloperidol,antipsychotic 1st gen
+loxapine,antipsychotic 1st gen
+perphenazine,antipsychotic 1st gen
+prochlorperazine,antipsychotic 1st gen
+trifluoperazine,antipsychotic 1st gen
+aripiprazole,antipsychotic 2nd gen
+aripiprazole lauroxil,antipsychotic 2nd gen
+asenapine,antipsychotic 2nd gen
+brexpiprazole,antipsychotic 2nd gen
+cariprazine,antipsychotic 2nd gen
+clozapine,antipsychotic 2nd gen
+lurasidone,antipsychotic 2nd gen
+olanzapine,antipsychotic 2nd gen
+pimavanserin,antipsychotic 2nd gen
+quetiapine,antipsychotic 2nd gen
+thioridazine,antipsychotic 2nd gen
+paliperidone,antipsychotic 2nd gen
+risperidone,antipsychotic 2nd gen
+povidone-iodine,antiseptics & disinfectants
+triclosan,antiseptics & disinfectants
+dicyclomine,antispasmodic
+dicycloverine,antispasmodic
+propantheline,antispasmodic
+aciclovir,antiviral
+acyclovir,antiviral
+adefovir,antiviral
+adefovir dipivoxil,antiviral
+atazanavir,antiviral
+cidofovir,antiviral
+cobicistat,antiviral
+daclatasvir,antiviral
+dasabuvir,antiviral
+delavirdine,antiviral
+efavirenz,antiviral
+elbasvir,antiviral
+elvitegravir,antiviral
+enfuvirtide,antiviral
+etravirine,antiviral
+fosamprenavir,antiviral
+foscarnet,antiviral
+ganciclovir,antiviral
+grazoprevir,antiviral
+indinavir,antiviral
+ledipasvir,antiviral
+lopinavir,antiviral
+maraviroc,antiviral
+nelfinavir,antiviral
+nevirapine,antiviral
+ombitasvir,antiviral
+paritaprevir,antiviral
+penciclovir,antiviral
+peramivir,antiviral
+raltegravir,antiviral
+ribavirin,antiviral
+rilpivirine,antiviral
+rimantadine,antiviral
+ritonavir,antiviral
+saquinavir,antiviral
+sofosbuvir,antiviral
+tenofovir alafenamide,antiviral
+tenofovir disoproxil,antiviral
+tipranavir,antiviral
+trifluridine,antiviral
+valaciclovir,antiviral
+valganciclovir,antiviral
+velpatasvir,antiviral
+zanamivir,antiviral
+famciclovir,antiviral
+oseltamivir,antiviral
+valacyclovir,antiviral
+eprosartan,angiotensin-receptor-blocker
+irbesartan,angiotensin-receptor-blocker
+losartan,angiotensin-receptor-blocker
+olmesartan,angiotensin-receptor-blocker
+olmesartan medoxomil,angiotensin-receptor-blocker
+telmisartan,angiotensin-receptor-blocker
+azilsartan,angiotensin-receptor-blocker
+azilsartan medoxomil,angiotensin-receptor-blocker
+candesartan,angiotensin-receptor-blocker
+valsartan,angiotensin-receptor-blocker
+anastrozole,aromatase inhibitor
+exemestane,aromatase inhibitor
+letrozole,aromatase inhibitor
+artemether,artemisinine
+aspirin,aspirin
+aspirin,aspirin
+avobenzone, Avobenzone
+azelaic acid, Azelaic acid
+azelastine, Azelastine
+butabangiotensin-receptor-blockerital,"Barbiturate,"
+butalbital,"Barbiturate,"
+pentobangiotensin-receptor-blockerital,"Barbiturate,"
+phenobangiotensin-receptor-blockerital,"Barbiturate,"
+secobangiotensin-receptor-blockerital,"Barbiturate,"
+venetoclax,bcl2 inhibitor
+becaplermin, orphan
+belinostat,"orphan,  chemotherapy"
+alprazolam,benzodiazepine
+chlordiazepoxide,benzodiazepine
+clobazam,benzodiazepine
+clonazepam,benzodiazepine
+clorazepate,benzodiazepine
+diazepam,benzodiazepine
+estazolam,benzodiazepine
+flurazepam,benzodiazepine
+lorazepam,benzodiazepine
+midazolam,benzodiazepine
+oxazepam,benzodiazepine
+quazepam,benzodiazepine
+temazepam,benzodiazepine
+zaleplon,benzodiazepine
+triazolam,benzodiazepine
+benzoyl peroxide, Benzoyl peroxide
+benzyl alcohol, orphan
+albuterol,beta agonist
+albuterol,beta agonist
+isoproterenol,beta agonist
+levalbuterol,beta agonist
+metaproterenol,beta agonist
+olodaterol,"laba, beta agonist"
+orciprenaline,beta agonist
+salmeterol,"laba, beta agonist"
+vilanterol,"laba, beta agonist"
+arformoterol,"laba, beta agonist"
+formoterol,"laba, beta agonist"
+indacaterol,"laba, beta agonist"
+acebutolol,beta blocker
+atenolol,beta blocker
+betaxolol,beta blocker
+bisoprolol,beta blocker
+carteolol,beta blocker
+carvedilol,beta blocker
+esmolol,beta blocker
+levobunolol,beta blocker
+metipranolol,beta blocker
+timolol,beta blocker
+labetalol,beta blocker
+metoprolol,beta blocker
+nadolol,beta blocker
+nebivolol,beta blocker
+pindolol,beta blocker
+propranolol,beta blocker
+sotalol,beta blocker
+salbutamol,beta blocker
+avibactam,"beta-lactamase-inhibitor,  antibiotic"
+metformin,biguanide
+ursodiol,"bile acid,"
+colesevelam,bile acid sequesterant
+colestipol,bile acid sequesterant
+cholic acid,bile salt
+alendronate,bisphosphonate
+etidronate,bisphosphonate
+ibandronate,bisphosphonate
+pamidronate,bisphosphonate
+zoledronic acid,bisphosphonate
+risedronate,bisphosphonate
+nesiritide,brain-naturetic-peptide
+boron,"boron,"
+icatibant,bradykinin inhibitor
+encorafenib,braf inhibitor
+vemurafenib,braf inhibitor
+brimodine,alpha-2 agonist
+buspirone,buspirone
+amlodipine,Ca-channel blocker
+clevidipine,Ca-channel blocker
+diltiazem,Ca-channel blocker
+felodipine,Ca-channel blocker
+isradipine,Ca-channel blocker
+nicardipine,Ca-channel blocker
+nifedipine,Ca-channel blocker
+nimodipine,Ca-channel blocker
+nisoldipine,Ca-channel blocker
+verapamil,Ca-channel blocker
+cinacalcet,calcimimetic
+cyclosporine,"calcineurine inhibitor,  immunosuppresent"
+calcitonin,calcitonin
+calcitonin (salmon synthetic),calcitonin
+salmon calcitonin,calcitonin
+nabilone,cannabinoid
+tetrahydrocannabinol,cannibanoid
+meprobamate,"gabaergic, carbamate,  anxiolyic"
+ertapenem,carbapenemAntibiotic
+imipenem,carbapenemAntibiotic
+meropenem,carbapenemAntibiotic
+acetazolamide,carbonic anhydrase inhibitor
+brinzolamide,carbonic anhydrase inhibitor
+dorzolamide,carbonic anhydrase inhibitor
+methazolamide,carbonic anhydrase inhibitor
+dichlorphenamide,"carbonic anhydrase inhibitor,  sulphonylurea"
+abemaciclib,cdk inhibitor
+palbociclib,cdk4 inhibitor
+guanfacine,central alpha 2 agonist
+cefaclor,cephalosporinAntibiotic
+cefadroxil,cephalosporinAntibiotic
+cefalexin,cephalosporinAntibiotic
+cefazolin,cephalosporinAntibiotic
+cefdinir,cephalosporinAntibiotic
+cefepime,cephalosporinAntibiotic
+cefixime,cephalosporinAntibiotic
+cefotaxime,cephalosporinAntibiotic
+cefotetan,cephalosporinAntibiotic
+cefoxitin,cephalosporinAntibiotic
+cefpodoxime,cephalosporinAntibiotic
+cefprozil,cephalosporinAntibiotic
+ceftaroline,cephalosporinAntibiotic
+ceftaroline fosamil,cephalosporinAntibiotic
+ceftazidime,cephalosporinAntibiotic
+ceftolozane,cephalosporinAntibiotic
+ceftriaxone,cephalosporinAntibiotic
+cefuroxime,cephalosporinAntibiotic
+cephalexin,cephalosporinAntibiotic
+erenumab,"CGRPR inhibitor,"
+fremanezumab,"CGRPR inhibitor,"
+galcanezumab,"CGRPR inhibitor,"
+dimercaprol,chelating agent
+succimer,chelating agent
+bleomycin,chemotherapy
+busulfan,chemotherapy
+chlorambucil,chemotherapy
+chlormethine,chemotherapy
+clofarabine,chemotherapy
+cytarabine,chemotherapy
+dacarbazine,chemotherapy
+dactinomycin,chemotherapy
+daunorubicin,chemotherapy
+decitabine,chemotherapy
+doxorubicin,chemotherapy
+epirubicin,chemotherapy
+eribulin,chemotherapy
+floxuridine,chemotherapy
+flucytosine,chemotherapy
+fludarabine,chemotherapy
+gemcitabine,chemotherapy
+idarubicin,chemotherapy
+ifosfamide,chemotherapy
+irinotecan,chemotherapy
+ixabepilone,chemotherapy
+mechlorethamine,chemotherapy
+melphalan,chemotherapy
+mitomycin,chemotherapy
+mitoxantrone,chemotherapy
+nelarabine,chemotherapy
+pegaspargase,chemotherapy
+pomalidomide,chemotherapy
+pralatrexate,chemotherapy
+romidepsin,chemotherapy
+streptozocin,chemotherapy
+temsirolimus,chemotherapy
+thioguanine,chemotherapy
+thiotepa,chemotherapy
+tiagabine,chemotherapy
+tipiracil,chemotherapy
+topotecan,chemotherapy
+trabectedin,chemotherapy
+valrubicin,chemotherapy
+vinblastine,chemotherapy
+vincristine,chemotherapy
+vinorelbine,chemotherapy
+vorinostat,chemotherapy
+ezetimibe,cholesterol absorbtion inhibitor
+carbachol,"cholinergic, glaucoma medicine"
+methacholine,"cholinergic,  bronchodialator"
+ambenonium,"cholinesterase inhibitor,"
+echothiophate,cholinesterase inhibitor
+donepezil,cholinesterase_inhibitor
+galantamine,cholinesterase_inhibitor
+memantine,cholinesterase_inhibitor
+neostigmine,cholinesterase_inhibitor
+rivastigmine,cholinesterase_inhibitor
+clonidine,"alpha-2 agonist, clonidine"
+colchicine,"orphan,  Antiinflamatory"
+alclometasone,corticosteroid
+beclometasone,corticosteroid
+beclomethasone,corticosteroid
+betamethasone,corticosteroid
+budesonide,corticosteroid
+ciclesonide,corticosteroid
+corticotropin,corticosteroid
+cortisone,corticosteroid
+deflazacort,corticosteroid
+desonide,corticosteroid
+desoximetasone,corticosteroid
+diflorasone,corticosteroid
+fludrocortisone,corticosteroid
+"fluti, bacterial infectionscasone",corticosteroid
+"fluti, bacterial infectionscasone furoate",corticosteroid
+fluticasone,corticosteroid
+fluticasone,corticosteroid
+hydrocortisone,corticosteroid
+hydrocortisone butyrate,corticosteroid
+loteprednol, corticosteroid
+loteprednol etabonate, corticosteroid
+mometasone,corticosteroid
+prednisolone,corticosteroid
+prednisone,corticosteroid
+amcinonide,corticosteroid
+clocortolone,corticosteroid
+difluprednate,corticosteroid
+fluocinolone,corticosteroid
+fluocinolone acetonide,corticosteroid
+fluocinonide,corticosteroid
+flurandrenolide,corticosteroid
+halcinonide,corticosteroid
+halobetasol,corticosteroid
+prednicarbate,corticosteroid
+dexamethasone,corticosteroids
+methylprednisolone,corticosteroids
+benzonatate,cough/cold/allergy
+dextromethorphan,cough/cold/allergy
+guaifenesin,cough/cold/allergy
+sodium chloride,cough/cold/allergy
+celecoxib,cox2 inhibitor
+ribociclib,"cyclin inhibitor,  chemotherapy"
+fenoldopam,d1 receptor agonist
+dapsone,dapsone
+desmopressin,ddavp
+ammonium lactate,dermatological
+aquaphor,dermatological
+aquaphor ex oint,dermatological
+atrac-tain,dermatological
+bismuth,dermatological
+calamine,dermatological
+calcipotriene,dermatological
+capsaicin,dermatological
+clobetasol,dermatological
+collagenase,dermatological
+fluorouracil,"dermatological, chemotherapy"
+imiquimod,dermatological
+menthol,dermatological
+mupirocin,dermatological
+pimecrolimus,dermatological
+salicylic acid,dermatological
+selenium,dermatological
+talc,dermatological
+triamcinolone,dermatological
+selenium sulfide,dermatological
+pramoxine,topical anasthetic
+silver sulfadiazine,topical antibiotic
+ciclopirox, antifungal
+deutetrabenazine,orphan
+icodextrin,dextrin
+digoxin,digoxin
+disulfiram,disulfiram
+ethacrynate,diuretic
+amiloride, K-sparring diuretic
+abatacept,dmard
+apremilast,dmard
+leflunomide,dmard
+dornase alfa,dnase
+cabergoline,dopamin agonist
+dopamine,dopamine
+levodopa, dopamine
+methyldopa,dopamine
+methyldopa (levorotatory),dopamine
+methyldopate,dopamine
+alogliptin,dpp-4 inhibtor
+linagliptin,dpp4 inhibitor
+saxagliptin,dpp4 inhibitor
+sitagliptin,dpp4 inhibitor
+docosanol,emolient
+ambrisentan,endothelin receptor antagonist
+bosentan,endothelin receptor antagonist
+macitentan,endothelin receptor antagonist
+asfotase alfa,"enzyme replacement, orphan, hypophosphatasia"
+asparaginase,"enzyme, chemotherapy"
+cerliponase,"enzyme replacement, orphan, batten disease"
+elosulfase alfa,"enzyme replacement, orphan, mucopolysaccharidosis-4"
+galsulfase,"enzyme replacement, orphan, mucopolysaccharidosis-6"
+idursulfase,"enzyme replacement, orphan, mucopolysaccharidosis-2"
+imiglucerase,"enzyme replacement, gauchers disease"
+laronidase,"enzyme replacement, orphan, mucopolysaccharidosis-1"
+rasburicase,"enzyme, orphan, urate metabolism"
+sacrosidase,"enzyme replacement, orphan"
+taliglucerase alfa,"enzyme replacement,  gauchers disease"
+pegademase bovine,"enzyme replacement, adenosine deaminase"
+pegloticase,orphan
+epinephrine,epinephrine
+dihydroergotamine,ergot
+ergotamine,ergot
+dangiotensin-receptor-blockerepoetin alfa, erythropoietin
+epoetin alfa,erythropoietin
+conjugated estrogens,estrogen
+estradiol,estrogen
+estrogen, estrogen
+estrogens,estrogen
+estrogens, estrogen
+estropipate,estrogen
+ethelyne estradiol,estrogen
+ethinyl estradiol,estrogen
+fenofibrate,fibrate
+gemfibrozil,fibrate
+fingolimod,"fingolimod hcl, orphan"
+levofloxacin,"fluoroquinolone,  antibiotic"
+besifloxacin,"fluoroquinolone,  antibiotic"
+gatifloxacin,"fluoroquinolone,  antibiotic"
+gemifloxacin,"fluoroquinolone,  antibiotic"
+ofloxacin,"fluoroquinolone,  antibiotic"
+ciprofloxacin,"fluoroquinolone,  antibiotic"
+moxifloxacin,"fluoroquinolone,  antibiotic"
+folic acid,"vitamine, folic acid"
+leucovorin,folinic acid
+urofollitropin,follicile-stimulating-hormone
+fosaprepitant,"orphan,  antiemetic"
+belatacept,fusion-protein
+anakinra,"DMARD, fusion-protein"
+aflibercept,"vegf inhibitor, fusion-protein"
+rilonacept,"fusion-protein, anti-inflamatory"
+filgrastim,G-CSF
+pegfilgrastim,G-CSF
+plerixafor,G-CSF
+flumazenil,gaba antagonist
+gabapentin,gabaergic
+pregabalin,gabaergic
+glatiramer acetate,orphan
+albiglutide,glp-1 agonist
+dulaglutide,glp-1 agonist
+exenatide,glp-1 agonist
+semaglutide,"glp-1 agonist,"
+teduglutide,glp-2 agonist
+liraglutide,glp-1 agonist
+lixisenatide,glp-1 agonist
+glucagon,glucagon
+sargramostim,GM-CSF
+nafarelin,gnrh agonist
+tesamorelin,gnrh agonist
+triptorelin,gnrh agonist
+goserelin,gnrh analog
+histrelin,gnrh analog
+leuprolide,gnrh analog
+leuprorelin,gnrh analog
+cetrorelix,gnrh antagonist
+degarelix,gnrh antagonist
+ganirelix,gnrh antagonist
+auranofin,gold salt
+somatropin,growth hormone
+linaclotide,guanyl cyclase agonist
+clemastine,"h-1 blocker,  anticholinergic"
+acrivastine,h-1 blocker
+brompheniramine,h-1 blocker
+cetirizine,h-1 blocker
+chlorphenamine,h-1 blocker
+dexchlorpheniramine,h-1 blocker
+diphenhydramine,h-1 blocker
+doxylamine,h-1 blocker
+epinastine,h-1 blocker
+levocetirizine,h-1 blocker
+loratadine,h-1 blocker
+pheniramine,h-1 blocker
+promethazine,h-1 blocker
+carbinoxamine,"h-1 blocker,  anticholinergic"
+chlorpheniramine,h-1 blocker
+cyproheptadine,h-1 blocker
+desloratadine,h-1 blocker
+fexofenadine,h-1 blocker
+alcaftadine,h-1 blocker
+emedastine,h-1 blocker
+cimetidine,h2 blocker
+famotidine,h2 blocker
+nizatidine,h2 blocker
+ranitidine,h2 blocker
+panobinostat,"hdac inhibitor,  chemotherapy"
+tranexamic acid,hemostatic
+dalteparin,heparin
+enoxaparin,heparin
+heparin,"anticoagulat, heparin"
+didanosine, hiv-antiviral
+emtricitabine, hiv-antiviral
+lamivudine, hiv-antiviral
+stavudine, hiv-antiviral
+tenofovir, hiv-antiviral
+zidovudine, hiv-antiviral
+abacavir, hiv-antiviral
+darunavir, hiv-antiviral
+dolutegravir, hiv-antiviral
+entecavir, hiv-antiviral
+melatonin,hypnotic
+eszopiclone,hypnotics
+ramelteon,hypnotics
+suvorexant,hypnotics
+zolpidem,hypnotics
+immune globulin, immunoglobulin
+immunoglobulin, immunoglobulin
+ciclosporin,immunosuppresent
+mycophenolic acid,immunosuppressent
+flunisolide,inhaled steroid
+insulin,insulin
+glargine,insulin
+insulin,insulin
+insulin (human),insulin
+insulin aspart,insulin
+insulin degludec,insulin
+insulin detemir,insulin
+insulin glargine,insulin
+insulin lispro,insulin
+"insulin, aspart, human",insulin
+"insulin, isophane",insulin
+"regular insulin, human",insulin
+interferon alfa-2a,Inteferon
+interferon alfa-2b,Inteferon
+interferon alfa-n3,Inteferon
+interferon beta,"inteferon, immunomodulator"
+interferon beta-1a,"inteferon, immunomodulator"
+interferon beta-1b,"inteferon, immunomodulator"
+interferon gamma-1b,"inteferon, immunomodulator"
+peginterferon alfa-2a,"inteferon, immunomodulator"
+peginterferon alfa-2b,"inteferon, immunomodulator"
+bictegravir,"integrase inhibitor, Antiviral"
+aldesleukin,interlukin
+ferric citrate,iron
+ferumoxytol,iron
+iron,iron
+iron sucrose,iron
+sodium ferric gluconate complex,Iron
+deferasirox,iron chelator
+deferiprone,iron chelator
+deferoxamine,iron chelator
+iron,Iron
+upadacitinib,janus kinase inhibitor
+triamterene,k-sparing-diuretic
+ecallantide,kallikrein inhibitor
+midostaurin,kinase inhibitor
+lactulose,lactulose
+revefenacin, antimuscarinic
+bisacodyl,laxatives
+senna,laxatives
+magnesium citrate,laxatives
+magnesium hydroxide,laxatives
+magnesium hydroxide,laxatives
+polyethylene glycol,laxatives
+polyethylene glycol 3350,laxatives
+sorbitol,laxatives
+metreleptin,leptin analog
+zafirlukast,leucotriene antagonist
+montelukast,leucotrine antagonist
+orlistat,lipase inhibitor
+lithium,lithium
+lithium carbonate,lithium
+lithium citrate,lithium
+articaine,local anesthetic
+bupivacaine,local anesthetic
+capsaicin arthritis relief ex, local anesthetic
+chloroprocaine,local anesthetic
+cocaine,local anesthetic
+dibucaine,local anesthetic
+ethyl chloride,local anesthetic
+lidocaine,local anesthetic
+menthol,local anesthetic
+mepivacaine,local anesthetic
+pentafluoropropane,local anesthetic
+prilocaine,local anesthetic
+proparacaine,local anesthetic
+ropivacaine,local anesthetic
+tetracaine,local anesthetic
+bumetanide,loop-diuretic
+furosemide,loop-diuretic
+torasemide,loop-diuretic
+torsemide,loop-diuretic
+velaglucerase alfa,lysosomal enzyme
+agalsidase beta,"enzyme replacement, fabry disease"
+alglucosidase alfa,"enzyme replacement, fabry disease"
+azithromycin,"antibiotic, macrolide"
+clarithromycin,"antibiotic, macrolide"
+clindamycin,"antibiotic, macrolide"
+erythromycin,"antibiotic, macrolide"
+fidaxomicin,"antibiotic, macrolide"
+magnesium,minerals & electrolyteslaxatives
+tranylcypromine,mao inhibitor
+phenelzine,mao inhibitor
+cromoglicic acid,mast cell stabilizer
+cromolyn,mast cell stabilizer
+nedocromil,mast cell stabilizer
+nateglinide,meglitinides
+repaglinide,meglitinides
+binimetinib,"MEK inhibitor, chemotherapy"
+methimazole,methimazole
+thiamazole,methimazole
+aminophylline,methylxanthine
+caffeine,methylxanthine
+theophylline,methylxanthine
+cabazitaxel,microtubule stabilizer
+paclitaxel,microtubule stabilizer
+dichloralphenazone," ,migraine medication"
+spironolactone,mineralocorticoid blocker
+calcium carbonate,minerals & electrolytes
+calcium gluconate,minerals & electrolytes
+magnesium chloride,minerals & electrolytes
+magnesium oxide,minerals & electrolytes
+magnesium sulfate,minerals & electrolyteslaxatives
+magnesium sulphate,minerals & electrolyteslaxatives
+phosphorus,"minerals & electrolytes,"
+potassium,"minerals & electrolytes,"
+potassium chloride,minerals & electrolytes
+potassium citrate,minerals & electrolytes
+zinc,"minerals & electrolytes,"
+zinc,"minerals & electrolytes,"
+zinc chloride,"minerals & electrolytes, Orphan"
+zinc oxide,minerals & electrolytes
+simethicone,misc. gi
+aztreonam,"antibiotic, monobactam"
+abciximab,monoclonal ab
+ado-trastuzumab emtansine,monoclonal ab
+alemtuzumab,monoclonal ab
+atezolizumab,monoclonal ab
+avelumab,monoclonal ab
+basiliximab,monoclonal ab
+belimumab,monoclonal ab
+bevacizumab,monoclonal ab
+bezlotoxumab,monoclonal ab
+blinatumomab,monoclonal ab
+brentuximab vedotin,monoclonal ab
+brodalumab,monoclonal ab
+canakinumab,monoclonal ab
+cetuximab,monoclonal ab
+daclizumab,monoclonal ab
+daratumumab,monoclonal ab
+dinutuximab,monoclonal ab
+durvalumab,monoclonal ab
+eculizumab,monoclonal ab
+elotuzumab,monoclonal ab
+gemtuzumab ozogamicin,monoclonal ab
+ibritumomab tiuxetan,monoclonal ab
+ipilimumab,monoclonal ab
+mepolizumab,monoclonal ab
+natalizumab,monoclonal ab
+necitumumab,monoclonal ab
+obinutuzumab,monoclonal ab
+ocrelizumab,monoclonal ab
+ofatumumab,monoclonal ab
+olaratumab,monoclonal ab
+palivizumab,monoclonal ab
+panitumumab,monoclonal ab
+pertuzumab,monoclonal ab
+ramucirumab,monoclonal ab
+ranibizumab,monoclonal ab
+reslizumab,monoclonal ab
+siltuximab,monoclonal ab
+trastuzumab,monoclonal ab
+vedolizumab,monoclonal ab
+omalizumab,"monoclonal ab,  anti ige"
+rituximab,"cd20 inhibitor, monoclonal ab"
+dupilumab,"monoclonal ab,  dermatological"
+guselkumab,"monoclonal ab,  dermatological"
+ixekizumab,"monoclonal ab,  dermatological"
+secukinumab,"monoclonal ab,  dermatological"
+sarilumab,"il-6r inhibitor, monoclonal ab"
+tocilizumab,"il-6r inhibitor, monoclonal ab"
+alirocumab,"monoclonal ab,  pcsk9 inhibitor"
+evolocumab,"monoclonal ab,  pcsk9 inhibitor"
+nivolumab,"monoclonal ab,  pd-1 inhibitor"
+pembrolizumab,"monoclonal ab,  pd-1 inhibitor"
+denosumab,"monoclonal ab,  rankl inhibitor"
+adalimumab,"monoclonal ab,  tnf inhibitor"
+golimumab,"monoclonal ab,  tnf inhibitor"
+certolizumab,"monoclonal ab,"
+infliximab,"tnfa inhibitor, monoclonal ab"
+cevimeline,mouth/throat/dental agents
+chlorhexidine,mouth/throat/dental agents
+clotrimazole,mouth/throat/dental agents
+sodium fluoride,mouth/throat/dental agents
+everolimus,mtor inhibitor
+sirolimus,mtor inhibitor
+tacrolimus,mtor inhibitor
+tapentadol,mu-opioid-agonist
+levocarnitine,multivitamin
+biotin,multivitamins
+levomefolate,multivitamins
+cyclopentolate,"muscarine antagonist,"
+baclofen,muscle relaxant
+carisoprodol,muscle relaxant
+cyclobenzaprine,muscle relaxant
+dantrolene,muscle relaxant
+metaxalone,muscle relaxant
+methocarbamol,muscle relaxant
+orphenadrine,muscle relaxant
+tizanidine,muscle relaxant
+oxymetazoline,nasal agents -topical
+mirtazapine,nassa
+bupropion,ndri
+sacubitril,"neprilysin inhibitor,"
+netupitant,"orphan, antiemetic"
+nicotine,nicotine
+glyceryl trinitrate,nitro
+isosorbide,"nitroglycerin, nitro"
+isosorbide dinitrate,"nitroglycerin, nitro"
+isosorbide mononitrate,"nitroglycerin, nitro"
+nitroglycerin,"nitroglycerin, nitro"
+albendazole,nitroimidazole
+mebendazole,nitroimidazole
+metronidazole,nitroimidazole
+tinidazole,nitroimidazole
+apixaban,noac
+argatroban,noac
+edoxaban,noac
+fondaparinux,noac
+rivaroxaban,noac
+apalutamide,"nonsteroidal antiandrogen,"
+nonoxynol-9,Nonoxynol-9
+abiraterone,"nonsteroidal antiandrogen, Nonsteroidal antiandrogen"
+bicalutamide,"nonsteroidal antiandrogen, Nonsteroidal antiandrogen"
+enzalutamide,"nonsteroidal antiandrogen, Nonsteroidal antiandrogen"
+flutamide,"nonsteroidal antiandrogen, Nonsteroidal antiandrogen"
+nilutamide,"nonsteroidal antiandrogen, Nonsteroidal antiandrogen"
+crisaborole,nsaid
+diclofenac,nsaid
+diflunisal,nsaid
+etodolac,nsaid
+fenoprofen,nsaid
+flurbiprofen,nsaid
+ibuprofen,nsaid
+indometacin,nsaid
+indomethacin,nsaid
+ketoprofen,nsaid
+meclofenamate,nsaid
+mefenamic acid,nsaid
+meloxicam,nsaid
+mesalazine,nsaid
+nabumetone,nsaid
+naproxen,nsaid
+nepafenac,nsaid
+oxaprozin,nsaid
+piroxicam,nsaid
+sulindac,nsaid
+tolmetin,nsaid
+azacitidine,"nucleoside,  chemotherapy"
+glucosamine,nutrient
+glucosamine chondroitin,nutrient
+l-lysine,"aminoacid,"
+l-methylfolate,nutrient
+lysine,"aminoacid,"
+multivitamine,nutrient
+omega fatty acids,nutrient
+omega-3 fatty acid,nutrient
+resveratrol,nutrient
+taurine,nutrient
+acetylcysteine,nutrient
+choline,nutrient
+chondrotin,nutrient
+co enzyme q-10,nutrient
+docosahexaenoic acid,nutrient
+alpha-lipoic acid,nutrient
+amino acids,"nutritional supplement,"
+ulipristal,ocp
+octreotide,octreotide
+brimonidine,ophthalmic
+bromfenac,ophthalmic
+fluorometholone,ophthalmic
+ketorolac,ophthalmic
+ketotifen,ophthalmic
+lifitegrast,ophthalmic
+pegaptanib,ophthalmic
+pilocarpine,ophthalmic
+tetrahydrozoline,"ophthalmic,  alpha-2 agonist"
+olopatadine,"ophthalmic, h-1 blocker"
+alfentanil,opioid
+apomorphine,opioid
+buprenorphine,opioid
+butorphanol,opioid
+codeine,opioid
+dihydrocodeine,opioid
+fentanyl,opioid
+hydrocodone,opioid
+hydromorphone,opioid
+levorphanol,opioid
+meperidine,opioid
+methadone,opioid
+morphine,opioid
+nalbuphine,opioid
+oxycodone,opioid
+oxymorphone,opioid
+pentazocine,opioid
+pethidine,opioid
+remifentanil,opioid
+sufentanil,opioid
+tramadol,opioid-agonist
+loperamide,opioid-agonist-antidiarrheal
+eluxadoline,opioid-agonist-antidiarrheal
+methylnaltrexone,opioid-antagonist-laxative
+methylnaltrexone bromide,opioid-antagonist-laxative
+naloxegol,opioid-antagonist-laxative
+naloxone,opioid-antidote
+naltrexone,opioid-antidote
+difenoxin,opioid-agonist-antidiarrheal
+diphenoxylate,opioid-agonist-antidiarrheal
+4-aminopyridine,orphan
+acetic acid,orphan
+acetic acid,orphan
+acetylcholine,orphan
+adenosine,orphan
+alpha1-proteinase inhibitor,orphan
+aluminum chloride,orphan
+aluminum sulphate,orphan
+amfepramone,orphan
+amifostine,orphan
+aminolevulinic acid,orphan
+ammonia,orphan
+ammonium chloride,orphan
+anagrelide,orphan
+arsenic,orphan
+arsenic trioxide,orphan
+barium sulfate,orphan
+betaine,orphan
+bismuth subcitrate,orphan
+bretylium,orphan
+calcium chloride,orphan
+calfactant,orphan
+carglumic acid,orphan
+chlorzoxazone,orphan
+chorionic gonadotropin,orphan
+copper,orphan
+crofelemer,orphan
+crotamiton,orphan
+cupric chloride,orphan
+cysteamine,orphan
+dexrazoxane,orphan
+diatrizoate,orphan
+dimethyl fumarate,orphan
+dimethyl sulfoxide,orphan
+doxapram,orphan
+dyclonine,orphan
+edaravone,orphan
+edetate calcium,orphan
+eflornithine,orphan
+elexacaftor,orphan
+eliglustat,orphan
+eltrombopag,orphan
+"ergoloid mesylates, usp",orphan
+erythropoietin,orphan
+eteplirsen,orphan
+ethanol,orphan
+ethanolamine oleate,orphan
+etomidate,orphan
+flavoxate,orphan
+fluorescein,orphan
+follitropin alfa,orphan
+follitropin beta,orphan
+fulvestrant,orphan
+glatiramer,orphan
+guanidine,orphan
+helium,orphan
+hexachlorophene,orphan
+indocyanine green,orphan
+ingenol mebutate,orphan
+iodine,orphan
+iodixanol,orphan
+iothalamate,orphan
+isocarboxazid,orphan
+ivabradine,orphan
+ivacaftor,orphan
+ketamine,orphan
+lindane,orphan
+lomitapide,orphan
+lumacaftor,orphan
+lumefantrine,orphan
+malathion,orphan
+manganese,orphan
+manganese chloride,orphan
+mannitol,orphan
+mecamylamine,orphan
+medium chain triglycerides,orphan
+mesna,orphan
+methenamine,orphan
+methoxsalen,orphan
+methyl salicylate,orphan
+methylene blue,orphan
+metyrapone,orphan
+miglustat,orphan
+miltefosine,orphan
+n-acetylcystine,orphan
+netarsudil,orphan
+nitisinone,orphan
+nitric oxide,orphan
+nusinersen,orphan
+obeticholic acid,orphan
+ocriplasmin,orphan
+onabotulinumtoxina,orphan
+oxygen,orphan
+oxytocin,orphan
+palifermin,orphan
+pasireotide,orphan
+pegvisomant,orphan
+penicillamine,orphan
+pentetate,orphan
+pentosan polysulfate,orphan
+perflutren,orphan
+permethrin,orphan
+plecanatide,orphan
+podophyllotoxin,orphan
+potassium acetate,orphan
+potassium iodide,orphan
+potassium phosphate,orphan
+pralidoxime,orphan
+proguanil,orphan
+prolastin-c,orphan
+protamine,orphan
+pyrazinamide,orphan
+riociguat,orphan
+rotigotine,orphan
+secretin,orphan
+selinexor,orphan
+sincalide,orphan
+siponimod fumarate,orphan
+sodium acetate,orphan
+sodium ascorbate,orphan
+sodium citrate,orphan
+sodium iodide,orphan
+sodium oxybate,orphan
+sodium phenylbutyrate,orphan
+sodium phosphate,orphan
+sodium thiosulfate,orphan
+soybean oil,orphan
+spinosad,orphan
+sulfur,orphan
+sulfur hexafluoride,orphan
+tafamidis meglumine,orphan
+tasimelteon,orphan
+telotristat,orphan
+terbutaline,orphan
+testosterone,orphan
+tezacaftor,orphan
+thalidomide,orphan
+thrombopoietin,orphan
+tiopronin,orphan
+trientine,orphan
+urea,orphan
+uridine,orphan
+uridine triacetate,"orphan, Uridine"
+ustekinumab,"orphan, monoclonal ab,  dermatological"
+vandetanib,orphan
+varenicline,orphan
+verteporfin,orphan
+vorapaxar,orphan
+zileuton,orphan
+zinc acetate,orphan
+methylergometrine,oxytocic
+methylergonovine,oxytocic
+cangrelor,"p2y12 inhibitor,  antiplatelet"
+clopidogrel,"p2y12 inhibitor,  antiplatelet"
+prasugrel,"p2y12 inhibitor,  antiplatelet"
+ticagrelor,"p2y12 inhibitor,  antiplatelet"
+ticlopidine,"p2y12 inhibitor,  antiplatelet"
+olaparib,PAARP inhibitor
+pancrease,"pancrease,"
+pancrelipase,pancrease
+parathyroid hormone,"parathyroid hormone, pth"
+selegiline,"parkinsons,  depression"
+niraparib,PARP inhibitor
+rucaparib,PARP inhibitor
+inamrinone,PDE3 inhibitor
+dipyridamole,"vasodialator, PDE3 inhibitor"
+roflumilast,PDE4 inhibitor
+avanafil,PDE5 inhibitor
+sildenafil,PDE5 inhibitor
+tadalafil,PDE5 inhibitor
+vardenafil,PDE5 inhibitor
+amoxicillin,beta-lactamAntibiotic
+ampicillin,beta-lactamAntibiotic
+benzylpenicillin,beta-lactamAntibiotic
+dicloxacillin,beta-lactamAntibiotic
+nafcillin,beta-lactamAntibiotic
+oxacillin,beta-lactamAntibiotic
+penicillin,beta-lactamAntibiotic
+penicillin g,beta-lactamAntibiotic
+penicillin v,beta-lactamAntibiotic
+phenoxymethylpenicillin,beta-lactamAntibiotic
+piperacillin,beta-lactamAntibiotic
+pentetate calcium,Pentetate
+pentosan polysulfate sodium,pentosan polysulfate sodium
+calcium acetate,phosphate binder
+lanthanum carbonate,phosphate binder
+sevelamer,phosphate binder
+sucroferric oxyhydroxide,phosphate binder
+milrinone,phosphodiesterase 3 inhibitor
+pentoxifylline,phosphodiesterase inhibitor
+alpelisib,pi3 kinase inhibitor
+idelalisib,pi3 kinase inhibitor
+pimozide,pimozide
+pirfenidone,pirfenidone
+cilostazol,platelet inhibitor
+cisplatin,"platinum-chemo,  chemotherapy"
+oxaliplatin,"platinum-chemo,  chemotherapy"
+carboplatin,"platinum-chemo,  chemotherapy"
+podofilox,"local treatment, Podophyllotoxin"
+nystatin,"local treatment, polyene"
+patiromer sorbitex calcium,"potassium binder,"
+sodium polystyrene sulfonate,"potassium binder,"
+sodium zirconium cyclosilicate,"potassium binder,"
+mifepristone,Progesterone blocker
+desogestrel,progestin
+dienogest,progestin
+drospirenone,progestin
+ethynodiol,"progestin,"
+etonogestrel,progestin
+hydroxyprogesterone caproate,"progestin,"
+levonorgestrel,progestin
+medroxyprogesterone,progestin
+medroxyprogesterone,progestin
+megestrol,progestin
+mestranol,progestin
+norelgestromin,progestin
+norethisterone,progestin
+norgestimate,progestin
+norgestrel,progestin
+norethindrone,progestin
+prasterone,progestin
+progesterone,progestin
+propylthiouracil,propylthiouracil
+selexipag,prostacyclin
+alprostadil,prostaglandin
+bimatoprost,prostaglandin
+carboprost,prostaglandin
+dinoprostone,prostaglandin
+epoprostenol,prostaglandin
+iloprost,prostaglandin
+latanoprost,prostaglandin
+latanoprostene,prostaglandin
+lubiprostone,prostaglandin
+misoprostol,prostaglandin
+tafluprost,prostaglandin
+travoprost,prostaglandin
+treprostinil,prostaglandin
+protamine sulfate (usp),Protamine
+protamines,Protamine
+carfilzomib,"proteosomal inhibitor,  chemotherapy"
+bortezomib,"proteosomal inhibitor,  chemotherapy"
+ixazomib,"proteosomal inhibitor,  chemotherapy"
+dexlansoprazole, proton pump inhibitor
+esomeprazole, proton pump inhibitor
+lansoprazole, proton pump inhibitor
+omeprazole, proton pump inhibitor
+pantoprazole, proton pump inhibitor
+prevacid, proton pump inhibitor
+rabeprazole, proton pump inhibitor
+rabeprazole, proton pump inhibitor
+acamprosate,orphan
+abaloparatide,PTH analog
+pyridoxine (vit b6),Pyridoxine
+chloroquine,quinine
+mefloquine,quinine
+primaquine,quinine
+quinidine,quinine
+aliskiren,renin inhibitor
+acitretin,retinoid
+alitretinoin,retinoid
+bexarotene,retinoid
+isotretinoin,retinoid
+tazarotene,retinoid
+tretinoin,retinoid
+adapalene,retinoid
+riluzole,riluzole
+nefazodone,"sari, antidepressant"
+trazodone,"sari, antidepressant"
+dexmedetomidine,"anxiolytic, sedative"
+bazedoxifene,serm
+clomifene,serm
+clomiphene,serm
+ospemifene,serm
+raloxifene,serm
+tamoxifen,serm
+toremifene,serm
+vortioxetine,serotonin modulator
+dapagliflozin,sglt-2 inhibitor
+canagliflozin,"sglt-2 inhibitor, sglt-2i"
+empagliflozin,"sglt-2 inhibitor, sglt-2i"
+vismodegib,smo antagonist
+desvenlafaxine,"snri, antidepressant"
+doxepin,"snri, antidepressant"
+milnacipran,"snri, antidepressant"
+venlafaxine,"snri, antidepressant"
+levomilnacipran,"snri, antidepressant"
+"sodium phosphate, dibasic",Sodium phosphate
+"sodium phosphate, monobasic",Sodium phosphate
+lanreotide,somatostatin analog
+citalopram,"ssri, antidepressant"
+duloxetine,"ssri, antidepressant"
+escitalopram,"ssri, antidepressant"
+fluoxetine,"ssri, antidepressant"
+fluvoxamine,"ssri, antidepressant"
+paroxetine,"ssri, antidepressant"
+sertraline,"ssri, antidepressant"
+vilazodone,"ssri, antidepressant"
+atorvastatin,statin
+cilastatin,statin
+fluvastatin,statin
+lovastatin,statin
+pentostatin,statin
+pitavastatin,statin
+pravastatin,statin
+rosuvastatin,statin
+simvastatin,statin
+mitotane,steroidegenesis inhibitor
+armodafinil,stimulant
+atomoxetine,stimulant
+dexmethylphenidate,stimulant
+methylphenidate,stimulant
+modafinil,stimulant
+phentermine,stimulant
+colace,", stool softner"
+docusate,", stool softner"
+docusate,", stool softner"
+sucralfate,"orphan, sucralfate"
+sulfacetamide,SulphaAntibiotic
+sulfadiazine,SulphaAntibiotic
+sulfamethoxazole,SulphaAntibiotic
+sulfamethoxazole and trimethoprim,SulphaAntibiotic
+sulfanilamide,SulphaAntibiotic
+chlorpropamide,sulphonylurea
+glibenclamide,sulphonylurea
+glimepiride,sulphonylurea
+glipizide,sulphonylurea
+glyburide,sulphonylurea
+tolazamide,sulphonylurea
+tolbutamide,sulphonylurea
+sapropterin,supplement
+beractant,surfactant
+sodium tetradecyl sulfate,surfactant
+poractant alfa,surfactent
+levonordefrin,sympathomimetic
+naphazoline,sympathomimetic
+teriparatide,synthetic_pth
+docetaxel,"taxol,  chemotherapy"
+methyltestosterone,Testosterone
+tetrabenazine,tetrabenazine
+tetracycline,"tetracycline,  antibiotic"
+doxycycline,"tetracycline,  antibiotic"
+minocycline,"tetracycline,  antibiotic"
+tigecycline,"tetracycline,  antibiotic"
+demeclocycline,"tetracycline,  antibiotic"
+lenalidomide,thaledomide analog
+thiamine (vit b1),Thiamine
+chlorothiazide,thiazide
+chlortalidone,thiazide
+chlorthalidone,thiazide
+hydrochlorothiazide,thiazide
+indapamide,thiazide
+methyclothiazide,thiazide
+metolazone,thiazide
+bendroflumethiazide,thiazide
+pioglitazone,thiozolidinedione
+rosiglitazone,thiozolidinedione
+bivalirudin,thrombin inhibitor
+dabigatran, thrombin inhibitor
+dabigatran etexilate,thrombin inhibitor
+alteplase,thrombolytic
+reteplase,thrombolytic
+tenecteplase,Thrombolytic
+romiplostim,thrombopoietin
+levothyroxine,thyroxin
+levothyroxine sodium,thyroxin
+thyrotropin alfa,thyroxin
+liothyronine,thyroxin
+liothyronine sodium,thyroxin
+etanercept,tnf inhibitor
+benzocaine, anesthetic 
+tolnaftate, antifungal
+etoposide,topoisomerase 2 inhibitor
+clomipramine,tricyclic antidepressent
+protriptyline,tricyclic antidepressent
+trimipramine,tricyclic antidepressent
+desipramine,tricyclic antidepressent
+amitriptyline,tricyclic_antidepressant
+amoxapine,tricyclic_antidepressant
+imipramine,tricyclic_antidepressant
+nortriptyline,tricyclic_antidepressant
+almotriptan,triptan
+eletriptan,triptan
+frovatriptan,triptan
+naratriptan,triptan
+rizatriptan,triptan
+sumatriptan,triptan
+zolmitriptan,triptan
+paracetamol,tylenol
+afatinib,tyrosine kinase inhibitor
+alectinib,tyrosine kinase inhibitor
+axitinib,tyrosine kinase inhibitor
+"bosuti, bacterial infectionsnib",tyrosine kinase inhibitor
+brigatinib,tyrosine kinase inhibitor
+cabozantinib,tyrosine kinase inhibitor
+ceritinib,tyrosine kinase inhibitor
+cobimetinib,tyrosine kinase inhibitor
+crizotinib,tyrosine kinase inhibitor
+dabrafenib,tyrosine kinase inhibitor
+dasatinib,tyrosine kinase inhibitor
+erlotinib,tyrosine kinase inhibitor
+gefitinib,tyrosine kinase inhibitor
+imatinib,tyrosine kinase inhibitor
+lapatinib,tyrosine kinase inhibitor
+lenvatinib,tyrosine kinase inhibitor
+neratinib,tyrosine kinase inhibitor
+nilotinib,tyrosine kinase inhibitor
+nintedanib,tyrosine kinase inhibitor
+pazopanib,tyrosine kinase inhibitor
+ponatinib,tyrosine kinase inhibitor
+regorafenib,tyrosine kinase inhibitor
+ruxolitinib,tyrosine kinase inhibitor
+sonidegib,tyrosine kinase inhibitor
+sorafenib,tyrosine kinase inhibitor
+sunitinib,tyrosine kinase inhibitor
+trametinib,tyrosine kinase inhibitor
+ibrutinib,"tyrosine kinase inhibitor,  btk inhibitor"
+osimertinib,"tyrosine kinase inhibitor,  egfr inhibitor"
+tofacitinib,"tyrosine kinase inhibitor,  jak inhibitor"
+acetohydroxamic acid,urease inhibitor
+lesinurad,uricosuric
+probenecid,uricosuric
+bethanechol,urinary antispasmodics
+fesoterodine,urinary antispasmodics
+mirabegron,urinary antispasmodics
+oxybutynin,urinary antispasmodics
+phenazopyridine,"urinary antispasmodics,"
+pyridium,"urinary antispasmodics,"
+tolterodine,urinary antispasmodics
+fesoterodine,urinary antispasmodics
+trospium,urinary antispasmodics
+valbenazine,valbenzine
+valproate,"valproic acid, antiepileptic"
+valproic acid,"valproic acid, antiepileptic"
+diazoxide,vasodialator
+hydralazine,vasodialator
+minoxidil,vasodialator
+vasopressin,"Vasopressin, Orphan"
+vasopressin (usp),Vasopressin
+midodrine,"Adrenergic, vasopressors"
+droxidopa,"dopamine, vasopressors"
+cyanocobalamin,"vit b 12vitamin b-12,  vitamin b 12"
+paricalcitol,vit d receptor agonistvitamin d receptor agonist
+doxercalciferol,"vitamin d, vit d2 analog"
+citric acid,vitamin c
+hydroxocobalamin,vitamin b-12
+ascorbic acid,vitamin c
+calcifediol,vitamin d
+calcitriol,vitamin d
+ergocalciferol,vitamin d
+niacinamide,vitamin b-3
+nicotinic acid,vitamin b-3
+retinol,vitamin a
+niacin,vitamin b-3
+pyridoxine,vitamin b-6
+riboflavin,vitamin b-2
+riboflavin 5-phosphate,vitamin b-2
+vitamin a,vitamin a
+vitamin b,"vitamins,"
+vitamin b-12,"Vitamin b-12,"
+vitamin b-1,"vitamin b-1,"
+vitamin b-2,vitamin b-2
+vitamin b-3,vitamin b-3
+vitamin b-6,"vitamin b-6,"
+vitamin b-1,"vitamin b-1,"
+vitamin c,"vitamin c,"
+vitamin d,"vitamin d,"
+vitamin d-2,vitamin d-2
+vitamin d-3,vitamin d-3
+vitamin d-3,vitamin d-4
+vitamin d-4,vitamin d-4
+vitamin d-5,"vitamin d-5,"
+vitamin e,vitaminsvitamin e
+vitamin k,Vitamin kvitamins
+vitamin k-2,"vitamin k-2,"
+vitamins a & d,vitamins
+vitamins a & d ex oint,vitamins
+cholecalciferol,vitamin d
+thiamine,vitamin b-1
+povidone,volume expander
+warfarin,warfarin
+allopurinol,xanthine oxidase inhibitor
+febuxostat,xanthine oxidase inhibitor
+ziconotide,orphan
