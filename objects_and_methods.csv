@@ -1,0 +1,38 @@
+object_name,base_class,class_type,disease_name,reciever_objects
+Anxiety,InputNode,Disease,anxiety,depression
+DJD,InputNode,Disease,arthritis,"knee replacement, hip replacement"
+Afib,InputNode,Disease,atrial Fibrillation,"OSA, alcoholism, pneumonia"
+BPH,InputNode,Disease,benign prostatic hyperplasia,
+breast_ca,InputNode,Disease,breast cancer,
+CKD,InputNode,Disease,chronic kidney disease,"DM, htn,"
+colon_ca,InputNode,Disease,colon cancer,
+CAD,InputNode,Disease,coronary artery Disease,MI
+Dementia,InputNode,Disease,dementia,
+Depression,InputNode,Disease,depression,
+DM,InputNode,Disease,diabetes mellitus,"CAD, CKD, PVD, neuropathy, nephropathy, retinopathy"
+Fibromyalgia,InputNode,Disease,fibromyalgia,
+gout,InputNode,Disease,gout,
+CHF,InputNode,Disease,heart failure,
+HepC,InputNode,Disease,hepatitis c,
+HIV,InputNode,Disease,human immumodeficiency virus,
+hld,InputNode,Disease,hyperlipidemia,CAD
+htn,InputNode,Disease,hypertension,
+hypothyroidism,InputNode,Disease,hypothyroidism,
+Inflammatory arthritis,InputNode,Disease,inflammatory arthritis,
+MS,InputNode,Disease,multiple sclerosis,
+MI,InputNode,Disease,myocardial Infarction,
+nephropathy,InputNode,Disease,nephropathy,
+neuropathy,InputNode,Disease,Neuropathy,
+Obesity,InputNode,Disease,obesity,
+osteoporosis,InputNode,Disease,osteoporosis,
+Parkinsons,InputNode,Disease,parkinsons disease,
+PCOS,InputNode,Disease,polycystic ovary syndrome,
+Prostate cancer,InputNode,Disease,prostatic neoplasms,
+retinopathy,InputNode,Disease,retinopathy,
+seizures,InputNode,Disease,seizures,
+OSA,InputNode,Disease,sleep apnea,
+Stroke,InputNode,Disease,stroke,"aphasia, dysphagia, hemiplegia, hemiperesis, weakness "
+SLE,InputNode,Disease,systemic lupus erythematosus,"nephropathy, retinopathy"
+pneumonia,InputNode,Disease,pneumonia,
+PVD,InputNode,Disease,peripheral vascular diseases,
+atherosclerosis,leaf,Sup_Disease,atherosclerosis,
