@@ -35,16 +35,16 @@ agoraphobia,agoraphobia,2
 airway obstruction,airway obstruction,2
 akathesia,akathesia,2
 akathisia,akathisia,2
-alcohol,alcohol abuse,1
-etoh,alcohol abuse,1
+alcohol,alcohol dependence,1
+etoh,alcohol dependence,1
 etoh abuse,alcohol dependence,1
-alcohol abuse,alcohol dependence,2
+alcohol dependence,alcohol dependence,2
 alcohol poisioning,alcohol poisoning,2
 alcohol poisoning,alcohol poisoning,2
 alcohol withdrawal,alcohol withdrawal,2
 alcoholic hepatitis,alcoholic hepatitis,2
 alcoholic neuropathy,alcoholic neuropathy,2
-alcoholism,alcohol abuse,2
+alcoholism,alcoholism,2
 alkalosis,alkalosis,2
 allergic conjunctivitis,allergic conjunctivitis,2
 allergic rhinitis,allergic rhinitis,2
@@ -85,7 +85,7 @@ ablation treatment,Arrhythmia,1
 arsenic poisoning,arsenic poisoning,2
 arteriosclerosis,arteriosclerosis,2
 arthritis,arthritis,2
-arthritis gouty,gout,2
+arthritis gouty,arthritis gouty,2
 arthritis infectious,arthritis infectious,2
 arthritis psoriatic,arthritis psoriatic,2
 ascariasis,ascariasis,2
@@ -199,8 +199,8 @@ chronic anemia,chronic anemia,1
 chronic angina,chronic angina,2
 chronic bronchitis,chronic bronchitis,2
 chronic fatigue disorder,chronic fatigue disorder,2
-chronic kidney disease,chronic kidney disease,2
-chronic kidney failure,chronic kidney disease,2
+chronic kidney disease,chronic kidney failure,2
+chronic kidney failure,chronic kidney failure,2
 ckd,chronic kidney failure,2
 chronic lymphocytic leukemia,chronic lymphocytic leukemia,2
 cll,chronic lymphocytic leukemia,2
@@ -578,7 +578,7 @@ kidney cancer,kidney neoplasm,2
 kidney neoplasm,kidney neoplasm,2
 kidney transplant,kidney transplant,2
 klebsiella,klebsiella,2
-TOTAL KNEE ARTHROPLASTY,Knee Replacement,1
+total knee arthroplasty,knee replacement,1
 lambert-eaton,lambert-eaton myasthenia,2
 laryngitis,laryngitis,2
 lead poisoning,lead poisoning,2
@@ -773,7 +773,7 @@ periodontal diseases,periodontal diseases,2
 peripheral nervous system neoplasm,peripheral nervous system neoplasm,2
 peripheral neuropathy,peripheral neuropathy,1
 pvd,peripheral vascular disease,1
-peripheral vascular diseases,peripheral vascular diseases,2
+peripheral vascular disease,peripheral vascular disease,2
 peritoneal cancer,peritoneal cancer,2
 peritonitis,peritonitis,2
 pertussis,pertussis,2
@@ -814,8 +814,8 @@ primary biliary cirrhosis,primary biliary cirrhosis,2
 proctocolitis,proctocolitis,2
 prostatic diseases,prostatic diseases,2
 prostatic hyperplasia,prostatic hyperplasia,2
-prostate cancer,prostatic neoplasms,2
-prostatic neoplasms,prostatic neoplasms,2
+prostate cancer,prostate cancer,2
+prostatic neoplasms,prostate cancer,2
 prostatitis,prostatitis,2
 proteus,proteus,2
 protozoal infections,protozoal infections,2
@@ -985,8 +985,8 @@ tuberculosis,tuberculosis,2
 tularemia,tularemia,2
 tumor lysis syndrome,tumor lysis syndrome,2
 turner syndrome,turner syndrome,2
-type 1 diabetes mellitus,type 1 diabetes mellitus,2
-type 2 diabetes mellitus,type 2 diabetes mellitus,2
+type 1 diabetes mellitus,diabetes mellitus 1,2
+type 2 diabetes mellitus,diabetes mellitus 2,2
 typhoid fever,typhoid fever,2
 tyrosinemia,tyrosinemia,2
 ulcerative colitis,ulcerative colitis,2
@@ -1049,13 +1049,11 @@ xerostomia,xerostomia,2
 zellweger syndrome,zellweger syndrome,2
 zollinger-ellison,zollinger-ellison,2
 zygomycosis,zygomycosis,2
-fibromyalgia, fibromyalgia,2
-nephropathy, nephropathy,2
-neuropathy, neuropathy,2
-retinopathy, retinopathy,2
-total hip arthoplasty, hip replacement, 2
-hip replacement, hip replacement
-pneumonia, pneumonia
-aphasia,aphasia,2
-hemiplegia,hemiplegia,2
-hemiparesis,hemiparesis,2
+spinal fusion,spinal fusion,2
+dermatofibroma,dermatofibroma,
+inguinal hernia,inguinal hernia,
+shingles,herpes zoster,
+appendectomy,appendectomy,
+cataract,cataract,
+foley catheter in place,indwelling foley,
+knee arthroplasty;,knee replacement,
