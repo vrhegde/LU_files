@@ -1,5 +1,5 @@
 object_name,base_class,class_type,disease_name,activate_list,inhibit_list,self_state,stack_evel,other_confirm,activated_by
-Anxiety,InputNode,Disease,anxiety,depression,,0,1,,
+anxiety,InputNode,Disease,anxiety,depression,,0,1,,
 DJD,DeepNode,Sup_Disease,arthritis,"knee replacement, hip replacement",,0,1,,
 atrial_fibrillation,InputNode,Disease,atrial fibrillation,"OSA, alcoholism, pneumonia",,0,1,,
 benign_prostatic_hyperplasia,InputNode,Disease,benign prostatic hyperplasia,,,0,0,,
