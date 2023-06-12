@@ -81,7 +81,8 @@ aortic coarctation,aortic coarctation
 aphthous stomatitis,aphthous stomatitis
 aplastic anemia,aplastic anemia
 apnea,apnea
-ablation treatment,Arrhythmia
+ablation treatment,arrhythmia
+arrhythmia,arrhythmia
 arsenic poisoning,arsenic poisoning
 arteriosclerosis,arteriosclerosis
 arthritis,arthritis
@@ -100,6 +101,7 @@ atherosclerosis,atherosclerosis
 atopic dermatitis,atopic dermatitis
 afib,atrial fibrillation
 atrial fibrillation,atrial fibrillation
+paroxysmal atrial fibrillation,atrial fibrillation
 aflutter,atrial flutter
 atrial flutter,atrial flutter
 atrial premature complexes,atrial premature complexes
@@ -169,6 +171,8 @@ cardiac arrest,cardiac arrest
 cardiogenic shock,cardiogenic shock
 cardiomyopathy dilated,cardiomyopathy dilated
 cardiovascular diseases,cardiovascular diseases
+carotid artery occlusion,carotid artery disease
+carotid endarterectomy,carotid artery disease
 catatonia,catatonia
 cellulitis,cellulitis
 central nervous system neoplasms,central nervous system neoplasms
@@ -215,7 +219,9 @@ portal hypertension,cirrhosis
 clonorchiasis,clonorchiasis
 closed head injuries,closed head injuries
 clostridium,clostridium
-clostridium difficile,clostridium difficile
+clostridium difficile,clostridium difficile colitis
+c. difficile colitis,clostridium difficile colitis
+cdiff,clostridium difficile colitis
 coccidioidomycosis,coccidioidomycosis
 collagen diseases,collagen diseases
 colon cancer,colon cancer
@@ -233,12 +239,15 @@ congestive heart failure,heart failure
 conjunctivitis,conjunctivitis
 conscious sedation,conscious sedation
 constipation,constipation
+long term anticoagulation,long term anticoagulation
 contact dermatitis,contact dermatitis
 contraceptive,contraceptive
 corneal diseases,corneal diseases
 corneal ulcer,corneal ulcer
 cad,coronary artery disease
 coronary artery disease,coronary artery disease
+coronary artery bypass graft,coronary artery bypass graft
+cabg,coronary artery bypass graft
 cough,cough
 coughing,cough
 craniocerebral trauma,craniocerebral trauma
@@ -278,7 +287,8 @@ diabetes insipidus,diabetes insipidus
 diabetes,diabetes mellitus
 diabetes mellitus,diabetes mellitus
 dm,diabetes mellitus
-diabetic foot ulcers,diabetic foot ulcers
+diabetic foot ulcers,diabetic foot ulcer
+diabetes mellitus foot ulcers,diabetic foot ulcer
 dka,diabetic ketoacidosis
 diabetic nephropathy,diabetic nephropathy
 diabetic neuropathy,diabetic neuropathy
@@ -577,6 +587,8 @@ kidney neoplasm,kidney neoplasm
 kidney transplant,kidney transplant
 klebsiella,klebsiella
 total knee arthroplasty,knee replacement
+hip arthroplasty,hip arthroplasty
+hip replacement,hip arthroplasty
 lambert-eaton,lambert-eaton myasthenia
 laryngitis,laryngitis
 lead poisoning,lead poisoning
@@ -1041,6 +1053,7 @@ west nile fever,west nile fever
 west syndrome,west syndrome
 wpw syndrome,wolf parkinson white syndrome
 wound infection,wound infection
+postoperative wound infection,postoperative wound infection
 xerostomia,xerostomia
 zellweger syndrome,zellweger syndrome
 zollinger-ellison,zollinger-ellison
